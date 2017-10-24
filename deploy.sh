@@ -1,4 +1,3 @@
-#!bash
 count=$(find  -type d -name ".git" | wc -l)
 echo $count
 if [ "$count" -gt 0 ]
