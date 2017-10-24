@@ -1,11 +1,6 @@
-language: java # don't install any environment
 script:
 - mvn clean install --settings "./settings.xml"
-- bash ./deploy.sh
+- java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar out report -tt true
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
-env:
-  global:
-  - ENCRYPTION_LABEL: "7d5c9954841a"
-  - COMMIT_AUTHOR_EMAIL: "h.malte.f@googlemail.com"
 
