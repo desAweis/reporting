@@ -33,21 +33,25 @@ public class TestCoCos {
         TestResultPrinter.printTestResults(testResults, "C:/Praktikum/report/data.json");
     }
 
-    public List<TestResult> testAllCocos(File projectDir, String... fileType){
-        GitHubHelper ghh = new GitHubHelper();
-        String gitHubRoot = ghh.getGitHubRoot(projectDir);
-        List<File> files = SearchFiles.searchFiles(projectDir, fileType);
-
+    public List<TestResult> testAllCocos(File root, String... fileType){
         List<TestResult> testResults = new LinkedList<>();
-        Log.enableFailQuick(false);
-        for(File file: files){
-            CoCoTester ccT = new CoCoTester();
-            TestResult testResult = null;
 
-            testResult = ccT.testCoCos(file.getAbsolutePath());
-            testResult.setPath(ghh.getHTMLTagOf(projectDir, file, gitHubRoot));
+        for(File projectDir: root.listFiles()) {
+            if (projectDir.isDirectory()) {
+                List<File> files = SearchFiles.searchFiles(projectDir, fileType);
+                Log.enableFailQuick(false);
+                for(File file: files){
+                    GitHubHelper ghh = new GitHubHelper();
+                    String gitHubRoot = ghh.getGitHubRoot(projectDir);
+                    CoCoTester ccT = new CoCoTester();
+                    TestResult testResult = null;
 
-            testResults.add(testResult);
+                    testResult = ccT.testCoCos(file.getAbsolutePath());
+                    testResult.setPath(ghh.getHTMLTagOf(projectDir, file, gitHubRoot));
+
+                    testResults.add(testResult);
+                }
+            }
         }
 
         return testResults;
