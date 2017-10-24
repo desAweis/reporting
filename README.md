@@ -1,6 +1,17 @@
-<html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DynTable</title>
+  <script src="jspkg-archive\jquery-3.2.1.js"></script>
+  <script src="jspkg-archive\jquery.dynatable.js"></script>
+  <link rel="stylesheet" media="all" href="css/bootstrap-2.3.2.min.css">
+  <link rel="stylesheet" media="all" href="css/application.css">
+  <link rel="stylesheet" media="all" href="css/dynatableORG.css">
+  <link rel="stylesheet" media="all" href="css/dynatable.css">
+</head>
 <body>
-
   <div class="myTableContainer">
     <table id="my-table" class="table table-bordered responsive-table">
       <thead>
@@ -31,5 +42,45 @@
       </tbody>
     </table>
   <div>
+     
+  <script>    
+    function loadJSON(file,callback) {   
+      var xobj = new XMLHttpRequest();
+      xobj.overrideMimeType('application/json');
+      xobj.open('GET', file, true); 
+      xobj.onreadystatechange = function () {
+        if (xobj.readyState == 4 && xobj.status == '200') {
+        // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+          callback(xobj.responseText);
+         }
+      };
+      xobj.send(null);  
+    }
+  
+    loadJSON("report/data.json", createTable);
+    
+    function createTable(data) {
+      data = JSON.parse(data);
+      var table = $('#my-table').dynatable({
+        features: {
+          paginate: true,
+          sort: true,
+          pushState: true,
+          search: true,
+          recordCount: false,
+          perPageSelect: true
+        },
+        dataset: {
+          records:
+            data
+        },
+        table: {
+          copyHeaderClass: true
+        }
+      }).data('dynatable');
+    };
+         
+  </script> 
+   
 </body>
 </html>
