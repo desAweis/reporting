@@ -1,6 +1,8 @@
 script:
 - mvn clean install --settings "./settings.xml"
-- java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar out report -tt true
+- bash deploy.sh
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
+- java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar out report -tt true
+
 
