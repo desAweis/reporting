@@ -1,6 +1,35 @@
 <html>
-<header><title>This is title</title></header>
 <body>
-Hello world
+
+  <div class="myTableContainer">
+    <table id="my-table" class="table table-bordered responsive-table">
+      <thead>
+        <th data-dynatable-column="Path"><div><span>Path</span></div></th>
+        <th data-dynatable-column="FileType"><div><span>FileType</span></div></th>
+        <th data-dynatable-column="Valid"><div><span>Valid</span></div></th>
+        <th data-dynatable-column="Parse"><div><span>Parse</span></div></th>
+        <th data-dynatable-column="Resolve"><div><span>Resolve</span></div></th>
+        <th data-dynatable-column="ComponentCapitalized"><div><span>Component Capitalized</span></div></th>
+        <th data-dynatable-column="ComponentInstanceNamesUnique"><div><span>Component Instance Names Unique</span></div></th>
+        <th data-dynatable-column="ComponentWithTypeParametersHasInstance"><div><span>Component With Type Parameters Has Instance</span></div></th>
+        <th data-dynatable-column="ConnectorEndPointCorrectlyQualified"><div><span>Connector End Point Correctly Qualified</span></div></th>
+        <th data-dynatable-column="DefaultParametersHaveCorrectOrder"><div><span>Default Parameters Have Correct Order</span></div></th>
+        <th data-dynatable-column="InPortUniqueSender"><div><span>In Port Unique Sender</span></div></th>
+        <th data-dynatable-column="PackageLowerCase"><div><span>Package Lower Case</span></div></th>
+        <th data-dynatable-column="ParameterNamesUnique"><div><span>Parameter Names Unique</span></div></th>
+        <th data-dynatable-column="PortTypeOnlyBooleanOrSIUnit"><div><span>Port Type Only Boolean Or SIUnit</span></div></th>
+        <th data-dynatable-column="PortUsage"><div><span>Port Usage</span></div></th>
+        <th data-dynatable-column="ReferencedSubComponentExists"><div><span>Referenced Sub Component Exists</span></div></th>
+        <th data-dynatable-column="SimpleConnectorSourceExists"><div><span>Simple Connector Source Exists</span></div></th>
+        <th data-dynatable-column="SourceTargetNumberMatch"><div><span>Source Target Number Match</span></div></th>
+        <th data-dynatable-column="SubComponentsConnected"><div><span>Sub Components Connected</span></div></th>
+        <th data-dynatable-column="TopLevelComponentHasNoInstanceName"><div><span>Top Level Component Has No Instance Name</span></div></th>
+        <th data-dynatable-column="TypeParameterNamesUnique"><div><span>Type Parameter Names Unique</span></div></th>
+        <th data-dynatable-column="AtomicComponent"><div><span>Atomic Component</span></div></th>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  <div>
 </body>
 </html>
