@@ -1,5 +1,9 @@
-package de.monticore.lang.embeddedmontiarc.reporting.TestCocos;
+package de.monticore.lang.embeddedmontiarc.reporting.testCocos;
 
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.GitHubHelper;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.SearchFiles;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.TestResult;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.TestResultPrinter;
 import de.se_rwth.commons.logging.Log;
 
 import java.io.File;
@@ -26,12 +30,7 @@ public class TestCoCos {
             }
         }
 
-
-        TestResultPrinter.printTestResults(testResults);
-    }
-
-    public List<TestResult> testAllCocos(String projectDir, String... fileType){
-        return testAllCocos(new File(projectDir), fileType);
+        TestResultPrinter.printTestResults(testResults, "C:/Praktikum/report/data.json");
     }
 
     public List<TestResult> testAllCocos(File projectDir, String... fileType){

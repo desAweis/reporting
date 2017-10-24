@@ -1,4 +1,4 @@
-package de.monticore.lang.embeddedmontiarc.reporting.TestCocos;
+package de.monticore.lang.embeddedmontiarc.reporting.testCocos;
 
 import de.monticore.ModelingLanguage;
 import de.monticore.ModelingLanguageFamily;
@@ -6,9 +6,7 @@ import de.monticore.io.paths.ModelPath;
 import de.monticore.java.lang.JavaDSLLanguage;
 import de.monticore.lang.embeddedmontiarc.LogConfig;
 import de.monticore.lang.embeddedmontiarc.cocos.EmbeddedMontiArcCoCos;
-import de.monticore.lang.embeddedmontiarc.embeddedmontiarc._ast.ASTEMACompilationUnit;
 import de.monticore.lang.embeddedmontiarc.embeddedmontiarc._ast.ASTEmbeddedMontiArcNode;
-import de.monticore.lang.embeddedmontiarc.embeddedmontiarc._parser.EmbeddedMontiArcParser;
 import de.monticore.lang.embeddedmontiarc.embeddedmontiarc._symboltable.ComponentSymbol;
 import de.monticore.lang.embeddedmontiarc.embeddedmontiarc._symboltable.EmbeddedMontiArcLanguage;
 import de.monticore.lang.embeddedmontiarc.embeddedmontiarcmath._ast.ASTEMAMCompilationUnit;
@@ -16,6 +14,8 @@ import de.monticore.lang.embeddedmontiarc.embeddedmontiarcmath._parser.EmbeddedM
 import de.monticore.lang.embeddedmontiarc.embeddedmontiarcmath._symboltable.EmbeddedMontiArcMathLanguage;
 
 import de.monticore.lang.embeddedmontiarc.reporting.cocos.AbstractCoCoTest;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.ResolveSymbolException;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.TestResult;
 import de.monticore.lang.math.math._symboltable.MathLanguage;
 import de.monticore.lang.monticar.stream._symboltable.StreamLanguage;
 import de.monticore.symboltable.GlobalScope;
@@ -23,7 +23,6 @@ import de.monticore.symboltable.Scope;
 import de.se_rwth.commons.Joiners;
 import de.se_rwth.commons.logging.Log;
 
-import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.stream.Collectors;
 

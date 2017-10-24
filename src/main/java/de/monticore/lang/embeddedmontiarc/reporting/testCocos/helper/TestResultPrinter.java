@@ -1,4 +1,4 @@
-package de.monticore.lang.embeddedmontiarc.reporting.TestCocos;
+package de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper;
 
 import de.monticore.lang.montiarc.helper.IndentPrinter;
 import org.apache.commons.io.FileUtils;
@@ -46,14 +46,23 @@ public class TestResultPrinter {
         }
     }
 
-    public static void printTestResults(List<TestResult> testResults){
+    public static void printTestResults(List<TestResult> testResults, String path){
+        try {
+            FileUtils.writeStringToFile(new File(path),
+                    printTestResults(testResults));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static String printTestResults(List<TestResult> testResults){
         IndentPrinter ip = new IndentPrinter();
         ip.println("[");
         ip.indent();
         
         boolean first = true;
         for (TestResult testResult: testResults) {
-            if(testResult == null /*testResult.isValid()*/) continue;
+            if(testResult == null) continue;
             int i = 0;
             
             if(!first)
@@ -92,18 +101,18 @@ public class TestResultPrinter {
         ip.unindent();
         ip.println("]");
 
+        return ip.getContent();
+    }
+
+    public static void printTestsEndWithTestResults(List<TestsEndWithTestResult> results, String path){
         try {
-            FileUtils.writeStringToFile(new File("C:\\Praktikum\\report\\data.json"), ip.getContent());
+            FileUtils.writeStringToFile(new File(path), printTestsEndWithTestResults(results));
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public static void printTestResult(TestResult testResult){
-
-    }
-
-    public static void printTestsEndWithTestResults(List<TestsEndWithTestResult> results){
+    public static String printTestsEndWithTestResults(List<TestsEndWithTestResult> results){
         IndentPrinter ip = new IndentPrinter();
         ip.println("[");
         ip.indent();
@@ -128,10 +137,6 @@ public class TestResultPrinter {
         ip.unindent();
         ip.println("]");
 
-        try {
-            FileUtils.writeStringToFile(new File("C:\\Praktikum\\report\\dataEWT.json"), ip.getContent());
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        return ip.getContent();
     }
 }

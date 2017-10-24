@@ -1,5 +1,9 @@
-package de.monticore.lang.embeddedmontiarc.reporting.TestCocos;
+package de.monticore.lang.embeddedmontiarc.reporting.testCocos;
 
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.GitHubHelper;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.SearchFiles;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.TestResultPrinter;
+import de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper.TestsEndWithTestResult;
 import de.se_rwth.commons.logging.Log;
 
 import java.io.File;
@@ -17,19 +21,23 @@ public class TestsEndWithTest {
         if(!root.exists())
             Log.error("Path does not exist");
 
+        TestsEndWithTest tewt = new TestsEndWithTest();
+        List<TestsEndWithTestResult> testResults = tewt.testTestsEndWithTest(root);
+
+        TestResultPrinter.printTestsEndWithTestResults(testResults, "C:/Praktikum/report/dataEWT.json");
+    }
+
+    public List<TestsEndWithTestResult> testTestsEndWithTest(File projectRoot){
         List<TestsEndWithTestResult> testResults = new LinkedList<>();
 
         GitHubHelper ghh = new GitHubHelper();
 
-        for(File project: root.listFiles()) {
+        for(File project: projectRoot.listFiles()) {
             File testDirectory = new File(project.getAbsoluteFile() + "/src/test/java");
             if(testDirectory.exists()){
                 String gitHubRoot = ghh.getGitHubRoot(project);
                 List<File> files = SearchFiles.searchFiles(testDirectory, "java");
                 for(File file: files) {
-//                    String name = file.getAbsolutePath().substring(project.getAbsolutePath().length()+1).replace("\\","/");
-//                    String gitHubLink = gitHubRoot + name;
-//                    String compName = file.getAbsolutePath().substring(path.length()+1);
                     String htmlTag = ghh.getHTMLTagOf(project, file, gitHubRoot);
                     if(file.getName().substring(0, file.getName().length() - ".java".length()).endsWith("Test"))
                         testResults.add(new TestsEndWithTestResult(htmlTag, true));
@@ -39,6 +47,6 @@ public class TestsEndWithTest {
             }
         }
 
-        TestResultPrinter.printTestsEndWithTestResults(testResults);
+        return testResults;
     }
 }

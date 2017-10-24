@@ -1,4 +1,4 @@
-package de.monticore.lang.embeddedmontiarc.reporting.TestCocos;
+package de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper;
 
 import de.se_rwth.commons.logging.Log;
 

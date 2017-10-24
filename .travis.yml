@@ -1,3 +1,4 @@
+language: generic # don't install any environment
 script:
 - mvn clean install --settings "./settings.xml"
 after_success:

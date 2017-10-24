@@ -1,4 +1,4 @@
-package de.monticore.lang.embeddedmontiarc.reporting.TestCocos;
+package de.monticore.lang.embeddedmontiarc.reporting.testCocos.helper;
 
 import java.io.File;
 import java.util.HashSet;
