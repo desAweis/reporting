@@ -1,5 +1,5 @@
 script:
-- mvn clean install --settings "./settings.xml"
+
 language: ruby
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
@@ -8,3 +8,7 @@ after_success:
 env: 
   global:
     secure: "pofwnp+5GQKDjzTgxJLAF6JWQ7JvUjQ5N3OJ5RoN09JOqHOJg/MHDPtuk5EbMnFevl8XjymCVgo6Pk3knV39JIZn/CDIMj9OuQyYf1Nv3V6eYYMQoWFdA7Ld2y6le3F8PNj7DimIlemThNk5WwGbxrgUBuT+Q6KBlZYvfVPdRE3xTqxOH1kMfthfJl6LwK0+36Nyi8CUSK2iwosFLfeYW42hVKlYvWKhO3s9ZHPsVqJvmEvTSICTSvoVj1Rmi5oXNoJgLBgbG+GCAPRfPkyq85vA23STFJ/UOCpEj7j7CuV6yLAuXTpSyRQhloQ0KfvEggkzNJ9YWx34lR40ksBjfJ7byV00dFcLBSgWhZi78u1HuWAaEygJ0k7FyRTnYyqadQp/ASRCOiXcWJTARQ8BFOF0klM7032lIkQI0d3cx+mNqdLCJbvKCITrA0DddwLLMGhaJwS1Uk+gcsfxysKrd+qm1mGsCbFgyn2NwQw+2I/8ovnfDklBoEkC/Ew6PTEkxtYoxR2pC8fsgmUxkiVnA5fBnPbqOMuhSIrEenAHt+NfUuHwu/MPM+vu0qUaR5axyeO+wAv+KGCtJ3JXZNLCQzIhsRqEwIUKS3Q+s9E7yVlZrRgFhjinqGK3aqxvNmpG1HsmX/aKHV8nT+EKhK2EnhxG9UWyNw+QpaK3cmu4IR0="
+before_install:
+  - composer config --global github-oauth.github.com "$GITHUB_TOKEN"
+install:
+  - composer install --dev --prefer-dist
