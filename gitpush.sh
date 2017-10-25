@@ -1,12 +1,11 @@
-SOURCE_BRANCH="master"
 TARGET_BRANCH="master"
 REPO=`git config remote.origin.url`
 SSH_REPO=${REPO/https:\/\/github.com\//git@github.com:}
 SHA=`git rev-parse --verify HEAD`
 git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
-ENCRYPTED_KEY_VAR="encrypted_${ENCRYPTION_LABEL}_key"
-ENCRYPTED_IV_VAR="encrypted_${ENCRYPTION_LABEL}_iv"
+ENCRYPTED_KEY_VAR="encrypted_$ENCRYPTION_LABEL_key"
+ENCRYPTED_IV_VAR="encrypted_$ENCRYPTION_LABEL_iv"
 ENCRYPTED_KEY=${!ENCRYPTED_KEY_VAR}
 ENCRYPTED_IV=${!ENCRYPTED_IV_VAR}
 openssl aes-256-cbc -K $ENCRYPTED_KEY -iv $ENCRYPTED_IV -in deploy_key.enc -out deploy_key -d
