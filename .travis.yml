@@ -1,5 +1,3 @@
-before_install:
-  - chmod +x deploy.sh
 script:
 - mvn clean install --settings "./settings.xml"
 language: ruby
