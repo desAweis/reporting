@@ -4,7 +4,6 @@ setup_git() {
 }
 
 commit_website_files() {
-  git checkout -b master
   git add report/dataEWT.json
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
