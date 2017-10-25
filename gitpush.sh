@@ -3,4 +3,4 @@ git config --global user.name "Travis CI"
 git add "report/data.json"
 git add "report/dataEWT.json"
 git commit -m "Updating JSONDATA ${SHA}"
-git push -fq origin gh-pages master > /dev/null;
+git push -fq origin master > /dev/null;
