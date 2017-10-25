@@ -1,5 +1,6 @@
 script:
 - mvn clean install --settings "./settings.xml"
+- bash ./gitpull.sh
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
 - java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar projects report/data -tt true
