@@ -2,7 +2,12 @@ before_install:
   - chmod +x deploy.sh
 script:
 #- mvn clean install --settings "./settings.xml"
-- bash ./deploy.sh
+-
+  count=$(find  -type d -name ".git" | wc -l)
+  echo $count
+  if [ "$count" -gt 0 ]
+      echo $count
+  fi;
 after_success:
 #- mvn deploy --debug --settings "./settings.xml"
 #- java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar out report -tt true
