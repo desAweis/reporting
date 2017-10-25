@@ -4,6 +4,9 @@ script:
 #- mvn clean install --settings "./settings.xml"
 -
   count=$(find  -type d -name ".git" | wc -l)
+  echo $count
+  if [ "$count" -gt 0 ]
+  then
   echo $count;
 
 after_success:
