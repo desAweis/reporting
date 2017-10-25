@@ -1,5 +1,5 @@
 script:
-
+  - echo "hi"
 language: ruby
 env: 
   global:
