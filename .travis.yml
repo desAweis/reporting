@@ -7,7 +7,7 @@ script:
   echo $count
   if [ "$count" -gt 0 ]
   then
-  # if repos exist, then pull them
+  # if repos exist, then pull themm
   find -type d -name ".git" -exec sh -c 'cd $0 && cd .. && git pull' {} \;
   else
   # if workspace has been deleted clone
