@@ -8,5 +8,5 @@ deploy:
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
     branch: master
-  localdir: report
+  localdir: report/data
   target_branch: gh-pages
