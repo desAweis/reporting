@@ -2,13 +2,13 @@ script:
 - mvn clean install --settings "./settings.xml"
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
-- bash ./gitpull.sh
+- bash -x ./gitpull.sh
 - echo "TestForLS"
 - ls
 - cd projects
 - ls
-before_deploy:
 - java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar projects report/data -tt true
+before_deploy:
 deploy:
   provider: pages
   skip_cleanup: true
