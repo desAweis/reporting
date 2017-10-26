@@ -1,14 +1,8 @@
 script:
 - mvn clean install --settings "./settings.xml"
-- echo "TESTFORGITPULL"
 - bash -x ./gitpull.sh
-- echo "TESTFORGITPULLEND"
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
-- echo "TestForLS"
-- ls
-- cd projects
-- ls
 - java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar projects report/data -tt true
 before_deploy:
 deploy:
