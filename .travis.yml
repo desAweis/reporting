@@ -3,6 +3,7 @@ script:
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
 - bash ./gitpull.sh
+- echo "TestForLS"
 - ls
 - ls/projects
 - java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar projects report/data -tt true
