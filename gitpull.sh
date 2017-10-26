@@ -1,14 +1,19 @@
-mkdir projects
+if [ ! -d "projects" ]
+then
+mkdir "projects"
+fi
 cd projects
 count=$(find  -type d -name ".git" | wc -l)
+echo $count
 if [ "$count" -gt 0 ]
 then
-    find -type d -name ".git" -exec sh -c 'cd $0 && cd .. && git pull' {} \
+# if repos exist, then pull them
+find -type d -name ".git" -exec sh -c 'cd $0 && cd .. && git pull' {} \;
 else
-    echo TESTPULLELSEPART
-    curl "https://api.github.com/orgs/EmbeddedMontiArc/repos?per_page=200" |
-        grep -e 'git_url*' |
-        cut -d \" -f 4 |
-        xargs -L1 git clone
+# if workspace has been deleted clone
+curl "https://api.github.com/orgs/EmbeddedMontiArc/repos?per_page=200" |
+  grep -e 'git_url*' |
+  cut -d \" -f 4 |
+  xargs -L1 git clone
 fi
-cd ..;
+cd..
