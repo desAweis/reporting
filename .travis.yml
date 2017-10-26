@@ -12,3 +12,6 @@ deploy:
     branch: master
   localdir: report/data
   target_branch: gh-pages
+after_deploy:
+  run:
+    - "rake cleanup"
