@@ -1,6 +1,8 @@
 script:
 - mvn clean install --settings "./settings.xml"
+- echo "TESTFORGITPULL"
 - bash -x ./gitpull.sh
+- echo "TESTFORGITPULLEND"
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
 - echo "TestForLS"
