@@ -5,7 +5,9 @@ after_success:
 - bash ./gitpull.sh
 - echo "TestForLS"
 - ls
-- ls/projects
+- cd projects
+- ls
+before_deploy:
 - java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar projects report/data -tt true
 deploy:
   provider: pages
