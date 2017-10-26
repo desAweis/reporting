@@ -1,2 +1,14 @@
 script:
+- mvn clean install --settings "./settings.xml"
 - bash newScript.sh
+after_success:
+- mvn deploy --debug --settings "./settings.xml"
+- java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar projects report/data -tt true
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master
+  localdir: report/data
+  target_branch: gh-pages
