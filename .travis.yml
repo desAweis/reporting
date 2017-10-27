@@ -2,7 +2,9 @@ script:
 - mvn clean install --settings "./settings.xml"
 - mkdir projects
 - cd projects
-- curl "https://api.github.com/orgs/EmbeddedMontiArc/repos?per_page=200" | grep -e 'git_url*' | cut -d \" -f 4 | xargs -L1 git clone
+# curl "https://api.github.com/orgs/EmbeddedMontiArc/repos?per_page=200" | grep -e 'git_url*' | cut -d \" -f 4 | xargs -L1 git clone
+- git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArc" "projects"
+- git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArcMath" "projects"
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
 - java -jar target/reporting-0.0.3-SNAPSHOT-REWORK-jar-with-dependencies.jar projects report/data -tt true
