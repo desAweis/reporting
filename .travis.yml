@@ -3,8 +3,6 @@ script:
 - git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArc" "projects/EmbeddedMontiArc"
 - git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArcMath" "projects/EmbeddedMontiArcMath"
 - mvn clean install --settings "./settings.xml"
-- mkdir projects
-- cd projects
 # curl "https://api.github.com/orgs/EmbeddedMontiArc/repos?per_page=200" | grep -e 'git_url*' | cut -d \" -f 4 | xargs -L1 git clone
 after_success:
 - mvn deploy --debug --settings "./settings.xml"
