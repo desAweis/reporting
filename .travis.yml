@@ -1,7 +1,7 @@
 script:
 - rm -rf "projects"
-- git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArc" "projects"
-- git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArcMath" "projects"
+- git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArc" "projects/EmbeddedMontiArc"
+- git clone --depth 1 "https://github.com/EmbeddedMontiArc/EmbeddedMontiArcMath" "projects/EmbeddedMontiArcMath"
 - mvn clean install --settings "./settings.xml"
 - mkdir projects
 - cd projects
