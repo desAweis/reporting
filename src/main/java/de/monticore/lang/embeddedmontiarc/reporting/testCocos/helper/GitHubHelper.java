@@ -34,12 +34,16 @@ public class GitHubHelper {
 
             String url = "";
             String branch = "";
-
-            for(String line: lines){
-                if(line.contains("Fetch URL"))
-                    url = "https://" + line.substring(line.indexOf("git://") + "git://".length(), line.lastIndexOf(".git")) + "/";
-                if(line.contains("HEAD branch"))
-                    branch = line.substring(line.indexOf("HEAD branch") + "HEAD branch: ".length());
+            try {
+                for (String line : lines) {
+                    if (line.contains("Fetch URL"))
+                        url = "https://" + line.substring(line.indexOf("git://") + "git://".length(), line.lastIndexOf(".git")) + "/";
+                    if (line.contains("HEAD branch"))
+                        branch = line.substring(line.indexOf("HEAD branch") + "HEAD branch: ".length());
+                }
+            } catch (IndexOutOfBoundsException e){
+                url = "https://github.com/EmbeddedMontiArc/" + dir.getName() + "/";
+                branch = "master";
             }
 
             return url + "blob/" + branch + "/";
