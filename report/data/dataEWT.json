@@ -124,7 +124,15 @@
     "NameEndsWithTest": "<img src='images/tick.png'/>"
   },
   {
-    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2PythonROS/blob/master/src/test/java/de/monticar/lang/monticar/generator/python/GeneratorPythonTest.java'>EMAM2PythonROS/src/test/java/de/monticar/lang/monticar/generator/python/GeneratorPythonTest.java</a>",
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2PythonROS/blob/master/src/test/java/de/monticar/lang/monticar/generator/python/EmamGeneratorTest.java'>EMAM2PythonROS/src/test/java/de/monticar/lang/monticar/generator/python/EmamGeneratorTest.java</a>",
+    "NameEndsWithTest": "<img src='images/tick.png'/>"
+  },
+  {
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2PythonROS/blob/master/src/test/java/de/monticar/lang/monticar/generator/python/MasterGeneratorTest.java'>EMAM2PythonROS/src/test/java/de/monticar/lang/monticar/generator/python/MasterGeneratorTest.java</a>",
+    "NameEndsWithTest": "<img src='images/tick.png'/>"
+  },
+  {
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2PythonROS/blob/master/src/test/java/de/monticar/lang/monticar/generator/python/RosMiddleWareGenerator/RosMiddlewareGeneratorTest.java'>EMAM2PythonROS/src/test/java/de/monticar/lang/monticar/generator/python/RosMiddleWareGenerator/RosMiddlewareGeneratorTest.java</a>",
     "NameEndsWithTest": "<img src='images/tick.png'/>"
   },
   {
