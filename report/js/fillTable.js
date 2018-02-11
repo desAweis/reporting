@@ -22,9 +22,10 @@ function createTable(data) {
       "columns": [
           { 
               "className": 'grow',
-              "data": "Path", 
+              "data": "Name", 
               sort: "string" 
           },
+          { "data": "OnlineIDE", sort:"string", type:"alt-string" },
           {
               "className":      'details-control',
               "orderable":      false,
