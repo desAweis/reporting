@@ -48,3 +48,11 @@ th {
   background: #006a72;
   color: #fff;
 }
+
+.noSVGvisible {
+  color: #700000;
+}
+
+.sVGvisible {
+  color: #1c7000;
+}
