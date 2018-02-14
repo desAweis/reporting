@@ -1,0 +1,443 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: calculateEngineAndBrakes -->
+<g transform="translate(16 20)">
+
+    <rect
+        id="80"
+        width="645"
+        height="302"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            calculateEngineAndBrakes
+    </text>
+
+</g>
+
+</svg><!-- Component: pidParams -->
+<g transform="translate(217 127)">
+    <rect
+        data-name="autopilot.motion.calculateEngineAndBrakes.pidParams"
+        id="84"
+        width="93"
+        height="175"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    pidParams
+    </text>
+</g><!-- Component: pidError -->
+<g transform="translate(76 52)">
+    <rect
+        data-name="autopilot.motion.calculateEngineAndBrakes.pidError"
+        id="82"
+        width="81"
+        height="130"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    pidError
+    </text>
+</g><!-- Component: abs1 -->
+<g transform="translate(217 52)">
+    <rect
+        data-name="autopilot.motion.calculateEngineAndBrakes.abs1"
+        id="83"
+        width="93"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    abs1
+    </text>
+</g><!-- Component: pid -->
+<g transform="translate(370 52)">
+    <rect
+        data-name="autopilot.motion.calculateEngineAndBrakes.pid"
+        id="85"
+        width="36"
+        height="250"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    pid
+    </text>
+</g><!-- Component: engineOrBrakes -->
+<g transform="translate(466 127)">
+    <rect
+        data-name="autopilot.motion.calculateEngineAndBrakes.engineOrBrakes"
+        id="86"
+        width="135"
+        height="135"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    engineOrBrakes
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><line
+    stroke-linecap="square"
+    x1="601"
+    y1="242"
+    x2="653"
+    y2="242"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="601"
+    y1="202"
+    x2="653"
+    y2="202"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="162"
+    x2="46"
+    y2="162"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="162"
+    x2="46"
+    y2="242"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="242"
+    x2="209"
+    y2="242"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="87"
+    x2="46"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="87"
+    x2="46"
+    y2="282"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="282"
+    x2="209"
+    y2="282"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="162"
+    x2="68"
+    y2="162"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="87"
+    x2="68"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="310"
+    y1="242"
+    x2="362"
+    y2="242"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="310"
+    y1="162"
+    x2="362"
+    y2="162"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="310"
+    y1="282"
+    x2="362"
+    y2="282"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="310"
+    y1="202"
+    x2="362"
+    y2="202"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="157"
+    y1="87"
+    x2="209"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="310"
+    y1="87"
+    x2="362"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="406"
+    y1="242"
+    x2="458"
+    y2="242"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<defs>
+    <!-- Small box indicating a port -->
+    <rect id="port" x="0" y="0" width="16" height="16"
+          style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
+</defs><use x="8" y="154" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="164" transform="rotate(0,4,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="8" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="89" transform="rotate(0,4,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="653" y="234" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="673" y="244" transform="rotate(0,673,244)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="653" y="194" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="673" y="204" transform="rotate(0,673,204)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="209" y="234" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="228" y="244" transform="rotate(0,228,244)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="209" y="274" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="228" y="284" transform="rotate(0,228,284)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="302" y="234" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="299" y="244" transform="rotate(0,299,244)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="302" y="154" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="299" y="164" transform="rotate(0,299,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="302" y="274" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="299" y="284" transform="rotate(0,299,284)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="302" y="194" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="299" y="204" transform="rotate(0,299,204)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="68" y="154" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="87" y="164" transform="rotate(0,87,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="68" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="87" y="89" transform="rotate(0,87,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="149" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="146" y="89" transform="rotate(0,146,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="209" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="228" y="89" transform="rotate(0,228,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="302" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="299" y="89" transform="rotate(0,299,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="362" y="234" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="381" y="244" transform="rotate(0,381,244)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="362" y="154" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="381" y="164" transform="rotate(0,381,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="362" y="274" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="381" y="284" transform="rotate(0,381,284)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="362" y="194" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="381" y="204" transform="rotate(0,381,204)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="362" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="381" y="89" transform="rotate(0,381,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="398" y="234" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="395" y="244" transform="rotate(0,395,244)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="458" y="234" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="477" y="244" transform="rotate(0,477,244)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="593" y="234" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="590" y="244" transform="rotate(0,590,244)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="593" y="194" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="590" y="204" transform="rotate(0,590,204)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+
+</svg>
