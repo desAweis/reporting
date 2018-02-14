@@ -5,9 +5,9 @@
 <g transform="translate(85 20)">
 
     <rect
-        id="80"
+        id="78"
         width="504"
-        height="362"
+        height="347"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: bumpControl -->
-<g transform="translate(288 107)">
+<g transform="translate(288 132)">
     <rect
         data-name="bumperBotEmergency.bumperBot.controller.bumpControl"
-        id="83"
+        id="80"
         width="171"
         height="135"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -44,10 +44,10 @@
     bumpControl
     </text>
 </g><!-- Component: timer -->
-<g transform="translate(150 107)">
+<g transform="translate(150 132)">
     <rect
         data-name="bumperBotEmergency.bumperBot.controller.timer"
-        id="82"
+        id="79"
         width="78"
         height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="459"
-    y1="182"
+    y1="207"
     x2="524"
-    y2="182"
+    y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -82,9 +82,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="182"
+    y1="207"
     x2="524"
-    y2="302"
+    y2="327"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -92,9 +92,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="302"
+    y1="327"
     x2="228"
-    y2="302"
+    y2="327"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -102,9 +102,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="302"
+    y1="327"
     x2="228"
-    y2="182"
+    y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -112,9 +112,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="182"
+    y1="207"
     x2="451"
-    y2="182"
+    y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -123,9 +123,9 @@
 <line
     stroke-linecap="square"
     x1="459"
-    y1="182"
+    y1="207"
     x2="524"
-    y2="182"
+    y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -133,9 +133,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="182"
+    y1="207"
     x2="524"
-    y2="302"
+    y2="327"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -143,9 +143,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="302"
+    y1="327"
     x2="228"
-    y2="302"
+    y2="327"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -153,9 +153,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="302"
+    y1="327"
     x2="228"
-    y2="182"
+    y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -163,9 +163,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="182"
+    y1="207"
     x2="451"
-    y2="182"
+    y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -174,9 +174,9 @@
 <line
     stroke-linecap="square"
     x1="85"
-    y1="342"
+    y1="72"
     x2="77"
-    y2="342"
+    y2="72"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -185,9 +185,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="182"
+    y1="207"
     x2="280"
-    y2="182"
+    y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -197,33 +197,33 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="77" y="334" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="73" y="344" transform="rotate(0,73,344)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="77" y="64" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="73" y="74" transform="rotate(0,73,74)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 bumpPressed
 </text>
 
-<use x="280" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="299" y="184" transform="rotate(0,299,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="280" y="199" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="299" y="209" transform="rotate(0,299,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 timerSig
 </text>
 
-<use x="451" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="448" y="184" transform="rotate(0,448,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="451" y="199" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="448" y="209" transform="rotate(0,448,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 leftMotorCmd
 </text>
 
-<use x="451" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="448" y="184" transform="rotate(0,448,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="451" y="199" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="448" y="209" transform="rotate(0,448,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rightMotorCmd
 </text>
 
-<use x="220" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="217" y="184" transform="rotate(0,217,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="220" y="199" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="217" y="209" transform="rotate(0,217,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 signal
 </text>
 
-<use x="142" y="134" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="161" y="144" transform="rotate(0,161,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="142" y="159" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="161" y="169" transform="rotate(0,161,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 cmd
 </text>
 

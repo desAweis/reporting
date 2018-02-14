@@ -7,7 +7,7 @@
     <rect
         id="70"
         width="740"
-        height="377"
+        height="337"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,12 +23,12 @@
 </g>
 
 </svg><!-- Component: dummyA -->
-<g transform="translate(76 162)">
+<g transform="translate(76 52)">
     <rect
         data-name="testManuelSchrick.split.clique.dummyA"
         id="72"
         width="75"
-        height="215"
+        height="285"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,12 +44,12 @@
     dummyA
     </text>
 </g><!-- Component: dummyB -->
-<g transform="translate(211 52)">
+<g transform="translate(211 107)">
     <rect
         data-name="testManuelSchrick.split.clique.dummyB"
         id="73"
         width="75"
-        height="245"
+        height="190"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -65,12 +65,12 @@
     dummyB
     </text>
 </g><!-- Component: dummyC -->
-<g transform="translate(351 107)">
+<g transform="translate(351 162)">
     <rect
         data-name="testManuelSchrick.split.clique.dummyC"
         id="74"
         width="75"
-        height="150"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -86,12 +86,12 @@
     dummyC
     </text>
 </g><!-- Component: dummyD -->
-<g transform="translate(486 162)">
+<g transform="translate(486 52)">
     <rect
         data-name="testManuelSchrick.split.clique.dummyD"
         id="75"
         width="75"
-        height="215"
+        height="165"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -107,12 +107,12 @@
     dummyD
     </text>
 </g><!-- Component: dummyE -->
-<g transform="translate(621 52)">
+<g transform="translate(621 162)">
     <rect
         data-name="testManuelSchrick.split.clique.dummyE"
         id="76"
         width="75"
-        height="165"
+        height="135"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -177,9 +177,9 @@
 <line
     stroke-linecap="square"
     x1="151"
-    y1="357"
+    y1="87"
     x2="478"
-    y2="357"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -199,9 +199,9 @@
 <line
     stroke-linecap="square"
     x1="286"
-    y1="277"
+    y1="142"
     x2="478"
-    y2="277"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -210,9 +210,9 @@
 <line
     stroke-linecap="square"
     x1="286"
-    y1="87"
+    y1="277"
     x2="613"
-    y2="87"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -232,9 +232,9 @@
 <line
     stroke-linecap="square"
     x1="426"
-    y1="142"
+    y1="237"
     x2="613"
-    y2="142"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -265,8 +265,8 @@
 
 </text>
 
-<use x="143" y="349" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="140" y="359" transform="rotate(0,140,359)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="143" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="140" y="89" transform="rotate(0,140,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
@@ -280,13 +280,13 @@
 
 </text>
 
-<use x="278" y="269" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="275" y="279" transform="rotate(0,275,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="278" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="275" y="144" transform="rotate(0,275,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="278" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="275" y="89" transform="rotate(0,275,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="278" y="269" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="275" y="279" transform="rotate(0,275,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
@@ -305,18 +305,18 @@
 
 </text>
 
-<use x="418" y="134" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="415" y="144" transform="rotate(0,415,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="418" y="229" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="415" y="239" transform="rotate(0,415,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="478" y="349" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="497" y="359" transform="rotate(0,497,359)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="478" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="497" y="89" transform="rotate(0,497,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="478" y="269" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="497" y="279" transform="rotate(0,497,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="478" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="497" y="144" transform="rotate(0,497,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
@@ -330,13 +330,13 @@
 
 </text>
 
-<use x="613" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="632" y="89" transform="rotate(0,632,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="613" y="269" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="632" y="279" transform="rotate(0,632,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="613" y="134" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="632" y="144" transform="rotate(0,632,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="613" y="229" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="632" y="239" transform="rotate(0,632,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
