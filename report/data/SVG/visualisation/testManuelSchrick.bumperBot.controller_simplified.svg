@@ -7,7 +7,7 @@
     <rect
         id="63"
         width="352"
-        height="202"
+        height="242"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -28,7 +28,7 @@
         data-name="testManuelSchrick.bumperBot.controller.bumpControl"
         id="64"
         width="108"
-        height="110"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -126,7 +126,7 @@
     x1="333"
     y1="142"
     x2="333"
-    y2="182"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -134,7 +134,17 @@
 <line
     stroke-linecap="square"
     x1="333"
-    y1="182"
+    y1="222"
+    x2="51"
+    y2="222"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="222"
     x2="51"
     y2="182"
     style="stroke:rgb(0, 0,0);
@@ -145,18 +155,8 @@
     stroke-linecap="square"
     x1="51"
     y1="182"
-    x2="51"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="51"
-    y1="87"
     x2="73"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -164,9 +164,9 @@
 <line
     stroke-linecap="square"
     x1="73"
-    y1="87"
+    y1="182"
     x2="81"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
