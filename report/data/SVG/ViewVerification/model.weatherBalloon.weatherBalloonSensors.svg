@@ -65,10 +65,10 @@
     gps1
     </text>
 </g><!-- Component: gps2 -->
-<g transform="translate(509 147)">
+<g transform="translate(509 357)">
     <rect
         data-name="model.weatherBalloon.weatherBalloonSensors.gps2"
-        id="38"
+        id="40"
         width="126"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -86,10 +86,10 @@
     gps2
     </text>
 </g><!-- Component: temp1 -->
-<g transform="translate(509 357)">
+<g transform="translate(509 432)">
     <rect
         data-name="model.weatherBalloon.weatherBalloonSensors.temp1"
-        id="40"
+        id="41"
         width="126"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -107,10 +107,10 @@
     temp1
     </text>
 </g><!-- Component: humid1 -->
-<g transform="translate(509 432)">
+<g transform="translate(509 147)">
     <rect
         data-name="model.weatherBalloon.weatherBalloonSensors.humid1"
-        id="41"
+        id="38"
         width="126"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -179,17 +179,6 @@
 <line
     stroke-linecap="square"
     x1="449"
-    y1="182"
-    x2="501"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="449"
     y1="392"
     x2="501"
     y2="392"
@@ -211,6 +200,17 @@
 />
 <line
     stroke-linecap="square"
+    x1="449"
+    y1="182"
+    x2="501"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
     x1="635"
     y1="257"
     x2="700"
@@ -224,7 +224,7 @@
     x1="700"
     y1="257"
     x2="700"
-    y2="127"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -232,9 +232,9 @@
 <line
     stroke-linecap="square"
     x1="700"
-    y1="127"
+    y1="87"
     x2="135"
-    y2="127"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -242,7 +242,7 @@
 <line
     stroke-linecap="square"
     x1="135"
-    y1="127"
+    y1="87"
     x2="135"
     y2="297"
     style="stroke:rgb(0, 0,0);
@@ -263,57 +263,6 @@
 <line
     stroke-linecap="square"
     x1="635"
-    y1="182"
-    x2="665"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="665"
-    y1="182"
-    x2="665"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="665"
-    y1="87"
-    x2="170"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="170"
-    y1="87"
-    x2="170"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="170"
-    y1="182"
-    x2="222"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="635"
     y1="392"
     x2="700"
     y2="392"
@@ -326,7 +275,7 @@
     x1="700"
     y1="392"
     x2="700"
-    y2="547"
+    y2="587"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -334,9 +283,9 @@
 <line
     stroke-linecap="square"
     x1="700"
-    y1="547"
+    y1="587"
     x2="135"
-    y2="547"
+    y2="587"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -344,7 +293,7 @@
 <line
     stroke-linecap="square"
     x1="135"
-    y1="547"
+    y1="587"
     x2="135"
     y2="507"
     style="stroke:rgb(0, 0,0);
@@ -377,7 +326,7 @@
     x1="665"
     y1="467"
     x2="665"
-    y2="587"
+    y2="547"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -385,9 +334,9 @@
 <line
     stroke-linecap="square"
     x1="665"
-    y1="587"
+    y1="547"
     x2="170"
-    y2="587"
+    y2="547"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -395,9 +344,9 @@
 <line
     stroke-linecap="square"
     x1="170"
-    y1="587"
+    y1="547"
     x2="170"
-    y2="467"
+    y2="337"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -405,9 +354,60 @@
 <line
     stroke-linecap="square"
     x1="170"
-    y1="467"
+    y1="337"
     x2="222"
-    y2="467"
+    y2="337"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="635"
+    y1="182"
+    x2="665"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="665"
+    y1="182"
+    x2="665"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="665"
+    y1="127"
+    x2="170"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="170"
+    y1="127"
+    x2="170"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="170"
+    y1="182"
+    x2="222"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -452,18 +452,18 @@ dataAntennaOut
 sensorRequest1
 </text>
 
-<use x="441" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="438" y="184" transform="rotate(0,438,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-sensorRequest2
-</text>
-
 <use x="441" y="384" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="438" y="394" transform="rotate(0,438,394)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-sensorRequest3
+sensorRequest2
 </text>
 
 <use x="441" y="459" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="438" y="469" transform="rotate(0,438,469)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+sensorRequest3
+</text>
+
+<use x="441" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="438" y="184" transform="rotate(0,438,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 sensorRequest4
 </text>
 
@@ -472,18 +472,18 @@ sensorRequest4
 sensorResponse1
 </text>
 
-<use x="222" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="241" y="184" transform="rotate(0,241,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="222" y="499" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="241" y="509" transform="rotate(0,241,509)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 sensorResponse2
 </text>
 
-<use x="222" y="499" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="241" y="509" transform="rotate(0,241,509)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="222" y="329" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="241" y="339" transform="rotate(0,241,339)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 sensorResponse3
 </text>
 
-<use x="222" y="459" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="241" y="469" transform="rotate(0,241,469)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="222" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="241" y="184" transform="rotate(0,241,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 sensorResponse4
 </text>
 
@@ -494,16 +494,6 @@ sensorIn
 
 <use x="627" y="249" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="624" y="259" transform="rotate(0,624,259)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-sensorOut
-</text>
-
-<use x="501" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="520" y="184" transform="rotate(0,520,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-sensorIn
-</text>
-
-<use x="627" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="624" y="184" transform="rotate(0,624,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 sensorOut
 </text>
 
@@ -524,6 +514,16 @@ sensorIn
 
 <use x="627" y="459" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="624" y="469" transform="rotate(0,624,469)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+sensorOut
+</text>
+
+<use x="501" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="520" y="184" transform="rotate(0,520,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+sensorIn
+</text>
+
+<use x="627" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="624" y="184" transform="rotate(0,624,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 sensorOut
 </text>
 

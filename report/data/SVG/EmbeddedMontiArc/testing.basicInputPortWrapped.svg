@@ -51,9 +51,9 @@
 </defs><line
     stroke-linecap="square"
     x1="61"
-    y1="87"
+    y1="127"
     x2="113"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -62,9 +62,9 @@
 <line
     stroke-linecap="square"
     x1="61"
-    y1="127"
+    y1="87"
     x2="113"
-    y2="127"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -74,23 +74,23 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="53" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="49" y="89" transform="rotate(0,49,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-basicIn1
-</text>
-
-<use x="53" y="119" xlink:href="#port" />
+</defs><use x="53" y="119" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="49" y="129" transform="rotate(0,49,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-basicIn2
+basicIn1
 </text>
 
-<use x="113" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="132" y="89" transform="rotate(0,132,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-basicIn1
+<use x="53" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="49" y="89" transform="rotate(0,49,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+basicIn2
 </text>
 
 <use x="113" y="119" xlink:href="#port" />
 <text text-anchor="start" alignment-baseline="middle" x="132" y="129" transform="rotate(0,132,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+basicIn1
+</text>
+
+<use x="113" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="132" y="89" transform="rotate(0,132,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 basicIn2
 </text>
 

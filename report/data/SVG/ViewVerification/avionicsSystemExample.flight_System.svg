@@ -7,7 +7,7 @@
     <rect
         id="32"
         width="1902"
-        height="487"
+        height="447"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -91,7 +91,7 @@
         data-name="avionicsSystemExample.flight_System.fM"
         id="34"
         width="321"
-        height="190"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -249,7 +249,7 @@
     x1="1883"
     y1="252"
     x2="1883"
-    y2="427"
+    y2="387"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -257,17 +257,7 @@
 <line
     stroke-linecap="square"
     x1="1883"
-    y1="427"
-    x2="51"
-    y2="427"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="51"
-    y1="427"
+    y1="387"
     x2="51"
     y2="387"
     style="stroke:rgb(0, 0,0);
@@ -278,8 +268,18 @@
     stroke-linecap="square"
     x1="51"
     y1="387"
+    x2="51"
+    y2="292"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="292"
     x2="138"
-    y2="387"
+    y2="292"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -311,7 +311,7 @@
     x1="896"
     y1="347"
     x2="896"
-    y2="467"
+    y2="427"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -319,9 +319,9 @@
 <line
     stroke-linecap="square"
     x1="896"
-    y1="467"
+    y1="427"
     x2="86"
-    y2="467"
+    y2="427"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -329,7 +329,7 @@
 <line
     stroke-linecap="square"
     x1="86"
-    y1="467"
+    y1="427"
     x2="86"
     y2="347"
     style="stroke:rgb(0, 0,0);
@@ -434,8 +434,8 @@ New_Page_Request_To_FM
 New_Page_Content_from_FM
 </text>
 
-<use x="138" y="379" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="157" y="389" transform="rotate(0,157,389)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="138" y="284" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="157" y="294" transform="rotate(0,157,294)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_From_PCM
 </text>
 
