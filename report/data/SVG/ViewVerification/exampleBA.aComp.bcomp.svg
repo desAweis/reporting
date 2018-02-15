@@ -5,7 +5,7 @@
 <g transform="translate(31 20)">
 
     <rect
-        id="75"
+        id="78"
         width="320"
         height="227"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,9 +26,9 @@
 <g transform="translate(96 92)">
     <rect
         data-name="exampleBA.aComp.bcomp.ccomp"
-        id="76"
+        id="79"
         width="63"
-        height="55"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -47,7 +47,7 @@
 <g transform="translate(219 92)">
     <rect
         data-name="exampleBA.aComp.bcomp.dcomp3"
-        id="77"
+        id="80"
         width="72"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"

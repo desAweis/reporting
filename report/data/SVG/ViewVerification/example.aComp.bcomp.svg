@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: ccomp -->
-<g transform="translate(96 132)">
+<g transform="translate(96 92)">
     <rect
         data-name="example.aComp.bcomp.ccomp"
         id="69"
@@ -51,7 +51,17 @@
 </defs><line
     stroke-linecap="square"
     x1="159"
-    y1="167"
+    y1="127"
+    x2="189"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="189"
+    y1="127"
     x2="189"
     y2="167"
     style="stroke:rgb(0, 0,0);
@@ -62,26 +72,6 @@
     stroke-linecap="square"
     x1="189"
     y1="167"
-    x2="189"
-    y2="112"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="112"
-    x2="66"
-    y2="112"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="66"
-    y1="112"
     x2="66"
     y2="167"
     style="stroke:rgb(0, 0,0);
@@ -92,8 +82,18 @@
     stroke-linecap="square"
     x1="66"
     y1="167"
+    x2="66"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="66"
+    y1="127"
     x2="151"
-    y2="167"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -119,8 +119,8 @@
 in1
 </text>
 
-<use x="151" y="159" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="148" y="169" transform="rotate(0,148,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="151" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="148" y="129" transform="rotate(0,148,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 

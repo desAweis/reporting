@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="21"
+        id="22"
         width="634"
         height="202"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,7 +26,7 @@
 <g transform="translate(240 107)">
     <rect
         data-name="robotArmExample.rotationalJoint.body"
-        id="24"
+        id="25"
         width="57"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -49,7 +49,7 @@
 <g transform="translate(483 107)">
     <rect
         data-name="robotArmExample.rotationalJoint.cylinder"
-        id="26"
+        id="27"
         width="102"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -67,12 +67,12 @@
     cylinder
     </text>
 </g><!-- Component: sensor -->
-<g transform="translate(357 52)">
+<g transform="translate(357 107)">
     <rect
         data-name="robotArmExample.rotationalJoint.sensor"
-        id="25"
+        id="26"
         width="66"
-        height="110"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -91,7 +91,7 @@
 <g transform="translate(81 107)">
     <rect
         data-name="robotArmExample.rotationalJoint.servoValve"
-        id="23"
+        id="24"
         width="99"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -116,9 +116,9 @@
 </defs><line
     stroke-linecap="square"
     x1="423"
-    y1="87"
+    y1="182"
     x2="642"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -150,7 +150,7 @@
     x1="615"
     y1="142"
     x2="615"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -158,9 +158,9 @@
 <line
     stroke-linecap="square"
     x1="615"
-    y1="182"
+    y1="87"
     x2="51"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -168,7 +168,7 @@
 <line
     stroke-linecap="square"
     x1="51"
-    y1="182"
+    y1="87"
     x2="51"
     y2="142"
     style="stroke:rgb(0, 0,0);
@@ -212,8 +212,8 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="642" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="662" y="89" transform="rotate(0,662,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="642" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="662" y="184" transform="rotate(0,662,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 val2
 </text>
 
@@ -242,8 +242,8 @@ val1
 val2
 </text>
 
-<use x="415" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="412" y="89" transform="rotate(0,412,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="415" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="412" y="184" transform="rotate(0,412,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 val1
 </text>
 

@@ -7,7 +7,7 @@
     <rect
         id="0"
         width="427"
-        height="162"
+        height="147"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: environment -->
-<g transform="translate(81 107)">
+<g transform="translate(81 52)">
     <rect
         data-name="pumpStationExample.pumpStation.environment"
         id="2"
@@ -46,7 +46,7 @@
     environment
     </text>
 </g><!-- Component: pumpingSystem -->
-<g transform="translate(249 107)">
+<g transform="translate(249 52)">
     <rect
         data-name="pumpStationExample.pumpStation.pumpingSystem"
         id="3"
@@ -76,9 +76,9 @@
 </defs><line
     stroke-linecap="square"
     x1="189"
-    y1="142"
+    y1="87"
     x2="241"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -86,9 +86,9 @@
 <line
     stroke-linecap="square"
     x1="241"
-    y1="142"
+    y1="87"
     x2="249"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -97,17 +97,7 @@
 <line
     stroke-linecap="square"
     x1="378"
-    y1="142"
-    x2="408"
-    y2="142"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="408"
-    y1="142"
+    y1="87"
     x2="408"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -118,6 +108,26 @@
     stroke-linecap="square"
     x1="408"
     y1="87"
+    x2="408"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="408"
+    y1="127"
+    x2="51"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="127"
     x2="51"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -128,18 +138,8 @@
     stroke-linecap="square"
     x1="51"
     y1="87"
-    x2="51"
-    y2="142"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="51"
-    y1="142"
     x2="73"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -147,9 +147,9 @@
 <line
     stroke-linecap="square"
     x1="73"
-    y1="142"
+    y1="87"
     x2="81"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
