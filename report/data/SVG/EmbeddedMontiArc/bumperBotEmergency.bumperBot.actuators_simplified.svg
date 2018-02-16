@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="112"
+        id="118"
         width="213"
         height="182"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: leftMotor -->
-<g transform="translate(76 52)">
+<g transform="translate(76 127)">
     <rect
         data-name="bumperBotEmergency.bumperBot.actuators.leftMotor"
-        id="114"
+        id="121"
         width="93"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -44,10 +44,10 @@
     leftMotor
     </text>
 </g><!-- Component: rightMotor -->
-<g transform="translate(76 127)">
+<g transform="translate(76 52)">
     <rect
         data-name="bumperBotEmergency.bumperBot.actuators.rightMotor"
-        id="115"
+        id="120"
         width="93"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="16"
-    y1="162"
+    y1="87"
     x2="68"
-    y2="162"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -82,9 +82,9 @@
 <line
     stroke-linecap="square"
     x1="68"
-    y1="162"
+    y1="87"
     x2="76"
-    y2="162"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -93,9 +93,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="162"
     x2="68"
-    y2="87"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -103,9 +103,9 @@
 <line
     stroke-linecap="square"
     x1="68"
-    y1="87"
+    y1="162"
     x2="76"
-    y2="87"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

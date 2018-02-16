@@ -1,0 +1,188 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: tests -->
+<g transform="translate(31 20)">
+
+    <rect
+        id="10"
+        width="1926"
+        height="107"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            tests
+    </text>
+
+</g>
+
+</svg><!-- Component: calculateEngineAndBrakes -->
+<g transform="translate(334 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.motion.tests.calculateEngineAndBrakes"
+        id="13"
+        width="210"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+            onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
+            onclick="window.open('testManuelSchrick.autopilot.motion.tests.calculateEngineAndBrakes.html','_parent',false);parent.openFileInEditor('/autopilot/motion/tests/calculateEngineAndBrakes.ema');"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    calculateEngineAndBrakes
+    </text>
+</g><!-- Component: calculatePidError -->
+<g transform="translate(1399 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.motion.tests.calculatePidError"
+        id="17"
+        width="147"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    calculatePidError
+    </text>
+</g><!-- Component: calculatePidParameters -->
+<g transform="translate(604 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.motion.tests.calculatePidParameters"
+        id="14"
+        width="219"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    calculatePidParameters
+    </text>
+</g><!-- Component: decideEngineOrBrakes -->
+<g transform="translate(91 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.motion.tests.decideEngineOrBrakes"
+        id="12"
+        width="183"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    decideEngineOrBrakes
+    </text>
+</g><!-- Component: keepDirection -->
+<g transform="translate(1153 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.motion.tests.keepDirection"
+        id="16"
+        width="186"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+            onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
+            onclick="window.open('testManuelSchrick.autopilot.motion.tests.keepDirection.html','_parent',false);parent.openFileInEditor('/autopilot/motion/tests/keepDirection.ema');"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    keepDirection
+    </text>
+</g><!-- Component: motionPlanning -->
+<g transform="translate(883 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.motion.tests.motionPlanning"
+        id="15"
+        width="210"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+            onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
+            onclick="window.open('testManuelSchrick.autopilot.motion.tests.motionPlanning.html','_parent',false);parent.openFileInEditor('/autopilot/motion/tests/motionPlanning.ema');"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    motionPlanning
+    </text>
+</g><!-- Component: steeringAngleCorrection -->
+<g transform="translate(1606 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.motion.tests.steeringAngleCorrection"
+        id="18"
+        width="291"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    steeringAngleCorrection
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><defs>
+    <!-- Small box indicating a port -->
+    <rect id="port" x="0" y="0" width="16" height="16"
+          style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
+</defs>
+</svg>
