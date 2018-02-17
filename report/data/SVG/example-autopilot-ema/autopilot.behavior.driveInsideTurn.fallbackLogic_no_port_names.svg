@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="172"
+        id="175"
         width="723"
         height="632"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,7 +26,7 @@
 <g transform="translate(436 497)">
     <rect
         data-name="autopilot.behavior.driveInsideTurn.fallbackLogic.calculateSignedDistanceToLine"
-        id="176"
+        id="179"
         width="243"
         height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -47,7 +47,7 @@
 <g transform="translate(76 202)">
     <rect
         data-name="autopilot.behavior.driveInsideTurn.fallbackLogic.calculateNext"
-        id="174"
+        id="177"
         width="111"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -68,7 +68,7 @@
 <g transform="translate(247 107)">
     <rect
         data-name="autopilot.behavior.driveInsideTurn.fallbackLogic.driveToPosition"
-        id="175"
+        id="178"
         width="129"
         height="230"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -113,6 +113,15 @@
             stroke-width:2;
 "
 />
+    <text
+        x="387"
+        y="270"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="436"
@@ -154,6 +163,15 @@
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="357"
+        y="266"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="376"
@@ -164,6 +182,15 @@
             stroke-width:2;
 "
 />
+    <text
+        x="387"
+        y="310"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    1
+    </text>
 <line
     stroke-linecap="square"
     x1="436"
@@ -205,20 +232,38 @@
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="357"
+        y="306"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    1
+    </text>
 <line
     stroke-linecap="square"
     x1="220"
-    y1="277"
+    y1="222"
     x2="76"
-    y2="277"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+    <text
+        x="231"
+        y="215"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="76"
-    y1="277"
+    y1="222"
     x2="76"
     y2="572"
     style="stroke:rgb(0, 0,0);
@@ -256,20 +301,38 @@
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="417"
+        y="521"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="220"
-    y1="182"
+    y1="127"
     x2="76"
-    y2="182"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+    <text
+        x="231"
+        y="120"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    1
+    </text>
 <line
     stroke-linecap="square"
     x1="76"
-    y1="182"
+    y1="127"
     x2="76"
     y2="572"
     style="stroke:rgb(0, 0,0);
@@ -307,20 +370,38 @@
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="417"
+        y="561"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    1
+    </text>
 <line
     stroke-linecap="square"
     x1="220"
-    y1="142"
+    y1="87"
     x2="76"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+    <text
+        x="231"
+        y="80"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    2
+    </text>
 <line
     stroke-linecap="square"
     x1="76"
-    y1="142"
+    y1="87"
     x2="76"
     y2="572"
     style="stroke:rgb(0, 0,0);
@@ -358,20 +439,38 @@
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="417"
+        y="601"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    2
+    </text>
 <line
     stroke-linecap="square"
     x1="220"
-    y1="277"
+    y1="222"
     x2="76"
-    y2="277"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+    <text
+        x="231"
+        y="215"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="76"
-    y1="277"
+    y1="222"
     x2="76"
     y2="397"
     style="stroke:rgb(0, 0,0);
@@ -393,7 +492,7 @@
     x1="376"
     y1="397"
     x2="376"
-    y2="277"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -401,28 +500,46 @@
 <line
     stroke-linecap="square"
     x1="376"
-    y1="277"
+    y1="222"
     x2="212"
-    y2="277"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="201"
+        y="211"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="220"
-    y1="182"
+    y1="127"
     x2="76"
-    y2="182"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+    <text
+        x="231"
+        y="120"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    1
+    </text>
 <line
     stroke-linecap="square"
     x1="76"
-    y1="182"
+    y1="127"
     x2="76"
     y2="397"
     style="stroke:rgb(0, 0,0);
@@ -444,7 +561,7 @@
     x1="376"
     y1="397"
     x2="376"
-    y2="182"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -452,28 +569,46 @@
 <line
     stroke-linecap="square"
     x1="376"
-    y1="182"
+    y1="127"
     x2="212"
-    y2="182"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="201"
+        y="116"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    1
+    </text>
 <line
     stroke-linecap="square"
     x1="220"
-    y1="142"
+    y1="87"
     x2="76"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+    <text
+        x="231"
+        y="80"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    2
+    </text>
 <line
     stroke-linecap="square"
     x1="76"
-    y1="142"
+    y1="87"
     x2="76"
     y2="397"
     style="stroke:rgb(0, 0,0);
@@ -495,7 +630,7 @@
     x1="376"
     y1="397"
     x2="376"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -503,28 +638,46 @@
 <line
     stroke-linecap="square"
     x1="376"
-    y1="142"
+    y1="87"
     x2="212"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="201"
+        y="76"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    2
+    </text>
 <line
     stroke-linecap="square"
     x1="220"
-    y1="277"
+    y1="222"
     x2="76"
-    y2="277"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+    <text
+        x="231"
+        y="215"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="76"
-    y1="277"
+    y1="222"
     x2="76"
     y2="397"
     style="stroke:rgb(0, 0,0);
@@ -546,7 +699,7 @@
     x1="376"
     y1="397"
     x2="376"
-    y2="277"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -554,14 +707,23 @@
 <line
     stroke-linecap="square"
     x1="376"
-    y1="277"
+    y1="222"
     x2="212"
-    y2="277"
+    y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
             "
 />
+    <text
+        x="201"
+        y="211"
+        alignment-baseline="middle"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    0
+    </text>
 <line
     stroke-linecap="square"
     x1="187"
