@@ -5,7 +5,7 @@
 <g transform="translate(31 20)">
 
     <rect
-        id="35"
+        id="34"
         width="306"
         height="332"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,9 +26,9 @@
 <g transform="translate(91 52)">
     <rect
         data-name="testManuelSchrick.verticalLines.verticalLines.left1"
-        id="37"
+        id="35"
         width="63"
-        height="280"
+        height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,10 +44,10 @@
     left1
     </text>
 </g><!-- Component: right1 -->
-<g transform="translate(214 277)">
+<g transform="translate(214 52)">
     <rect
         data-name="testManuelSchrick.verticalLines.verticalLines.right1"
-        id="41"
+        id="36"
         width="63"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -65,10 +65,10 @@
     right1
     </text>
 </g><!-- Component: right2 -->
-<g transform="translate(214 52)">
+<g transform="translate(214 277)">
     <rect
         data-name="testManuelSchrick.verticalLines.verticalLines.right2"
-        id="38"
+        id="39"
         width="63"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -89,7 +89,7 @@
 <g transform="translate(214 202)">
     <rect
         data-name="testManuelSchrick.verticalLines.verticalLines.right3"
-        id="40"
+        id="38"
         width="63"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -110,7 +110,7 @@
 <g transform="translate(214 127)">
     <rect
         data-name="testManuelSchrick.verticalLines.verticalLines.right4"
-        id="39"
+        id="37"
         width="63"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -135,6 +135,17 @@
 </defs><line
     stroke-linecap="square"
     x1="277"
+    y1="87"
+    x2="329"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="277"
     y1="312"
     x2="307"
     y2="312"
@@ -155,17 +166,6 @@
 <line
     stroke-linecap="square"
     x1="307"
-    y1="87"
-    x2="329"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="277"
     y1="87"
     x2="329"
     y2="87"
@@ -240,6 +240,17 @@
     stroke-linecap="square"
     x1="154"
     y1="87"
+    x2="206"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="154"
+    y1="87"
     x2="184"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -262,17 +273,6 @@
     y1="312"
     x2="206"
     y2="312"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="154"
-    y1="87"
-    x2="206"
-    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -343,9 +343,9 @@
 <line
     stroke-linecap="square"
     x1="31"
-    y1="312"
+    y1="87"
     x2="83"
-    y2="312"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -355,8 +355,8 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="23" y="304" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="19" y="314" transform="rotate(0,19,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="23" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="19" y="89" transform="rotate(0,19,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in0
 </text>
 
@@ -365,23 +365,13 @@ in0
 out0
 </text>
 
-<use x="83" y="304" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="102" y="314" transform="rotate(0,102,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="83" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="102" y="89" transform="rotate(0,102,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in1
 </text>
 
 <use x="146" y="79" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="143" y="89" transform="rotate(0,143,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-out1
-</text>
-
-<use x="206" y="304" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="225" y="314" transform="rotate(0,225,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-in1
-</text>
-
-<use x="269" y="304" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="266" y="314" transform="rotate(0,266,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 
@@ -392,6 +382,16 @@ in1
 
 <use x="269" y="79" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="266" y="89" transform="rotate(0,266,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+out1
+</text>
+
+<use x="206" y="304" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="225" y="314" transform="rotate(0,225,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in1
+</text>
+
+<use x="269" y="304" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="266" y="314" transform="rotate(0,266,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 
