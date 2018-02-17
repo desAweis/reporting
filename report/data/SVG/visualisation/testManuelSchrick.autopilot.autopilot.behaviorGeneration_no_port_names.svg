@@ -5,9 +5,9 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="207"
+        id="206"
         width="470"
-        height="937"
+        height="977"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: trimPath -->
-<g transform="translate(346 107)">
+<g transform="translate(346 427)">
     <rect
         data-name="testManuelSchrick.autopilot.autopilot.behaviorGeneration.trimPath"
-        id="210"
+        id="208"
         width="75"
         height="135"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -44,10 +44,10 @@
     trimPath
     </text>
 </g><!-- Component: calcMotionCmds -->
-<g transform="translate(146 282)">
+<g transform="translate(81 642)">
     <rect
         data-name="testManuelSchrick.autopilot.autopilot.behaviorGeneration.calcMotionCmds"
-        id="209"
+        id="207"
         width="135"
         height="175"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -73,9 +73,213 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="281"
+    x1="216"
+    y1="677"
+    x2="246"
+    y2="677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="677"
+    x2="246"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="957"
+    x2="51"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="957"
+    x2="51"
+    y2="677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="677"
+    x2="208"
+    y2="677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="717"
+    x2="246"
+    y2="717"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="717"
+    x2="246"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="957"
+    x2="51"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="957"
+    x2="51"
+    y2="717"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="717"
+    x2="208"
+    y2="717"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="757"
+    x2="246"
+    y2="757"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="757"
+    x2="246"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="957"
+    x2="51"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="957"
+    x2="51"
+    y2="757"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="757"
+    x2="208"
+    y2="757"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="797"
+    x2="246"
+    y2="797"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="797"
+    x2="246"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="246"
+    y1="957"
+    x2="51"
+    y2="957"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="957"
+    x2="51"
+    y2="797"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="797"
+    x2="208"
+    y2="797"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="189"
     y1="317"
-    x2="311"
+    x2="46"
     y2="317"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -83,29 +287,29 @@
 />
 <line
     stroke-linecap="square"
-    x1="311"
+    x1="46"
     y1="317"
-    x2="311"
-    y2="597"
+    x2="46"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="311"
-    y1="597"
-    x2="86"
-    y2="597"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="86"
-    y1="597"
-    x2="86"
+    x1="216"
+    y1="247"
+    x2="216"
     y2="317"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
@@ -113,9 +317,9 @@
 />
 <line
     stroke-linecap="square"
-    x1="86"
+    x1="216"
     y1="317"
-    x2="273"
+    x2="181"
     y2="317"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -124,9 +328,9 @@
 />
 <line
     stroke-linecap="square"
-    x1="281"
+    x1="189"
     y1="357"
-    x2="311"
+    x2="46"
     y2="357"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -134,29 +338,29 @@
 />
 <line
     stroke-linecap="square"
-    x1="311"
+    x1="46"
     y1="357"
-    x2="311"
-    y2="597"
+    x2="46"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="311"
-    y1="597"
-    x2="86"
-    y2="597"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="86"
-    y1="597"
-    x2="86"
+    x1="216"
+    y1="247"
+    x2="216"
     y2="357"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
@@ -164,9 +368,9 @@
 />
 <line
     stroke-linecap="square"
-    x1="86"
+    x1="216"
     y1="357"
-    x2="273"
+    x2="181"
     y2="357"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -175,9 +379,9 @@
 />
 <line
     stroke-linecap="square"
-    x1="281"
+    x1="189"
     y1="397"
-    x2="311"
+    x2="46"
     y2="397"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -185,29 +389,29 @@
 />
 <line
     stroke-linecap="square"
-    x1="311"
+    x1="46"
     y1="397"
-    x2="311"
-    y2="597"
+    x2="46"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="311"
-    y1="597"
-    x2="86"
-    y2="597"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="86"
-    y1="597"
-    x2="86"
+    x1="216"
+    y1="247"
+    x2="216"
     y2="397"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
@@ -215,9 +419,9 @@
 />
 <line
     stroke-linecap="square"
-    x1="86"
+    x1="216"
     y1="397"
-    x2="273"
+    x2="181"
     y2="397"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -226,9 +430,9 @@
 />
 <line
     stroke-linecap="square"
-    x1="281"
+    x1="189"
     y1="437"
-    x2="311"
+    x2="46"
     y2="437"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -236,29 +440,29 @@
 />
 <line
     stroke-linecap="square"
-    x1="311"
+    x1="46"
     y1="437"
-    x2="311"
-    y2="597"
+    x2="46"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="311"
-    y1="597"
-    x2="86"
-    y2="597"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="86"
-    y1="597"
-    x2="86"
+    x1="216"
+    y1="247"
+    x2="216"
     y2="437"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
@@ -266,9 +470,9 @@
 />
 <line
     stroke-linecap="square"
-    x1="86"
+    x1="216"
     y1="437"
-    x2="273"
+    x2="181"
     y2="437"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -278,9 +482,9 @@
 <line
     stroke-linecap="square"
     x1="189"
-    y1="302"
+    y1="477"
     x2="46"
-    y2="302"
+    y2="477"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -288,9 +492,9 @@
 <line
     stroke-linecap="square"
     x1="46"
-    y1="302"
+    y1="477"
     x2="46"
-    y2="757"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -298,29 +502,29 @@
 <line
     stroke-linecap="square"
     x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
+    y1="247"
+    x2="216"
+    y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="302"
+    x1="216"
+    y1="247"
+    x2="216"
+    y2="477"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="421"
-    y1="302"
+    x1="216"
+    y1="477"
     x2="181"
-    y2="302"
+    y2="477"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -329,518 +533,8 @@
 <line
     stroke-linecap="square"
     x1="189"
-    y1="342"
-    x2="46"
-    y2="342"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="342"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="342"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="342"
-    x2="181"
-    y2="342"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="382"
-    x2="46"
-    y2="382"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="382"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="382"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="382"
-    x2="181"
-    y2="382"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="422"
-    x2="46"
-    y2="422"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="422"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="422"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="422"
-    x2="181"
-    y2="422"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="462"
-    x2="46"
-    y2="462"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="462"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="462"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="462"
-    x2="181"
-    y2="462"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="302"
-    x2="46"
-    y2="302"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="302"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="302"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="302"
-    x2="181"
-    y2="302"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="342"
-    x2="46"
-    y2="342"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="342"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="342"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="342"
-    x2="181"
-    y2="342"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="262"
-    x2="46"
-    y2="262"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="262"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="262"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="262"
-    x2="181"
-    y2="262"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="222"
-    x2="46"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="222"
-    x2="46"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="757"
-    x2="421"
-    y2="757"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="757"
-    x2="421"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="222"
-    x2="181"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="222"
-    x2="451"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="451"
-    y1="222"
-    x2="451"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="451"
-    y1="87"
-    x2="316"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="316"
-    y1="87"
-    x2="316"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="316"
-    y1="222"
-    x2="413"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
-    y1="262"
-    x2="451"
-    y2="262"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="451"
-    y1="262"
-    x2="451"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="451"
-    y1="87"
-    x2="316"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="316"
-    y1="87"
-    x2="316"
-    y2="262"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:5;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="316"
-    y1="262"
-    x2="413"
-    y2="262"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="421"
     y1="317"
-    x2="451"
+    x2="46"
     y2="317"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -848,10 +542,214 @@
 />
 <line
     stroke-linecap="square"
-    x1="451"
+    x1="46"
     y1="317"
+    x2="46"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="247"
+    x2="216"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="317"
+    x2="181"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="189"
+    y1="357"
+    x2="46"
+    y2="357"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="357"
+    x2="46"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="247"
+    x2="216"
+    y2="357"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="357"
+    x2="181"
+    y2="357"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="189"
+    y1="277"
+    x2="46"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="277"
+    x2="46"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="247"
+    x2="216"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="277"
+    x2="181"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="189"
+    y1="237"
+    x2="46"
+    y2="237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="237"
+    x2="46"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="247"
+    x2="216"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="247"
+    x2="216"
+    y2="237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="216"
+    y1="237"
+    x2="181"
+    y2="237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="421"
+    y1="462"
     x2="451"
-    y2="87"
+    y2="462"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="451"
+    y1="462"
+    x2="451"
+    y2="677"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -859,29 +757,131 @@
 <line
     stroke-linecap="square"
     x1="451"
-    y1="87"
-    x2="316"
-    y2="87"
+    y1="677"
+    x2="286"
+    y2="677"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="316"
-    y1="87"
-    x2="316"
-    y2="317"
+    x1="286"
+    y1="677"
+    x2="286"
+    y2="462"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
 />
 <line
     stroke-linecap="square"
-    x1="316"
-    y1="317"
+    x1="286"
+    y1="462"
     x2="413"
-    y2="317"
+    y2="462"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="421"
+    y1="502"
+    x2="451"
+    y2="502"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="451"
+    y1="502"
+    x2="451"
+    y2="677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="451"
+    y1="677"
+    x2="286"
+    y2="677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="286"
+    y1="677"
+    x2="286"
+    y2="502"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="286"
+    y1="502"
+    x2="413"
+    y2="502"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="421"
+    y1="542"
+    x2="451"
+    y2="542"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="451"
+    y1="542"
+    x2="451"
+    y2="677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="451"
+    y1="677"
+    x2="286"
+    y2="677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="286"
+    y1="677"
+    x2="286"
+    y2="542"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:5;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="286"
+    y1="542"
+    x2="413"
+    y2="542"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -891,73 +891,73 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="8" y="589" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="599" transform="rotate(0,4,599)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="8" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="89" transform="rotate(0,4,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="8" y="629" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="639" transform="rotate(0,4,639)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="129" transform="rotate(0,4,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="8" y="789" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="799" transform="rotate(0,4,799)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="279" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="289" transform="rotate(0,4,289)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="8" y="829" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="839" transform="rotate(0,4,839)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="319" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="329" transform="rotate(0,4,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="8" y="669" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="679" transform="rotate(0,4,679)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="159" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="169" transform="rotate(0,4,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="8" y="709" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="719" transform="rotate(0,4,719)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="199" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="209" transform="rotate(0,4,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="8" y="749" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="759" transform="rotate(0,4,759)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="239" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="249" transform="rotate(0,4,249)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="413" y="214" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="410" y="224" transform="rotate(0,410,224)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="413" y="454" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="410" y="464" transform="rotate(0,410,464)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="413" y="254" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="410" y="264" transform="rotate(0,410,264)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="413" y="494" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="410" y="504" transform="rotate(0,410,504)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="413" y="309" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="410" y="319" transform="rotate(0,410,319)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="413" y="534" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="410" y="544" transform="rotate(0,410,544)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="273" y="309" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="270" y="319" transform="rotate(0,270,319)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="208" y="669" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="205" y="679" transform="rotate(0,205,679)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="273" y="349" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="270" y="359" transform="rotate(0,270,359)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="208" y="709" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="205" y="719" transform="rotate(0,205,719)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="273" y="389" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="270" y="399" transform="rotate(0,270,399)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="208" y="749" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="205" y="759" transform="rotate(0,205,759)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="273" y="429" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="270" y="439" transform="rotate(0,270,439)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="208" y="789" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="205" y="799" transform="rotate(0,205,799)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 

@@ -7,7 +7,7 @@
     <rect
         id="32"
         width="1902"
-        height="447"
+        height="487"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -91,7 +91,7 @@
         data-name="avionicsSystemExample.flight_System.fM"
         id="34"
         width="321"
-        height="150"
+        height="190"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -107,7 +107,7 @@
     fM
     </text>
 </g><!-- Component: fD -->
-<g transform="translate(527 312)">
+<g transform="translate(527 352)">
     <rect
         data-name="avionicsSystemExample.flight_System.fD"
         id="35"
@@ -249,7 +249,7 @@
     x1="1883"
     y1="252"
     x2="1883"
-    y2="387"
+    y2="427"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -257,9 +257,9 @@
 <line
     stroke-linecap="square"
     x1="1883"
-    y1="387"
+    y1="427"
     x2="51"
-    y2="387"
+    y2="427"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -267,9 +267,9 @@
 <line
     stroke-linecap="square"
     x1="51"
-    y1="387"
+    y1="427"
     x2="51"
-    y2="292"
+    y2="332"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -277,9 +277,9 @@
 <line
     stroke-linecap="square"
     x1="51"
-    y1="292"
+    y1="332"
     x2="138"
-    y2="292"
+    y2="332"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -288,9 +288,9 @@
 <line
     stroke-linecap="square"
     x1="467"
-    y1="347"
+    y1="387"
     x2="519"
-    y2="347"
+    y2="387"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -299,9 +299,9 @@
 <line
     stroke-linecap="square"
     x1="836"
-    y1="347"
+    y1="387"
     x2="896"
-    y2="347"
+    y2="387"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -309,9 +309,9 @@
 <line
     stroke-linecap="square"
     x1="896"
-    y1="347"
+    y1="387"
     x2="896"
-    y2="427"
+    y2="467"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -319,9 +319,9 @@
 <line
     stroke-linecap="square"
     x1="896"
-    y1="427"
+    y1="467"
     x2="86"
-    y2="427"
+    y2="467"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -329,9 +329,9 @@
 <line
     stroke-linecap="square"
     x1="86"
-    y1="427"
+    y1="467"
     x2="86"
-    y2="347"
+    y2="292"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -339,9 +339,9 @@
 <line
     stroke-linecap="square"
     x1="86"
-    y1="347"
+    y1="292"
     x2="138"
-    y2="347"
+    y2="292"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -434,8 +434,8 @@ New_Page_Request_To_FM
 New_Page_Content_from_FM
 </text>
 
-<use x="138" y="284" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="157" y="294" transform="rotate(0,157,294)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="138" y="324" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="157" y="334" transform="rotate(0,157,334)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_From_PCM
 </text>
 
@@ -444,23 +444,23 @@ New_Page_Request_From_PCM
 New_Page_Content_To_PCM
 </text>
 
-<use x="459" y="339" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="456" y="349" transform="rotate(0,456,349)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="459" y="379" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="456" y="389" transform="rotate(0,456,389)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_To_FD
 </text>
 
-<use x="138" y="339" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="157" y="349" transform="rotate(0,157,349)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="138" y="284" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="157" y="294" transform="rotate(0,157,294)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_from_FD
 </text>
 
-<use x="519" y="339" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="538" y="349" transform="rotate(0,538,349)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="519" y="379" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="538" y="389" transform="rotate(0,538,389)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_From_FM
 </text>
 
-<use x="828" y="339" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="825" y="349" transform="rotate(0,825,349)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="828" y="379" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="825" y="389" transform="rotate(0,825,389)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_To_FM
 </text>
 

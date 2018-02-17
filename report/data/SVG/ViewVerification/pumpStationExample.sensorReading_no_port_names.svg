@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: pumpSensorReader -->
-<g transform="translate(76 202)">
+<g transform="translate(76 277)">
     <rect
         data-name="pumpStationExample.sensorReading.pumpSensorReader"
-        id="66"
+        id="67"
         width="162"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -44,10 +44,10 @@
     pumpSensorReader
     </text>
 </g><!-- Component: userButtonReader -->
-<g transform="translate(76 277)">
+<g transform="translate(76 127)">
     <rect
         data-name="pumpStationExample.sensorReading.userButtonReader"
-        id="67"
+        id="65"
         width="162"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -65,10 +65,10 @@
     userButtonReader
     </text>
 </g><!-- Component: tankSensorReader -->
-<g transform="translate(76 127)">
+<g transform="translate(76 202)">
     <rect
         data-name="pumpStationExample.sensorReading.tankSensorReader"
-        id="65"
+        id="66"
         width="162"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -114,9 +114,9 @@
 </defs><line
     stroke-linecap="square"
     x1="238"
-    y1="237"
+    y1="312"
     x2="290"
-    y2="237"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -125,9 +125,9 @@
 <line
     stroke-linecap="square"
     x1="238"
-    y1="312"
+    y1="162"
     x2="290"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -147,19 +147,8 @@
 <line
     stroke-linecap="square"
     x1="238"
-    y1="162"
-    x2="290"
-    y2="162"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="16"
     y1="237"
-    x2="68"
+    x2="290"
     y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -183,6 +172,17 @@
     y1="162"
     x2="68"
     y2="162"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="237"
+    x2="68"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -203,12 +203,7 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="8" y="304" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="314" transform="rotate(0,4,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-
-</text>
-
-<use x="8" y="154" xlink:href="#port" />
+</defs><use x="8" y="154" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="4" y="164" transform="rotate(0,4,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
@@ -218,13 +213,13 @@
 
 </text>
 
-<use x="8" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="4" y="89" transform="rotate(0,4,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="304" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="314" transform="rotate(0,4,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="290" y="229" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="310" y="239" transform="rotate(0,310,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="8" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="4" y="89" transform="rotate(0,4,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
@@ -233,23 +228,18 @@
 
 </text>
 
-<use x="290" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="310" y="89" transform="rotate(0,310,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-
-</text>
-
 <use x="290" y="154" xlink:href="#port" />
 <text text-anchor="start" alignment-baseline="middle" x="310" y="164" transform="rotate(0,310,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="68" y="229" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="87" y="239" transform="rotate(0,87,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="290" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="310" y="89" transform="rotate(0,310,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="230" y="229" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="227" y="239" transform="rotate(0,227,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="290" y="229" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="310" y="239" transform="rotate(0,310,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
@@ -270,6 +260,16 @@
 
 <use x="230" y="154" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="227" y="164" transform="rotate(0,227,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="68" y="229" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="87" y="239" transform="rotate(0,87,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="230" y="229" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="227" y="239" transform="rotate(0,227,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 

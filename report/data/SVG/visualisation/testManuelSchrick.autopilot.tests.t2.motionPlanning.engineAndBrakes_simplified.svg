@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="594"
+        id="588"
         width="622"
         height="377"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: pidParams -->
-<g transform="translate(81 282)">
+<g transform="translate(81 322)">
     <rect
         data-name="testManuelSchrick.autopilot.tests.t2.motionPlanning.engineAndBrakes.pidParams"
-        id="596"
+        id="590"
         width="93"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -47,7 +47,7 @@
 <g transform="translate(81 132)">
     <rect
         data-name="testManuelSchrick.autopilot.tests.t2.motionPlanning.engineAndBrakes.pidError"
-        id="595"
+        id="589"
         width="93"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -68,7 +68,7 @@
 <g transform="translate(234 187)">
     <rect
         data-name="testManuelSchrick.autopilot.tests.t2.motionPlanning.engineAndBrakes.abs1"
-        id="597"
+        id="591"
         width="48"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -89,7 +89,7 @@
 <g transform="translate(342 187)">
     <rect
         data-name="testManuelSchrick.autopilot.tests.t2.motionPlanning.engineAndBrakes.pid"
-        id="598"
+        id="592"
         width="36"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -110,7 +110,7 @@
 <g transform="translate(438 187)">
     <rect
         data-name="testManuelSchrick.autopilot.tests.t2.motionPlanning.engineAndBrakes.engineOrBrakes"
-        id="599"
+        id="593"
         width="135"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -147,7 +147,7 @@
     x1="603"
     y1="222"
     x2="603"
-    y2="317"
+    y2="302"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -155,9 +155,9 @@
 <line
     stroke-linecap="square"
     x1="603"
-    y1="317"
+    y1="302"
     x2="378"
-    y2="317"
+    y2="302"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -165,7 +165,7 @@
 <line
     stroke-linecap="square"
     x1="378"
-    y1="317"
+    y1="302"
     x2="378"
     y2="222"
     style="stroke:rgb(0, 0,0);
@@ -217,17 +217,7 @@
 <line
     stroke-linecap="square"
     x1="174"
-    y1="317"
-    x2="234"
-    y2="317"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="234"
-    y1="317"
+    y1="357"
     x2="234"
     y2="357"
     style="stroke:rgb(0, 0,0);
@@ -238,6 +228,26 @@
     stroke-linecap="square"
     x1="234"
     y1="357"
+    x2="234"
+    y2="302"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="234"
+    y1="302"
+    x2="51"
+    y2="302"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="302"
     x2="51"
     y2="357"
     style="stroke:rgb(0, 0,0);
@@ -248,18 +258,8 @@
     stroke-linecap="square"
     x1="51"
     y1="357"
-    x2="51"
-    y2="317"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="51"
-    y1="317"
     x2="166"
-    y2="317"
+    y2="357"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -267,9 +267,9 @@
 <line
     stroke-linecap="square"
     x1="166"
-    y1="317"
+    y1="357"
     x2="174"
-    y2="317"
+    y2="357"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

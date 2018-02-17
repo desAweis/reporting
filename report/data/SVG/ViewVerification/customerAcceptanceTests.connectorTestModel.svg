@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="202"
-    y1="87"
+    y1="127"
     x2="254"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -83,9 +83,9 @@
 <line
     stroke-linecap="square"
     x1="202"
-    y1="127"
+    y1="87"
     x2="254"
-    y2="127"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -95,23 +95,23 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="194" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="191" y="89" transform="rotate(0,191,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="194" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="191" y="129" transform="rotate(0,191,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 
-<use x="194" y="119" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="191" y="129" transform="rotate(0,191,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="194" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="191" y="89" transform="rotate(0,191,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out2
-</text>
-
-<use x="254" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="273" y="89" transform="rotate(0,273,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-in1
 </text>
 
 <use x="254" y="119" xlink:href="#port" />
 <text text-anchor="start" alignment-baseline="middle" x="273" y="129" transform="rotate(0,273,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in1
+</text>
+
+<use x="254" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="273" y="89" transform="rotate(0,273,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in2
 </text>
 
