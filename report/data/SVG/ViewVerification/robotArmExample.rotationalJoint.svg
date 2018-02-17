@@ -1,0 +1,266 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: rotationalJoint -->
+<g transform="translate(16 20)">
+
+    <rect
+        id="21"
+        width="634"
+        height="202"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            rotationalJoint
+    </text>
+
+</g>
+
+</svg><!-- Component: body -->
+<g transform="translate(240 107)">
+    <rect
+        data-name="robotArmExample.rotationalJoint.body"
+        id="24"
+        width="57"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+            onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
+            onclick="window.open('robotArmExample.rotationalJoint.body.html','_parent',false);parent.openFileInEditor('/rotationalJoint/body.ema');"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    body
+    </text>
+</g><!-- Component: cylinder -->
+<g transform="translate(483 107)">
+    <rect
+        data-name="robotArmExample.rotationalJoint.cylinder"
+        id="26"
+        width="102"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    cylinder
+    </text>
+</g><!-- Component: sensor -->
+<g transform="translate(357 52)">
+    <rect
+        data-name="robotArmExample.rotationalJoint.sensor"
+        id="25"
+        width="66"
+        height="110"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    sensor
+    </text>
+</g><!-- Component: servoValve -->
+<g transform="translate(81 107)">
+    <rect
+        data-name="robotArmExample.rotationalJoint.servoValve"
+        id="23"
+        width="99"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    servoValve
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><line
+    stroke-linecap="square"
+    x1="423"
+    y1="87"
+    x2="642"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="297"
+    y1="142"
+    x2="349"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="585"
+    y1="142"
+    x2="615"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="615"
+    y1="142"
+    x2="615"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="615"
+    y1="182"
+    x2="51"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="182"
+    x2="51"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="142"
+    x2="73"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="423"
+    y1="142"
+    x2="475"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="180"
+    y1="142"
+    x2="232"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<defs>
+    <!-- Small box indicating a port -->
+    <rect id="port" x="0" y="0" width="16" height="16"
+          style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
+</defs><use x="642" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="662" y="89" transform="rotate(0,662,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+val2
+</text>
+
+<use x="289" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="286" y="144" transform="rotate(0,286,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+val1
+</text>
+
+<use x="232" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="251" y="144" transform="rotate(0,251,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+f2
+</text>
+
+<use x="475" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="494" y="144" transform="rotate(0,494,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+portName0
+</text>
+
+<use x="577" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="574" y="144" transform="rotate(0,574,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+val1
+</text>
+
+<use x="415" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="412" y="144" transform="rotate(0,412,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+val2
+</text>
+
+<use x="415" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="412" y="89" transform="rotate(0,412,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+val1
+</text>
+
+<use x="349" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="368" y="144" transform="rotate(0,368,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+f1
+</text>
+
+<use x="73" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="92" y="144" transform="rotate(0,92,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+f2
+</text>
+
+<use x="172" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="169" y="144" transform="rotate(0,169,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+portName0
+</text>
+
+
+</svg>
