@@ -7,7 +7,7 @@
     <rect
         id="0"
         width="768"
-        height="392"
+        height="337"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -26,9 +26,9 @@
 <g transform="translate(76 147)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.isDriveToFirstPosition"
-        id="1"
+        id="2"
         width="180"
-        height="55"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,12 +44,12 @@
     isDriveToFirstPosition
     </text>
 </g><!-- Component: driveToFirstPosition -->
-<g transform="translate(316 52)">
+<g transform="translate(316 242)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.driveToFirstPosition"
-        id="2"
+        id="4"
         width="165"
-        height="150"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -65,10 +65,10 @@
     driveToFirstPosition
     </text>
 </g><!-- Component: d2v1 -->
-<g transform="translate(541 52)">
+<g transform="translate(541 242)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.d2v1"
-        id="4"
+        id="6"
         width="48"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -86,7 +86,7 @@
     d2v1
     </text>
 </g><!-- Component: followTrajectory -->
-<g transform="translate(316 242)">
+<g transform="translate(316 52)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.followTrajectory"
         id="3"
@@ -107,7 +107,7 @@
     followTrajectory
     </text>
 </g><!-- Component: d2v2 -->
-<g transform="translate(541 337)">
+<g transform="translate(541 52)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.d2v2"
         id="5"
@@ -131,9 +131,9 @@
 <g transform="translate(649 52)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.selector"
-        id="6"
+        id="7"
         width="75"
-        height="340"
+        height="285"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -156,9 +156,9 @@
 </defs><line
     stroke-linecap="square"
     x1="724"
-    y1="127"
+    y1="317"
     x2="776"
-    y2="127"
+    y2="317"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -166,9 +166,9 @@
 <line
     stroke-linecap="square"
     x1="776"
-    y1="127"
+    y1="317"
     x2="784"
-    y2="127"
+    y2="317"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -177,9 +177,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="182"
+    y1="277"
     x2="68"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -187,9 +187,112 @@
 <line
     stroke-linecap="square"
     x1="68"
-    y1="182"
+    y1="277"
     x2="76"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="256"
+    y1="182"
+    x2="286"
     y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="286"
+    y1="182"
+    x2="286"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="286"
+    y1="277"
+    x2="308"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="308"
+    y1="277"
+    x2="316"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="277"
+    x2="46"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="277"
+    x2="46"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="317"
+    x2="308"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="308"
+    y1="317"
+    x2="316"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="481"
+    y1="277"
+    x2="533"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="533"
+    y1="277"
+    x2="541"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -219,9 +322,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="182"
+    y1="277"
     x2="46"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -229,7 +332,7 @@
 <line
     stroke-linecap="square"
     x1="46"
-    y1="182"
+    y1="277"
     x2="46"
     y2="127"
     style="stroke:rgb(0, 0,0);
@@ -293,109 +396,6 @@
     x1="286"
     y1="182"
     x2="286"
-    y2="277"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="286"
-    y1="277"
-    x2="308"
-    y2="277"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="308"
-    y1="277"
-    x2="316"
-    y2="277"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="16"
-    y1="182"
-    x2="46"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="182"
-    x2="46"
-    y2="317"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="46"
-    y1="317"
-    x2="308"
-    y2="317"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="308"
-    y1="317"
-    x2="316"
-    y2="317"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="481"
-    y1="372"
-    x2="533"
-    y2="372"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="533"
-    y1="372"
-    x2="541"
-    y2="372"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="256"
-    y1="182"
-    x2="286"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="286"
-    y1="182"
-    x2="286"
     y2="222"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -417,6 +417,48 @@
     y1="222"
     x2="649"
     y2="222"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="481"
+    y1="317"
+    x2="641"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="641"
+    y1="317"
+    x2="649"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="589"
+    y1="277"
+    x2="641"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="641"
+    y1="277"
+    x2="649"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -459,48 +501,6 @@
     y1="87"
     x2="649"
     y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="481"
-    y1="317"
-    x2="641"
-    y2="317"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="641"
-    y1="317"
-    x2="649"
-    y2="317"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="589"
-    y1="372"
-    x2="641"
-    y2="372"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="641"
-    y1="372"
-    x2="649"
-    y2="372"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
