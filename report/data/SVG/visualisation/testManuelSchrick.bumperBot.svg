@@ -7,7 +7,7 @@
     <rect
         id="12"
         width="609"
-        height="147"
+        height="162"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: sensors -->
-<g transform="translate(76 52)">
+<g transform="translate(76 107)">
     <rect
         data-name="testManuelSchrick.bumperBot.sensors"
         id="14"
@@ -51,7 +51,7 @@
         data-name="testManuelSchrick.bumperBot.controller"
         id="15"
         width="171"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
@@ -74,7 +74,7 @@
         data-name="testManuelSchrick.bumperBot.actuators"
         id="16"
         width="102"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
@@ -99,9 +99,9 @@
 </defs><line
     stroke-linecap="square"
     x1="172"
-    y1="87"
+    y1="142"
     x2="224"
-    y2="87"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -110,9 +110,9 @@
 <line
     stroke-linecap="square"
     x1="403"
-    y1="127"
+    y1="142"
     x2="455"
-    y2="127"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -133,13 +133,13 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="164" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="161" y="89" transform="rotate(0,161,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="164" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="161" y="144" transform="rotate(0,161,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 bumpPressed
 </text>
 
-<use x="224" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="243" y="89" transform="rotate(0,243,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="224" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="243" y="144" transform="rotate(0,243,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 bumpPressed
 </text>
 
@@ -148,8 +148,8 @@ bumpPressed
 rightMotorCmd
 </text>
 
-<use x="395" y="119" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="392" y="129" transform="rotate(0,392,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="395" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="392" y="144" transform="rotate(0,392,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 leftMotorCmd
 </text>
 
@@ -158,8 +158,8 @@ leftMotorCmd
 rightMotorCmd
 </text>
 
-<use x="455" y="119" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="474" y="129" transform="rotate(0,474,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="455" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="474" y="144" transform="rotate(0,474,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 leftMotorCmd
 </text>
 
