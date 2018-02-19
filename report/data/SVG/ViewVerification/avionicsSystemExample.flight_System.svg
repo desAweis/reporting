@@ -7,7 +7,7 @@
     <rect
         id="32"
         width="1598"
-        height="487"
+        height="467"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: pilot_Display -->
-<g transform="translate(1286 147)">
+<g transform="translate(1286 332)">
     <rect
         data-name="avionicsSystemExample.flight_System.pilot_Display"
         id="38"
@@ -44,7 +44,7 @@
     pilot_Display
     </text>
 </g><!-- Component: pilot_DM -->
-<g transform="translate(899 147)">
+<g transform="translate(899 277)">
     <rect
         data-name="avionicsSystemExample.flight_System.pilot_DM"
         id="37"
@@ -65,10 +65,10 @@
     pilot_DM
     </text>
 </g><!-- Component: pCM -->
-<g transform="translate(527 202)">
+<g transform="translate(527 222)">
     <rect
         data-name="avionicsSystemExample.flight_System.pCM"
-        id="35"
+        id="36"
         width="312"
         height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -86,12 +86,12 @@
     pCM
     </text>
 </g><!-- Component: fM -->
-<g transform="translate(146 257)">
+<g transform="translate(146 147)">
     <rect
         data-name="avionicsSystemExample.flight_System.fM"
         id="34"
         width="321"
-        height="150"
+        height="130"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -107,10 +107,10 @@
     fM
     </text>
 </g><!-- Component: fD -->
-<g transform="translate(527 352)">
+<g transform="translate(527 147)">
     <rect
         data-name="avionicsSystemExample.flight_System.fD"
-        id="36"
+        id="35"
         width="312"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -135,9 +135,9 @@
 </defs><line
     stroke-linecap="square"
     x1="1484"
-    y1="182"
+    y1="367"
     x2="1514"
-    y2="182"
+    y2="367"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -145,9 +145,9 @@
 <line
     stroke-linecap="square"
     x1="1514"
-    y1="182"
+    y1="367"
     x2="1514"
-    y2="87"
+    y2="407"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -155,9 +155,9 @@
 <line
     stroke-linecap="square"
     x1="1514"
-    y1="87"
+    y1="407"
     x2="839"
-    y2="87"
+    y2="407"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -165,9 +165,9 @@
 <line
     stroke-linecap="square"
     x1="839"
-    y1="87"
+    y1="407"
     x2="839"
-    y2="182"
+    y2="367"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -175,9 +175,9 @@
 <line
     stroke-linecap="square"
     x1="839"
-    y1="182"
+    y1="367"
     x2="891"
-    y2="182"
+    y2="367"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -186,9 +186,9 @@
 <line
     stroke-linecap="square"
     x1="1226"
-    y1="237"
+    y1="312"
     x2="1549"
-    y2="237"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -196,9 +196,9 @@
 <line
     stroke-linecap="square"
     x1="1549"
-    y1="237"
+    y1="312"
     x2="1549"
-    y2="127"
+    y2="447"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -206,8 +206,111 @@
 <line
     stroke-linecap="square"
     x1="1549"
-    y1="127"
+    y1="447"
     x2="467"
+    y2="447"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="467"
+    y1="447"
+    x2="467"
+    y2="312"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="467"
+    y1="312"
+    x2="519"
+    y2="312"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="839"
+    y1="257"
+    x2="1286"
+    y2="257"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="1286"
+    y1="257"
+    x2="1286"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="1286"
+    y1="87"
+    x2="51"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="87"
+    x2="51"
+    y2="257"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="51"
+    y1="257"
+    x2="138"
+    y2="257"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="467"
+    y1="182"
+    x2="519"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="839"
+    y1="182"
+    x2="899"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="899"
+    y1="182"
+    x2="899"
     y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -215,113 +318,10 @@
 />
 <line
     stroke-linecap="square"
-    x1="467"
+    x1="899"
     y1="127"
-    x2="467"
-    y2="237"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="467"
-    y1="237"
-    x2="519"
-    y2="237"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="839"
-    y1="292"
-    x2="1286"
-    y2="292"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="1286"
-    y1="292"
-    x2="1286"
-    y2="427"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="1286"
-    y1="427"
-    x2="51"
-    y2="427"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="51"
-    y1="427"
-    x2="51"
-    y2="332"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="51"
-    y1="332"
-    x2="138"
-    y2="332"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="467"
-    y1="387"
-    x2="519"
-    y2="387"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="839"
-    y1="387"
-    x2="899"
-    y2="387"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="899"
-    y1="387"
-    x2="899"
-    y2="467"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="899"
-    y1="467"
     x2="86"
-    y2="467"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -329,9 +329,9 @@
 <line
     stroke-linecap="square"
     x1="86"
-    y1="467"
+    y1="127"
     x2="86"
-    y2="292"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -339,9 +339,9 @@
 <line
     stroke-linecap="square"
     x1="86"
-    y1="292"
+    y1="182"
     x2="138"
-    y2="292"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -350,9 +350,9 @@
 <line
     stroke-linecap="square"
     x1="467"
-    y1="292"
+    y1="257"
     x2="519"
-    y2="292"
+    y2="257"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -361,9 +361,9 @@
 <line
     stroke-linecap="square"
     x1="839"
-    y1="237"
+    y1="312"
     x2="891"
-    y2="237"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -372,9 +372,9 @@
 <line
     stroke-linecap="square"
     x1="1226"
-    y1="182"
+    y1="367"
     x2="1278"
-    y2="182"
+    y2="367"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -384,83 +384,83 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="1476" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="1473" y="184" transform="rotate(0,1473,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="1476" y="359" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="1473" y="369" transform="rotate(0,1473,369)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 Menu_Cmd_Pushed
 </text>
 
-<use x="1278" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="1297" y="184" transform="rotate(0,1297,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="1278" y="359" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="1297" y="369" transform="rotate(0,1297,369)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 Page_To_Show
 </text>
 
-<use x="891" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="910" y="184" transform="rotate(0,910,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="891" y="359" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="910" y="369" transform="rotate(0,910,369)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 Menu_selection_from_Display
 </text>
 
-<use x="1218" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="1215" y="184" transform="rotate(0,1215,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="1218" y="359" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="1215" y="369" transform="rotate(0,1215,369)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Image_To_Display
 </text>
 
-<use x="1218" y="229" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="1215" y="239" transform="rotate(0,1215,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="1218" y="304" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="1215" y="314" transform="rotate(0,1215,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_To_PCM
 </text>
 
-<use x="891" y="229" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="910" y="239" transform="rotate(0,910,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="891" y="304" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="910" y="314" transform="rotate(0,910,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_from_PCM
 </text>
 
-<use x="519" y="229" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="538" y="239" transform="rotate(0,538,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="519" y="304" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="538" y="314" transform="rotate(0,538,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_From_DM
 </text>
 
-<use x="831" y="229" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="828" y="239" transform="rotate(0,828,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="831" y="304" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="828" y="314" transform="rotate(0,828,314)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_To_DM
 </text>
 
-<use x="831" y="284" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="828" y="294" transform="rotate(0,828,294)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="831" y="249" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="828" y="259" transform="rotate(0,828,259)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_To_FM
 </text>
 
-<use x="519" y="284" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="538" y="294" transform="rotate(0,538,294)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="519" y="249" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="538" y="259" transform="rotate(0,538,259)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_from_FM
 </text>
 
-<use x="138" y="324" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="157" y="334" transform="rotate(0,157,334)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="138" y="249" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="157" y="259" transform="rotate(0,157,259)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_From_PCM
 </text>
 
-<use x="459" y="284" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="456" y="294" transform="rotate(0,456,294)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="459" y="249" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="456" y="259" transform="rotate(0,456,259)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_To_PCM
 </text>
 
-<use x="459" y="379" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="456" y="389" transform="rotate(0,456,389)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="459" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="456" y="184" transform="rotate(0,456,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_To_FD
 </text>
 
-<use x="138" y="284" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="157" y="294" transform="rotate(0,157,294)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="138" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="157" y="184" transform="rotate(0,157,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_from_FD
 </text>
 
-<use x="519" y="379" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="538" y="389" transform="rotate(0,538,389)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="519" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="538" y="184" transform="rotate(0,538,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Request_From_FM
 </text>
 
-<use x="831" y="379" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="828" y="389" transform="rotate(0,828,389)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="831" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="828" y="184" transform="rotate(0,828,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 New_Page_Content_To_FM
 </text>
 
