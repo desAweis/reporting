@@ -7,7 +7,7 @@
     <rect
         id="0"
         width="768"
-        height="337"
+        height="392"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -26,7 +26,7 @@
 <g transform="translate(76 147)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.isDriveToFirstPosition"
-        id="2"
+        id="1"
         width="180"
         height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -47,9 +47,9 @@
 <g transform="translate(316 242)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.driveToFirstPosition"
-        id="4"
+        id="3"
         width="165"
-        height="95"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -65,10 +65,10 @@
     driveToFirstPosition
     </text>
 </g><!-- Component: d2v1 -->
-<g transform="translate(541 242)">
+<g transform="translate(541 337)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.d2v1"
-        id="6"
+        id="5"
         width="48"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -89,7 +89,7 @@
 <g transform="translate(316 52)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.followTrajectory"
-        id="3"
+        id="2"
         width="165"
         height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -110,7 +110,7 @@
 <g transform="translate(541 52)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.d2v2"
-        id="5"
+        id="4"
         width="48"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -131,9 +131,9 @@
 <g transform="translate(649 52)">
     <rect
         data-name="testManuelSchrick.autopilot.behavior.calculateMotionCommands.selector"
-        id="7"
+        id="6"
         width="75"
-        height="285"
+        height="340"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -280,9 +280,9 @@
 <line
     stroke-linecap="square"
     x1="481"
-    y1="277"
+    y1="372"
     x2="533"
-    y2="277"
+    y2="372"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -290,9 +290,9 @@
 <line
     stroke-linecap="square"
     x1="533"
-    y1="277"
+    y1="372"
     x2="541"
-    y2="277"
+    y2="372"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -446,9 +446,9 @@
 <line
     stroke-linecap="square"
     x1="589"
-    y1="277"
+    y1="372"
     x2="641"
-    y2="277"
+    y2="372"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -456,9 +456,9 @@
 <line
     stroke-linecap="square"
     x1="641"
-    y1="277"
+    y1="372"
     x2="649"
-    y2="277"
+    y2="372"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

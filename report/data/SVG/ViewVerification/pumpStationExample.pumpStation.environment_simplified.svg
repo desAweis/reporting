@@ -7,7 +7,7 @@
     <rect
         id="63"
         width="536"
-        height="242"
+        height="227"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -44,7 +44,7 @@
     physicsSimulation
     </text>
 </g><!-- Component: simulationPanel -->
-<g transform="translate(358 187)">
+<g transform="translate(358 132)">
     <rect
         data-name="pumpStationExample.pumpStation.environment.simulationPanel"
         id="65"
@@ -133,17 +133,7 @@
 <line
     stroke-linecap="square"
     x1="487"
-    y1="222"
-    x2="517"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="517"
-    y1="222"
+    y1="167"
     x2="517"
     y2="167"
     style="stroke:rgb(0, 0,0);
@@ -154,6 +144,26 @@
     stroke-linecap="square"
     x1="517"
     y1="167"
+    x2="517"
+    y2="207"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="517"
+    y1="207"
+    x2="298"
+    y2="207"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="298"
+    y1="207"
     x2="298"
     y2="167"
     style="stroke:rgb(0, 0,0);
@@ -164,18 +174,8 @@
     stroke-linecap="square"
     x1="298"
     y1="167"
-    x2="298"
-    y2="222"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="298"
-    y1="222"
     x2="479"
-    y2="222"
+    y2="167"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -183,9 +183,9 @@
 <line
     stroke-linecap="square"
     x1="479"
-    y1="222"
+    y1="167"
     x2="487"
-    y2="222"
+    y2="167"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

@@ -5,7 +5,7 @@
 <g transform="translate(25 20)">
 
     <rect
-        id="85"
+        id="82"
         width="473"
         height="242"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,7 +26,7 @@
 <g transform="translate(249 132)">
     <rect
         data-name="robotArmExample.rotationalJoint.body.actuator"
-        id="87"
+        id="84"
         width="75"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -47,7 +47,7 @@
 <g transform="translate(384 187)">
     <rect
         data-name="robotArmExample.rotationalJoint.body.joint"
-        id="88"
+        id="85"
         width="54"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -68,7 +68,7 @@
 <g transform="translate(85 132)">
     <rect
         data-name="robotArmExample.rotationalJoint.body.jointLimiter"
-        id="86"
+        id="83"
         width="99"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"

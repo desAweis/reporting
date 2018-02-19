@@ -7,7 +7,7 @@
     <rect
         id="63"
         width="352"
-        height="242"
+        height="202"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,12 +23,12 @@
 </g>
 
 </svg><!-- Component: bumpControl -->
-<g transform="translate(81 52)">
+<g transform="translate(81 107)">
     <rect
         data-name="testManuelSchrick.bumperBot.controller.bumpControl"
         id="64"
         width="108"
-        height="150"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="189"
-    y1="87"
+    y1="182"
     x2="360"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -82,9 +82,9 @@
 <line
     stroke-linecap="square"
     x1="360"
-    y1="87"
+    y1="182"
     x2="368"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -126,7 +126,7 @@
     x1="333"
     y1="142"
     x2="333"
-    y2="222"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -134,9 +134,9 @@
 <line
     stroke-linecap="square"
     x1="333"
-    y1="222"
+    y1="87"
     x2="51"
-    y2="222"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -144,7 +144,7 @@
 <line
     stroke-linecap="square"
     x1="51"
-    y1="222"
+    y1="87"
     x2="51"
     y2="182"
     style="stroke:rgb(0, 0,0);
