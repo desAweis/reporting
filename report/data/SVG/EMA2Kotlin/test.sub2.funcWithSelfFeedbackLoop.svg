@@ -1,0 +1,249 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: funcWithSelfFeedbackLoop -->
+<g transform="translate(31 20)">
+
+    <rect
+        id="22"
+        width="306"
+        height="242"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            funcWithSelfFeedbackLoop
+    </text>
+
+</g>
+
+</svg><!-- Component: add1 -->
+<g transform="translate(91 147)">
+    <rect
+        data-name="test.sub2.funcWithSelfFeedbackLoop.add1"
+        id="24"
+        width="63"
+        height="95"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    add1
+    </text>
+</g><!-- Component: add2 -->
+<g transform="translate(214 92)">
+    <rect
+        data-name="test.sub2.funcWithSelfFeedbackLoop.add2"
+        id="25"
+        width="63"
+        height="110"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="8"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    add2
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><line
+    stroke-linecap="square"
+    x1="31"
+    y1="72"
+    x2="329"
+    y2="72"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="277"
+    y1="182"
+    x2="329"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="154"
+    y1="182"
+    x2="184"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="184"
+    y1="182"
+    x2="184"
+    y2="72"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="184"
+    y1="72"
+    x2="23"
+    y2="72"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="31"
+    y1="182"
+    x2="83"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="31"
+    y1="222"
+    x2="83"
+    y2="222"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="154"
+    y1="182"
+    x2="206"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="337"
+    y1="72"
+    x2="367"
+    y2="72"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="367"
+    y1="72"
+    x2="367"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="367"
+    y1="127"
+    x2="206"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<defs>
+    <!-- Small box indicating a port -->
+    <rect id="port" x="0" y="0" width="16" height="16"
+          style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
+</defs><use x="23" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="19" y="184" transform="rotate(0,19,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in1
+</text>
+
+<use x="23" y="214" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="19" y="224" transform="rotate(0,19,224)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in2
+</text>
+
+<use x="329" y="64" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="325" y="74" transform="rotate(0,325,74)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in3
+</text>
+
+<use x="329" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="349" y="184" transform="rotate(0,349,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+out1
+</text>
+
+<use x="23" y="64" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="43" y="74" transform="rotate(0,43,74)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+out2
+</text>
+
+<use x="83" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="102" y="184" transform="rotate(0,102,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in1
+</text>
+
+<use x="83" y="214" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="102" y="224" transform="rotate(0,102,224)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in2
+</text>
+
+<use x="146" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="143" y="184" transform="rotate(0,143,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+out1
+</text>
+
+<use x="206" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="225" y="184" transform="rotate(0,225,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in1
+</text>
+
+<use x="206" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="225" y="129" transform="rotate(0,225,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+in2
+</text>
+
+<use x="269" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="266" y="184" transform="rotate(0,266,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+out1
+</text>
+
+
+</svg>
