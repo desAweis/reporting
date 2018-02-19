@@ -44,12 +44,12 @@
     bumpControl
     </text>
 </g><!-- Component: timer -->
-<g transform="translate(180 162)">
+<g transform="translate(180 107)">
     <rect
         data-name="bumperBotEmergency.bumperBotEmergency.controller.timer"
         id="108"
         width="78"
-        height="95"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -306,7 +306,7 @@
     x1="150"
     y1="87"
     x2="150"
-    y2="197"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -314,9 +314,9 @@
 <line
     stroke-linecap="square"
     x1="150"
-    y1="197"
+    y1="142"
     x2="172"
-    y2="197"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -420,8 +420,8 @@ rightMotorCmd
 signal
 </text>
 
-<use x="172" y="189" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="191" y="199" transform="rotate(0,191,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="172" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="191" y="144" transform="rotate(0,191,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 cmd
 </text>
 

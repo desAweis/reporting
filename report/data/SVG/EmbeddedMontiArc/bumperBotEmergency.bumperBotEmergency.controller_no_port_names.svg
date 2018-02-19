@@ -44,12 +44,12 @@
     bumpControl
     </text>
 </g><!-- Component: timer -->
-<g transform="translate(81 162)">
+<g transform="translate(81 107)">
     <rect
         data-name="bumperBotEmergency.bumperBotEmergency.controller.timer"
         id="142"
         width="54"
-        height="95"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -306,7 +306,7 @@
     x1="51"
     y1="87"
     x2="51"
-    y2="197"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -314,9 +314,9 @@
 <line
     stroke-linecap="square"
     x1="51"
-    y1="197"
+    y1="142"
     x2="73"
-    y2="197"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -420,8 +420,8 @@
 
 </text>
 
-<use x="73" y="189" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="92" y="199" transform="rotate(0,92,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="73" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="92" y="144" transform="rotate(0,92,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 

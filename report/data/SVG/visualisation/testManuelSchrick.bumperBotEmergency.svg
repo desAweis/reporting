@@ -23,12 +23,12 @@
 </g>
 
 </svg><!-- Component: sensors -->
-<g transform="translate(76 52)">
+<g transform="translate(76 107)">
     <rect
         data-name="testManuelSchrick.bumperBotEmergency.sensors"
         id="14"
         width="126"
-        height="110"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
@@ -69,12 +69,12 @@
     controller
     </text>
 </g><!-- Component: actuators -->
-<g transform="translate(523 107)">
+<g transform="translate(523 52)">
     <rect
         data-name="testManuelSchrick.bumperBotEmergency.actuators"
         id="16"
         width="102"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
@@ -99,30 +99,8 @@
 </defs><line
     stroke-linecap="square"
     x1="202"
-    y1="142"
-    x2="254"
-    y2="142"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="202"
-    y1="87"
-    x2="254"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="463"
     y1="182"
-    x2="515"
+    x2="254"
     y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -131,10 +109,32 @@
 />
 <line
     stroke-linecap="square"
+    x1="202"
+    y1="142"
+    x2="254"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
     x1="463"
     y1="142"
     x2="515"
     y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="463"
+    y1="87"
+    x2="515"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -144,43 +144,43 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="194" y="134" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="191" y="144" transform="rotate(0,191,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="194" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="191" y="184" transform="rotate(0,191,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 bumpPressed
 </text>
 
-<use x="194" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="191" y="89" transform="rotate(0,191,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="194" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="191" y="144" transform="rotate(0,191,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 emergencyPressed
+</text>
+
+<use x="254" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="273" y="184" transform="rotate(0,273,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+bumpPressed
 </text>
 
 <use x="254" y="134" xlink:href="#port" />
 <text text-anchor="start" alignment-baseline="middle" x="273" y="144" transform="rotate(0,273,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-bumpPressed
+emergencyPressed
 </text>
 
-<use x="254" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="273" y="89" transform="rotate(0,273,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-emergencyPressed
+<use x="455" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="452" y="89" transform="rotate(0,452,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+rightMotorCmd
 </text>
 
 <use x="455" y="134" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="452" y="144" transform="rotate(0,452,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-rightMotorCmd
+leftMotorCmd
 </text>
 
-<use x="455" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="452" y="184" transform="rotate(0,452,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-leftMotorCmd
+<use x="515" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="534" y="89" transform="rotate(0,534,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+rightMotorCmd
 </text>
 
 <use x="515" y="134" xlink:href="#port" />
 <text text-anchor="start" alignment-baseline="middle" x="534" y="144" transform="rotate(0,534,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-rightMotorCmd
-</text>
-
-<use x="515" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="534" y="184" transform="rotate(0,534,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 leftMotorCmd
 </text>
 

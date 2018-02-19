@@ -65,10 +65,10 @@
     right1
     </text>
 </g><!-- Component: right2 -->
-<g transform="translate(181 127)">
+<g transform="translate(181 277)">
     <rect
         data-name="testManuelSchrick.verticalLines.verticalLines.right2"
-        id="3"
+        id="5"
         width="57"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -107,10 +107,10 @@
     right3
     </text>
 </g><!-- Component: right4 -->
-<g transform="translate(181 277)">
+<g transform="translate(181 127)">
     <rect
         data-name="testManuelSchrick.verticalLines.verticalLines.right4"
-        id="5"
+        id="3"
         width="57"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -156,9 +156,9 @@
 <line
     stroke-linecap="square"
     x1="238"
-    y1="162"
+    y1="312"
     x2="268"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -166,7 +166,7 @@
 <line
     stroke-linecap="square"
     x1="268"
-    y1="162"
+    y1="312"
     x2="268"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -238,9 +238,9 @@
 <line
     stroke-linecap="square"
     x1="238"
-    y1="312"
+    y1="162"
     x2="268"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -248,7 +248,7 @@
 <line
     stroke-linecap="square"
     x1="268"
-    y1="312"
+    y1="162"
     x2="268"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -312,7 +312,7 @@
     x1="151"
     y1="87"
     x2="151"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -320,9 +320,9 @@
 <line
     stroke-linecap="square"
     x1="151"
-    y1="162"
+    y1="312"
     x2="173"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -330,9 +330,9 @@
 <line
     stroke-linecap="square"
     x1="173"
-    y1="162"
+    y1="312"
     x2="181"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -394,7 +394,7 @@
     x1="151"
     y1="87"
     x2="151"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -402,9 +402,9 @@
 <line
     stroke-linecap="square"
     x1="151"
-    y1="312"
+    y1="162"
     x2="173"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -412,9 +412,9 @@
 <line
     stroke-linecap="square"
     x1="173"
-    y1="312"
+    y1="162"
     x2="181"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
