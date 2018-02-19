@@ -23,12 +23,12 @@
 </g>
 
 </svg><!-- Component: add1 -->
-<g transform="translate(91 107)">
+<g transform="translate(91 52)">
     <rect
         data-name="test.sub2.funcWithSelfFeedbackLoop.add1"
         id="25"
         width="63"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,12 +44,12 @@
     add1
     </text>
 </g><!-- Component: add2 -->
-<g transform="translate(214 52)">
+<g transform="translate(214 107)">
     <rect
         data-name="test.sub2.funcWithSelfFeedbackLoop.add2"
         id="26"
         width="63"
-        height="110"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -72,17 +72,7 @@
 </defs><line
     stroke-linecap="square"
     x1="337"
-    y1="182"
-    x2="367"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="367"
-    y1="182"
+    y1="87"
     x2="367"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -93,8 +83,18 @@
     stroke-linecap="square"
     x1="367"
     y1="87"
+    x2="367"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="367"
+    y1="182"
     x2="23"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -114,29 +114,9 @@
 <line
     stroke-linecap="square"
     x1="154"
-    y1="142"
-    x2="184"
-    y2="142"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="184"
-    y1="142"
-    x2="184"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="184"
-    y1="182"
+    y1="87"
     x2="329"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -147,28 +127,6 @@
     x1="31"
     y1="142"
     x2="83"
-    y2="142"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="31"
-    y1="182"
-    x2="83"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="154"
-    y1="142"
-    x2="206"
     y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -179,8 +137,50 @@
     stroke-linecap="square"
     x1="31"
     y1="87"
-    x2="206"
+    x2="83"
     y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="154"
+    y1="87"
+    x2="184"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="184"
+    y1="87"
+    x2="184"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="184"
+    y1="142"
+    x2="206"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="31"
+    y1="182"
+    x2="206"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -195,13 +195,13 @@
 in1
 </text>
 
-<use x="23" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="19" y="184" transform="rotate(0,19,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="23" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="19" y="89" transform="rotate(0,19,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in2
 </text>
 
-<use x="23" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="19" y="89" transform="rotate(0,19,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="23" y="174" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="19" y="184" transform="rotate(0,19,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in3
 </text>
 
@@ -210,8 +210,8 @@ in3
 out1
 </text>
 
-<use x="329" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="349" y="184" transform="rotate(0,349,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="329" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="349" y="89" transform="rotate(0,349,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out2
 </text>
 
@@ -220,13 +220,13 @@ out2
 in1
 </text>
 
-<use x="83" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="102" y="184" transform="rotate(0,102,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="83" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="102" y="89" transform="rotate(0,102,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in2
 </text>
 
-<use x="146" y="134" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="143" y="144" transform="rotate(0,143,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="146" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="143" y="89" transform="rotate(0,143,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 
@@ -235,8 +235,8 @@ out1
 in1
 </text>
 
-<use x="206" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="225" y="89" transform="rotate(0,225,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="206" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="225" y="184" transform="rotate(0,225,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in2
 </text>
 

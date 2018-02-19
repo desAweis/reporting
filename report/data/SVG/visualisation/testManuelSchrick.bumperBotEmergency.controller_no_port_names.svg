@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="147"
+        id="145"
         width="409"
         height="507"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,7 +26,7 @@
 <g transform="translate(81 107)">
     <rect
         data-name="testManuelSchrick.bumperBotEmergency.controller.bumpControl"
-        id="148"
+        id="146"
         width="108"
         height="265"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -47,7 +47,7 @@
 <g transform="translate(249 162)">
     <rect
         data-name="testManuelSchrick.bumperBotEmergency.controller.timer"
-        id="150"
+        id="148"
         width="111"
         height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -68,7 +68,7 @@
 <g transform="translate(81 412)">
     <rect
         data-name="testManuelSchrick.bumperBotEmergency.controller.motorStop"
-        id="149"
+        id="147"
         width="108"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -89,7 +89,7 @@
 <g transform="translate(249 277)">
     <rect
         data-name="testManuelSchrick.bumperBotEmergency.controller.motorArbiter"
-        id="151"
+        id="149"
         width="111"
         height="230"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -297,17 +297,6 @@
     stroke-linecap="square"
     x1="189"
     y1="447"
-    x2="241"
-    y2="447"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="447"
     x2="219"
     y2="447"
     style="stroke:rgb(0, 0,0);
@@ -330,6 +319,17 @@
     y1="487"
     x2="241"
     y2="487"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="189"
+    y1="447"
+    x2="241"
+    y2="447"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -452,13 +452,13 @@
 
 </text>
 
-<use x="241" y="439" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="260" y="449" transform="rotate(0,260,449)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="241" y="479" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="260" y="489" transform="rotate(0,260,489)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
-<use x="241" y="479" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="260" y="489" transform="rotate(0,260,489)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="241" y="439" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="260" y="449" transform="rotate(0,260,449)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
