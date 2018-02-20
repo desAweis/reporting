@@ -5,7 +5,7 @@
 <g transform="translate(31 20)">
 
     <rect
-        id="38"
+        id="40"
         width="193"
         height="187"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: a1 -->
-<g transform="translate(96 132)">
+<g transform="translate(96 52)">
     <rect
         data-name="testing.subComponentConnector2.a1.a1"
-        id="39"
+        id="42"
         width="63"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -51,9 +51,9 @@
 </defs><line
     stroke-linecap="square"
     x1="159"
-    y1="167"
+    y1="87"
     x2="189"
-    y2="167"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -61,9 +61,9 @@
 <line
     stroke-linecap="square"
     x1="189"
-    y1="167"
+    y1="87"
     x2="189"
-    y2="112"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -71,9 +71,9 @@
 <line
     stroke-linecap="square"
     x1="189"
-    y1="112"
+    y1="127"
     x2="66"
-    y2="112"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -81,9 +81,9 @@
 <line
     stroke-linecap="square"
     x1="66"
-    y1="112"
+    y1="127"
     x2="66"
-    y2="167"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -91,9 +91,9 @@
 <line
     stroke-linecap="square"
     x1="66"
-    y1="167"
+    y1="87"
     x2="151"
-    y2="167"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -102,9 +102,9 @@
 <line
     stroke-linecap="square"
     x1="31"
-    y1="72"
+    y1="167"
     x2="23"
-    y2="72"
+    y2="167"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -114,13 +114,13 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="23" y="64" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="19" y="74" transform="rotate(0,19,74)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="23" y="159" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="19" y="169" transform="rotate(0,19,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in1
 </text>
 
-<use x="151" y="159" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="148" y="169" transform="rotate(0,148,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="151" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="148" y="89" transform="rotate(0,148,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 

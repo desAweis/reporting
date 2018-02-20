@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: cmp1 -->
-<g transform="translate(76 167)">
+<g transform="translate(76 92)">
     <rect
         data-name="testing.uniqueName.cmp1"
-        id="2"
+        id="1"
         width="54"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -44,10 +44,10 @@
     cmp1
     </text>
 </g><!-- Component: cmp2 -->
-<g transform="translate(76 92)">
+<g transform="translate(76 167)">
     <rect
         data-name="testing.uniqueName.cmp2"
-        id="1"
+        id="2"
         width="54"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="130"
-    y1="202"
+    y1="127"
     x2="182"
-    y2="202"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -82,9 +82,9 @@
 <line
     stroke-linecap="square"
     x1="182"
-    y1="202"
+    y1="127"
     x2="190"
-    y2="202"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -93,9 +93,9 @@
 <line
     stroke-linecap="square"
     x1="130"
-    y1="127"
+    y1="202"
     x2="182"
-    y2="127"
+    y2="202"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -103,9 +103,9 @@
 <line
     stroke-linecap="square"
     x1="182"
-    y1="127"
+    y1="202"
     x2="190"
-    y2="127"
+    y2="202"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -114,9 +114,9 @@
 <line
     stroke-linecap="square"
     x1="190"
-    y1="202"
+    y1="127"
     x2="220"
-    y2="202"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -124,7 +124,7 @@
 <line
     stroke-linecap="square"
     x1="220"
-    y1="202"
+    y1="127"
     x2="220"
     y2="72"
     style="stroke:rgb(0, 0,0);

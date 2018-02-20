@@ -44,10 +44,10 @@
     pumpSensorReader
     </text>
 </g><!-- Component: userButtonReader -->
-<g transform="translate(76 127)">
+<g transform="translate(76 277)">
     <rect
         data-name="pumpStationExample.sensorReadingEdited.userButtonReader"
-        id="3"
+        id="5"
         width="162"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -86,10 +86,10 @@
     tankSensorReader
     </text>
 </g><!-- Component: valveSensorReader -->
-<g transform="translate(76 277)">
+<g transform="translate(76 127)">
     <rect
         data-name="pumpStationExample.sensorReadingEdited.valveSensorReader"
-        id="5"
+        id="3"
         width="162"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -135,9 +135,9 @@
 <line
     stroke-linecap="square"
     x1="238"
-    y1="162"
+    y1="312"
     x2="290"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -145,9 +145,9 @@
 <line
     stroke-linecap="square"
     x1="290"
-    y1="162"
+    y1="312"
     x2="298"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -156,9 +156,9 @@
 <line
     stroke-linecap="square"
     x1="238"
-    y1="312"
+    y1="162"
     x2="290"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -166,9 +166,9 @@
 <line
     stroke-linecap="square"
     x1="290"
-    y1="312"
+    y1="162"
     x2="298"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -219,9 +219,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="162"
+    y1="312"
     x2="68"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -229,9 +229,9 @@
 <line
     stroke-linecap="square"
     x1="68"
-    y1="162"
+    y1="312"
     x2="76"
-    y2="162"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -261,9 +261,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="312"
+    y1="162"
     x2="68"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -271,9 +271,9 @@
 <line
     stroke-linecap="square"
     x1="68"
-    y1="312"
+    y1="162"
     x2="76"
-    y2="312"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
