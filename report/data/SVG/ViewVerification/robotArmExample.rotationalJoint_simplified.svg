@@ -67,12 +67,12 @@
     cylinder
     </text>
 </g><!-- Component: sensor -->
-<g transform="translate(348 107)">
+<g transform="translate(348 52)">
     <rect
         data-name="robotArmExample.rotationalJoint.sensor"
         id="4"
         width="66"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -116,9 +116,9 @@
 </defs><line
     stroke-linecap="square"
     x1="414"
-    y1="182"
+    y1="87"
     x2="606"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -126,9 +126,9 @@
 <line
     stroke-linecap="square"
     x1="606"
-    y1="182"
+    y1="87"
     x2="614"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -170,7 +170,7 @@
     x1="579"
     y1="142"
     x2="579"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -178,9 +178,9 @@
 <line
     stroke-linecap="square"
     x1="579"
-    y1="87"
+    y1="182"
     x2="51"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -188,7 +188,7 @@
 <line
     stroke-linecap="square"
     x1="51"
-    y1="87"
+    y1="182"
     x2="51"
     y2="142"
     style="stroke:rgb(0, 0,0);

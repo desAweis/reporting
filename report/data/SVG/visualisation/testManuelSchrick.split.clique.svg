@@ -243,9 +243,9 @@
 <line
     stroke-linecap="square"
     x1="576"
-    y1="237"
+    y1="142"
     x2="628"
-    y2="237"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -325,8 +325,8 @@ in2
 in3
 </text>
 
-<use x="568" y="229" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="565" y="239" transform="rotate(0,565,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="568" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="565" y="144" transform="rotate(0,565,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 
@@ -340,8 +340,8 @@ in1
 in2
 </text>
 
-<use x="628" y="229" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="647" y="239" transform="rotate(0,647,239)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="628" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="647" y="144" transform="rotate(0,647,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 in3
 </text>
 
