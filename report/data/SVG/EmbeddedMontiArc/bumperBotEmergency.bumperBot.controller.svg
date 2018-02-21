@@ -7,7 +7,7 @@
     <rect
         id="80"
         width="504"
-        height="362"
+        height="417"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -28,7 +28,7 @@
         data-name="bumperBotEmergency.bumperBot.controller.bumpControl"
         id="83"
         width="171"
-        height="135"
+        height="190"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,12 +44,12 @@
     bumpControl
     </text>
 </g><!-- Component: timer -->
-<g transform="translate(150 107)">
+<g transform="translate(150 257)">
     <rect
         data-name="bumperBotEmergency.bumperBot.controller.timer"
         id="82"
         width="78"
-        height="95"
+        height="80"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -72,16 +72,16 @@
 </defs><line
     stroke-linecap="square"
     x1="459"
-    y1="182"
+    y1="277"
     x2="524"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
     <text
         x="470"
-        y="175"
+        y="270"
         alignment-baseline="middle"
         font-family="Verdana"
         font-size="11"
@@ -91,9 +91,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="182"
+    y1="277"
     x2="524"
-    y2="302"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -101,9 +101,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="302"
+    y1="87"
     x2="228"
-    y2="302"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -111,9 +111,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="302"
+    y1="87"
     x2="228"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -121,9 +121,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="182"
+    y1="277"
     x2="451"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -131,7 +131,7 @@
 />
     <text
         x="440"
-        y="171"
+        y="266"
         alignment-baseline="middle"
         font-family="Verdana"
         font-size="11"
@@ -141,16 +141,16 @@
 <line
     stroke-linecap="square"
     x1="459"
-    y1="182"
+    y1="277"
     x2="524"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
     <text
         x="470"
-        y="175"
+        y="270"
         alignment-baseline="middle"
         font-family="Verdana"
         font-size="11"
@@ -160,9 +160,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="182"
+    y1="277"
     x2="524"
-    y2="302"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -170,9 +170,9 @@
 <line
     stroke-linecap="square"
     x1="524"
-    y1="302"
+    y1="87"
     x2="228"
-    y2="302"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -180,9 +180,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="302"
+    y1="87"
     x2="228"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:5;
 "
@@ -190,9 +190,9 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="182"
+    y1="277"
     x2="451"
-    y2="182"
+    y2="277"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -200,7 +200,7 @@
 />
     <text
         x="440"
-        y="171"
+        y="266"
         alignment-baseline="middle"
         font-family="Verdana"
         font-size="11"
@@ -210,9 +210,9 @@
 <line
     stroke-linecap="square"
     x1="85"
-    y1="342"
+    y1="397"
     x2="77"
-    y2="342"
+    y2="397"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -221,9 +221,60 @@
 <line
     stroke-linecap="square"
     x1="228"
-    y1="182"
+    y1="277"
     x2="280"
+    y2="277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+<line
+    stroke-linecap="square"
+    x1="459"
+    y1="182"
+    x2="489"
     y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="489"
+    y1="182"
+    x2="489"
+    y2="357"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="489"
+    y1="357"
+    x2="120"
+    y2="357"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="120"
+    y1="357"
+    x2="120"
+    y2="317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+<line
+    stroke-linecap="square"
+    x1="120"
+    y1="317"
+    x2="142"
+    y2="317"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -233,33 +284,38 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="77" y="334" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="73" y="344" transform="rotate(0,73,344)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="77" y="389" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="73" y="399" transform="rotate(0,73,399)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 bumpPressed
 </text>
 
-<use x="280" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="299" y="184" transform="rotate(0,299,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="280" y="269" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="299" y="279" transform="rotate(0,299,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 timerSig
 </text>
 
 <use x="451" y="174" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="448" y="184" transform="rotate(0,448,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+timerCmd
+</text>
+
+<use x="451" y="269" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="448" y="279" transform="rotate(0,448,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 leftMotorCmd
 </text>
 
-<use x="451" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="448" y="184" transform="rotate(0,448,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="451" y="269" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="448" y="279" transform="rotate(0,448,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rightMotorCmd
 </text>
 
-<use x="220" y="174" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="217" y="184" transform="rotate(0,217,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="220" y="269" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="217" y="279" transform="rotate(0,217,279)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 signal
 </text>
 
-<use x="142" y="134" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="161" y="144" transform="rotate(0,161,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="142" y="309" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="161" y="319" transform="rotate(0,161,319)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 cmd
 </text>
 
