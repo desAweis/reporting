@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: calculateSignedDistanceToLine -->
-<g transform="translate(76 52)">
+<g transform="translate(76 92)">
     <rect
         data-name="autopilot.behavior.driveInsideTurn.fallbackLogic.calculateSignedDistanceToLine"
         id="106"
@@ -95,9 +95,9 @@
 </defs><line
     stroke-linecap="square"
     x1="319"
-    y1="87"
+    y1="127"
     x2="565"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -105,9 +105,9 @@
 <line
     stroke-linecap="square"
     x1="565"
-    y1="87"
+    y1="127"
     x2="573"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -177,9 +177,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="127"
     x2="68"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -187,9 +187,9 @@
 <line
     stroke-linecap="square"
     x1="68"
-    y1="87"
+    y1="127"
     x2="76"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -198,9 +198,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="127"
     x2="8"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -208,9 +208,9 @@
 <line
     stroke-linecap="square"
     x1="8"
-    y1="87"
+    y1="127"
     x2="16"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
