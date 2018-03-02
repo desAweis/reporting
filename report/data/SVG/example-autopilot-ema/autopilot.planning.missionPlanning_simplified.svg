@@ -7,7 +7,7 @@
     <rect
         id="0"
         width="1703"
-        height="667"
+        height="637"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,12 +23,12 @@
 </g>
 
 </svg><!-- Component: extractCurrentPosition -->
-<g transform="translate(76 162)">
+<g transform="translate(76 257)">
     <rect
         data-name="autopilot.planning.missionPlanning.extractCurrentPosition"
         id="2"
         width="183"
-        height="330"
+        height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,12 +44,12 @@
     extractCurrentPosition
     </text>
 </g><!-- Component: findClosestSegment1 -->
-<g transform="translate(505 217)">
+<g transform="translate(505 367)">
     <rect
         data-name="autopilot.planning.missionPlanning.findClosestSegment1"
-        id="4"
+        id="5"
         width="165"
-        height="165"
+        height="135"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -65,12 +65,12 @@
     findClosestSegment1
     </text>
 </g><!-- Component: decidePathRecalculation -->
-<g transform="translate(735 272)">
+<g transform="translate(735 312)">
     <rect
         data-name="autopilot.planning.missionPlanning.decidePathRecalculation"
         id="6"
         width="192"
-        height="165"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -86,12 +86,12 @@
     decidePathRecalculation
     </text>
 </g><!-- Component: mapDataHolder -->
-<g transform="translate(319 437)">
+<g transform="translate(319 147)">
     <rect
         data-name="autopilot.planning.missionPlanning.mapDataHolder"
         id="3"
         width="126"
-        height="150"
+        height="165"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -107,10 +107,10 @@
     mapDataHolder
     </text>
 </g><!-- Component: extractNodeId -->
-<g transform="translate(505 492)">
+<g transform="translate(505 202)">
     <rect
         data-name="autopilot.planning.missionPlanning.extractNodeId"
-        id="5"
+        id="4"
         width="165"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -128,7 +128,7 @@
     extractNodeId
     </text>
 </g><!-- Component: activateNavigator -->
-<g transform="translate(987 382)">
+<g transform="translate(987 202)">
     <rect
         data-name="autopilot.planning.missionPlanning.activateNavigator"
         id="7"
@@ -149,12 +149,12 @@
     activateNavigator
     </text>
 </g><!-- Component: navigator -->
-<g transform="translate(1191 492)">
+<g transform="translate(1191 92)">
     <rect
         data-name="autopilot.planning.missionPlanning.navigator"
         id="8"
         width="84"
-        height="135"
+        height="165"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -170,12 +170,12 @@
     navigator
     </text>
 </g><!-- Component: findClosestSegment2 -->
-<g transform="translate(1494 162)">
+<g transform="translate(1494 202)">
     <rect
         data-name="autopilot.planning.missionPlanning.findClosestSegment2"
         id="10"
         width="165"
-        height="385"
+        height="340"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -191,12 +191,12 @@
     findClosestSegment2
     </text>
 </g><!-- Component: choosePath -->
-<g transform="translate(1335 327)">
+<g transform="translate(1335 147)">
     <rect
         data-name="autopilot.planning.missionPlanning.choosePath"
         id="9"
         width="99"
-        height="220"
+        height="275"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -218,46 +218,23 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="1719"
-    y1="567"
-    x2="1679"
-    y2="567"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-<line
-    stroke-linecap="square"
-    x1="1679"
-    y1="567"
-    x2="1679"
-    y2="647"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-    <circle cx="1679" cy="567" r="4" fill="black" />
-<line
-    stroke-linecap="square"
-    x1="1679"
-    y1="647"
+    x1="16"
+    y1="72"
     x2="1719"
-    y2="647"
+    y2="72"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
             "
 />
 
-    <circle cx="1679" cy="647" r="4" fill="black" />
+    <circle cx="16" cy="72" r="4" fill="black" />
 <line
     stroke-linecap="square"
     x1="1434"
-    y1="527"
+    y1="182"
     x2="1454"
-    y2="527"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -266,34 +243,34 @@
 <line
     stroke-linecap="square"
     x1="1454"
-    y1="527"
+    y1="182"
     x2="1454"
-    y2="567"
+    y2="72"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
 
-    <circle cx="1454" cy="527" r="4" fill="black" />
+    <circle cx="1454" cy="182" r="4" fill="black" />
 <line
     stroke-linecap="square"
     x1="1454"
-    y1="567"
-    x2="1719"
-    y2="567"
+    y1="72"
+    x2="16"
+    y2="72"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
             "
 />
 
-    <circle cx="1454" cy="567" r="4" fill="black" />
+    <circle cx="1454" cy="72" r="4" fill="black" />
 <line
     stroke-linecap="square"
     x1="1659"
-    y1="527"
+    y1="237"
     x2="1719"
-    y2="527"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -303,9 +280,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="472"
+    y1="292"
     x2="76"
-    y2="472"
+    y2="292"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -315,9 +292,9 @@
 <line
     stroke-linecap="square"
     x1="259"
-    y1="197"
+    y1="292"
     x2="279"
-    y2="197"
+    y2="292"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -326,21 +303,21 @@
 <line
     stroke-linecap="square"
     x1="279"
-    y1="197"
+    y1="292"
     x2="279"
-    y2="362"
+    y2="402"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
 
-    <circle cx="279" cy="197" r="4" fill="black" />
+    <circle cx="279" cy="292" r="4" fill="black" />
 <line
     stroke-linecap="square"
     x1="279"
-    y1="362"
+    y1="402"
     x2="505"
-    y2="362"
+    y2="402"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -350,9 +327,9 @@
 <line
     stroke-linecap="square"
     x1="1719"
-    y1="647"
+    y1="72"
     x2="382"
-    y2="647"
+    y2="72"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -361,9 +338,9 @@
 <line
     stroke-linecap="square"
     x1="382"
-    y1="647"
+    y1="72"
     x2="382"
-    y2="252"
+    y2="482"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -372,9 +349,9 @@
 <line
     stroke-linecap="square"
     x1="382"
-    y1="252"
+    y1="482"
     x2="505"
-    y2="252"
+    y2="482"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -384,9 +361,9 @@
 <line
     stroke-linecap="square"
     x1="1719"
-    y1="647"
+    y1="72"
     x2="702"
-    y2="647"
+    y2="72"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -395,9 +372,9 @@
 <line
     stroke-linecap="square"
     x1="702"
-    y1="647"
+    y1="72"
     x2="702"
-    y2="307"
+    y2="442"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -406,9 +383,9 @@
 <line
     stroke-linecap="square"
     x1="702"
-    y1="307"
+    y1="442"
     x2="735"
-    y2="307"
+    y2="442"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -418,9 +395,9 @@
 <line
     stroke-linecap="square"
     x1="670"
-    y1="362"
+    y1="402"
     x2="735"
-    y2="362"
+    y2="402"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -430,32 +407,9 @@
 <line
     stroke-linecap="square"
     x1="259"
-    y1="197"
-    x2="291"
-    y2="197"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-<line
-    stroke-linecap="square"
-    x1="291"
-    y1="197"
-    x2="291"
-    y2="472"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-    <circle cx="291" cy="197" r="4" fill="black" />
-<line
-    stroke-linecap="square"
-    x1="291"
-    y1="472"
+    y1="292"
     x2="319"
-    y2="472"
+    y2="292"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -465,9 +419,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="527"
+    y1="237"
     x2="319"
-    y2="527"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -477,9 +431,9 @@
 <line
     stroke-linecap="square"
     x1="445"
-    y1="527"
+    y1="237"
     x2="505"
-    y2="527"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -489,9 +443,9 @@
 <line
     stroke-linecap="square"
     x1="670"
-    y1="527"
+    y1="237"
     x2="987"
-    y2="527"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -501,9 +455,9 @@
 <line
     stroke-linecap="square"
     x1="445"
-    y1="472"
+    y1="292"
     x2="987"
-    y2="472"
+    y2="292"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -513,9 +467,9 @@
 <line
     stroke-linecap="square"
     x1="927"
-    y1="417"
+    y1="347"
     x2="987"
-    y2="417"
+    y2="347"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -525,9 +479,9 @@
 <line
     stroke-linecap="square"
     x1="1131"
-    y1="527"
+    y1="237"
     x2="1191"
-    y2="527"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -537,9 +491,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="607"
+    y1="127"
     x2="1191"
-    y2="607"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -549,9 +503,9 @@
 <line
     stroke-linecap="square"
     x1="445"
-    y1="567"
+    y1="182"
     x2="1191"
-    y2="567"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -561,9 +515,9 @@
 <line
     stroke-linecap="square"
     x1="927"
-    y1="362"
+    y1="402"
     x2="1335"
-    y2="362"
+    y2="402"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -573,9 +527,9 @@
 <line
     stroke-linecap="square"
     x1="1275"
-    y1="527"
+    y1="237"
     x2="1335"
-    y2="527"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -585,9 +539,32 @@
 <line
     stroke-linecap="square"
     x1="259"
-    y1="197"
+    y1="292"
+    x2="291"
+    y2="292"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="291"
+    y1="292"
+    x2="291"
+    y2="522"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="291" cy="292" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="291"
+    y1="522"
     x2="1494"
-    y2="197"
+    y2="522"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -597,9 +574,32 @@
 <line
     stroke-linecap="square"
     x1="1434"
-    y1="527"
+    y1="182"
+    x2="1466"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1466"
+    y1="182"
+    x2="1466"
+    y2="237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="1466" cy="182" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="1466"
+    y1="237"
     x2="1494"
-    y2="527"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

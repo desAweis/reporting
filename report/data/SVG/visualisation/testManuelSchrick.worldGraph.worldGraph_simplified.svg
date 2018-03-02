@@ -1,0 +1,2351 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: worldGraph -->
+<g transform="translate(16 20)">
+
+    <rect
+        id="0"
+        width="3313"
+        height="3037"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            worldGraph
+    </text>
+
+</g>
+
+</svg><!-- Component: node1a -->
+<g transform="translate(608 2432)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node1a"
+        id="13"
+        width="66"
+        height="190"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node1a
+    </text>
+</g><!-- Component: node1b -->
+<g transform="translate(3068 147)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node1b"
+        id="51"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node1b
+    </text>
+</g><!-- Component: node2 -->
+<g transform="translate(734 1692)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node2"
+        id="16"
+        width="57"
+        height="835"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node2
+    </text>
+</g><!-- Component: node3 -->
+<g transform="translate(851 1827)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node3"
+        id="20"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node3
+    </text>
+</g><!-- Component: node4 -->
+<g transform="translate(2330 462)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node4"
+        id="43"
+        width="57"
+        height="660"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node4
+    </text>
+</g><!-- Component: node5 -->
+<g transform="translate(2447 572)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node5"
+        id="44"
+        width="57"
+        height="280"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node5
+    </text>
+</g><!-- Component: node6 -->
+<g transform="translate(2564 722)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node6"
+        id="45"
+        width="75"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node6
+    </text>
+</g><!-- Component: node7 -->
+<g transform="translate(2699 722)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node7"
+        id="47"
+        width="57"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node7
+    </text>
+</g><!-- Component: node8a -->
+<g transform="translate(608 517)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node8a"
+        id="11"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node8a
+    </text>
+</g><!-- Component: node8b -->
+<g transform="translate(2816 722)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node8b"
+        id="48"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node8b
+    </text>
+</g><!-- Component: node9 -->
+<g transform="translate(734 352)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node9"
+        id="15"
+        width="57"
+        height="220"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node9
+    </text>
+</g><!-- Component: node10 -->
+<g transform="translate(1112 1882)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node10"
+        id="24"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node10
+    </text>
+</g><!-- Component: node11 -->
+<g transform="translate(1238 1882)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node11"
+        id="28"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node11
+    </text>
+</g><!-- Component: node12 -->
+<g transform="translate(1238 2202)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node12"
+        id="30"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node12
+    </text>
+</g><!-- Component: node13 -->
+<g transform="translate(1238 2072)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node13"
+        id="29"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node13
+    </text>
+</g><!-- Component: node14 -->
+<g transform="translate(1238 2377)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node14"
+        id="31"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node14
+    </text>
+</g><!-- Component: node15 -->
+<g transform="translate(2129 2072)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node15"
+        id="42"
+        width="66"
+        height="965"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node15
+    </text>
+</g><!-- Component: node16 -->
+<g transform="translate(977 2697)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node16"
+        id="22"
+        width="75"
+        height="95"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node16
+    </text>
+</g><!-- Component: node17 -->
+<g transform="translate(851 1692)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node17"
+        id="19"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node17
+    </text>
+</g><!-- Component: node18 -->
+<g transform="translate(1112 2642)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node18"
+        id="26"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node18
+    </text>
+</g><!-- Component: node19 -->
+<g transform="translate(1490 1502)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node19"
+        id="33"
+        width="66"
+        height="325"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node19
+    </text>
+</g><!-- Component: node20 -->
+<g transform="translate(1868 2072)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node20"
+        id="37"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node20
+    </text>
+</g><!-- Component: node21 -->
+<g transform="translate(1616 1502)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node21"
+        id="34"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node21
+    </text>
+</g><!-- Component: node22 -->
+<g transform="translate(1868 1122)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node22"
+        id="36"
+        width="66"
+        height="205"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node22
+    </text>
+</g><!-- Component: node23 -->
+<g transform="translate(2942 297)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node23"
+        id="49"
+        width="66"
+        height="330"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node23
+    </text>
+</g><!-- Component: node24a -->
+<g transform="translate(977 52)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node24a"
+        id="21"
+        width="75"
+        height="95"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node24a
+    </text>
+</g><!-- Component: node24b -->
+<g transform="translate(3194 52)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node24b"
+        id="53"
+        width="75"
+        height="575"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node24b
+    </text>
+</g><!-- Component: node25 -->
+<g transform="translate(1238 407)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node25"
+        id="27"
+        width="66"
+        height="110"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node25
+    </text>
+</g><!-- Component: node26 -->
+<g transform="translate(1364 462)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node26"
+        id="32"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node26
+    </text>
+</g><!-- Component: node27 -->
+<g transform="translate(1112 52)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node27"
+        id="23"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node27
+    </text>
+</g><!-- Component: node28 -->
+<g transform="translate(1742 2147)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node28"
+        id="35"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node28
+    </text>
+</g><!-- Component: node29 -->
+<g transform="translate(1868 2147)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node29"
+        id="38"
+        width="66"
+        height="230"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node29
+    </text>
+</g><!-- Component: node30a -->
+<g transform="translate(342 1232)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node30a"
+        id="7"
+        width="75"
+        height="175"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node30a
+    </text>
+</g><!-- Component: node30b -->
+<g transform="translate(1994 2527)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node30b"
+        id="40"
+        width="75"
+        height="305"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node30b
+    </text>
+</g><!-- Component: node31 -->
+<g transform="translate(482 147)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node31"
+        id="8"
+        width="66"
+        height="745"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node31
+    </text>
+</g><!-- Component: node32 -->
+<g transform="translate(608 297)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node32"
+        id="10"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node32
+    </text>
+</g><!-- Component: node33 -->
+<g transform="translate(482 1692)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node33"
+        id="9"
+        width="66"
+        height="1195"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node33
+    </text>
+</g><!-- Component: node34 -->
+<g transform="translate(608 2832)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node34"
+        id="14"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node34
+    </text>
+</g><!-- Component: node35a -->
+<g transform="translate(76 892)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node35a"
+        id="2"
+        width="75"
+        height="110"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node35a
+    </text>
+</g><!-- Component: node35b -->
+<g transform="translate(2564 797)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node35b"
+        id="46"
+        width="75"
+        height="380"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node35b
+    </text>
+</g><!-- Component: node36 -->
+<g transform="translate(211 947)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node36"
+        id="4"
+        width="66"
+        height="500"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node36
+    </text>
+</g><!-- Component: node37 -->
+<g transform="translate(76 1447)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node37"
+        id="3"
+        width="75"
+        height="1590"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node37
+    </text>
+</g><!-- Component: node38 -->
+<g transform="translate(2129 1177)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node38"
+        id="41"
+        width="66"
+        height="325"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node38
+    </text>
+</g><!-- Component: node39 -->
+<g transform="translate(211 2982)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node39"
+        id="6"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node39
+    </text>
+</g><!-- Component: node40 -->
+<g transform="translate(851 1502)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node40"
+        id="18"
+        width="66"
+        height="95"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node40
+    </text>
+</g><!-- Component: node41 -->
+<g transform="translate(211 2887)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node41"
+        id="5"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node41
+    </text>
+</g><!-- Component: node42 -->
+<g transform="translate(851 517)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node42"
+        id="17"
+        width="66"
+        height="110"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node42
+    </text>
+</g><!-- Component: node43 -->
+<g transform="translate(608 892)">
+    <rect
+        data-name="testManuelSchrick.worldGraph.worldGraph.node43"
+        id="12"
+        width="66"
+        height="475"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    node43
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><line
+    stroke-linecap="square"
+    x1="674"
+    y1="552"
+    x2="734"
+    y2="552"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1052"
+    y1="127"
+    x2="1145"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1145"
+    y1="127"
+    x2="1145"
+    y2="497"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1145"
+    y1="497"
+    x2="1238"
+    y2="497"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1052"
+    y1="87"
+    x2="1112"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="674"
+    y1="2467"
+    x2="734"
+    y2="2467"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="674"
+    y1="2602"
+    x2="1112"
+    y2="2602"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="151"
+    y1="927"
+    x2="608"
+    y2="927"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="151"
+    y1="982"
+    x2="211"
+    y2="982"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="417"
+    y1="1267"
+    x2="449"
+    y2="1267"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="449"
+    y1="1267"
+    x2="449"
+    y2="872"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="449"
+    y1="872"
+    x2="482"
+    y2="872"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="417"
+    y1="1387"
+    x2="449"
+    y2="1387"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="449"
+    y1="1387"
+    x2="449"
+    y2="1727"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="449"
+    y1="1727"
+    x2="482"
+    y2="1727"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="791"
+    y1="552"
+    x2="851"
+    y2="552"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="791"
+    y1="387"
+    x2="884"
+    y2="387"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="884"
+    y1="387"
+    x2="884"
+    y2="662"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="884"
+    y1="662"
+    x2="3068"
+    y2="662"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1304"
+    y1="442"
+    x2="2849"
+    y2="442"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2849"
+    y1="442"
+    x2="2849"
+    y2="702"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2849"
+    y1="702"
+    x2="3068"
+    y2="702"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1304"
+    y1="497"
+    x2="1364"
+    y2="497"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1178"
+    y1="87"
+    x2="3194"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="791"
+    y1="1862"
+    x2="851"
+    y2="1862"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="791"
+    y1="2507"
+    x2="884"
+    y2="2507"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="884"
+    y1="2507"
+    x2="884"
+    y2="2732"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="884"
+    y1="2732"
+    x2="977"
+    y2="2732"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="791"
+    y1="1727"
+    x2="851"
+    y2="1727"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="791"
+    y1="1997"
+    x2="3068"
+    y2="1997"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="791"
+    y1="2467"
+    x2="1014"
+    y2="2467"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1014"
+    y1="2467"
+    x2="1014"
+    y2="2677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1014"
+    y1="2677"
+    x2="1112"
+    y2="2677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1178"
+    y1="1917"
+    x2="1238"
+    y2="1917"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1178"
+    y1="2412"
+    x2="1238"
+    y2="2412"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1178"
+    y1="2052"
+    x2="3068"
+    y2="2052"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1178"
+    y1="2107"
+    x2="1238"
+    y2="2107"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1178"
+    y1="2237"
+    x2="1238"
+    y2="2237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="548"
+    y1="182"
+    x2="3068"
+    y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="548"
+    y1="332"
+    x2="608"
+    y2="332"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="548"
+    y1="2812"
+    x2="1994"
+    y2="2812"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="548"
+    y1="2867"
+    x2="608"
+    y2="2867"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="917"
+    y1="607"
+    x2="2330"
+    y2="607"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1430"
+    y1="497"
+    x2="2330"
+    y2="497"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="917"
+    y1="1862"
+    x2="2262"
+    y2="1862"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2262"
+    y1="1862"
+    x2="2262"
+    y2="1062"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2262"
+    y1="1062"
+    x2="2330"
+    y2="1062"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1052"
+    y1="2772"
+    x2="1523"
+    y2="2772"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1523"
+    y1="2772"
+    x2="1523"
+    y2="2962"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1523"
+    y1="2962"
+    x2="2129"
+    y2="2962"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="917"
+    y1="1727"
+    x2="1490"
+    y2="1727"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1178"
+    y1="2677"
+    x2="1523"
+    y2="2677"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1523"
+    y1="2677"
+    x2="1523"
+    y2="2277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1523"
+    y1="2277"
+    x2="1868"
+    y2="2277"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1304"
+    y1="1917"
+    x2="2297"
+    y2="1917"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2297"
+    y1="1917"
+    x2="2297"
+    y2="1102"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2297"
+    y1="1102"
+    x2="2330"
+    y2="1102"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1304"
+    y1="2412"
+    x2="2129"
+    y2="2412"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="151"
+    y1="3017"
+    x2="211"
+    y2="3017"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="151"
+    y1="2922"
+    x2="211"
+    y2="2922"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="151"
+    y1="1482"
+    x2="2129"
+    y2="1482"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="151"
+    y1="1577"
+    x2="851"
+    y2="1577"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1304"
+    y1="2107"
+    x2="1397"
+    y2="2107"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1397"
+    y1="2107"
+    x2="1397"
+    y2="1767"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1397"
+    y1="1767"
+    x2="1490"
+    y2="1767"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1304"
+    y1="2237"
+    x2="1868"
+    y2="2237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="674"
+    y1="982"
+    x2="2031"
+    y2="982"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2031"
+    y1="982"
+    x2="2031"
+    y2="1212"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2031"
+    y1="1212"
+    x2="2129"
+    y2="1212"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="674"
+    y1="1347"
+    x2="762"
+    y2="1347"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="762"
+    y1="1347"
+    x2="762"
+    y2="1537"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="762"
+    y1="1537"
+    x2="851"
+    y2="1537"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="277"
+    y1="1427"
+    x2="309"
+    y2="1427"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="309"
+    y1="1427"
+    x2="309"
+    y2="1632"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="309"
+    y1="1632"
+    x2="1490"
+    y2="1632"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="674"
+    y1="332"
+    x2="2942"
+    y2="332"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="674"
+    y1="2867"
+    x2="1649"
+    y2="2867"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1649"
+    y1="2867"
+    x2="1649"
+    y2="2317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1649"
+    y1="2317"
+    x2="1868"
+    y2="2317"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="277"
+    y1="3017"
+    x2="2129"
+    y2="3017"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="277"
+    y1="2922"
+    x2="1775"
+    y2="2922"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1775"
+    y1="2922"
+    x2="1775"
+    y2="2357"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1775"
+    y1="2357"
+    x2="1868"
+    y2="2357"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2195"
+    y1="1212"
+    x2="2227"
+    y2="1212"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2227"
+    y1="1212"
+    x2="2227"
+    y2="1022"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2227"
+    y1="1022"
+    x2="2330"
+    y2="1022"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="917"
+    y1="1537"
+    x2="1490"
+    y2="1537"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2387"
+    y1="607"
+    x2="2447"
+    y2="607"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1556"
+    y1="1537"
+    x2="1616"
+    y2="1537"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1556"
+    y1="1767"
+    x2="1775"
+    y2="1767"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1775"
+    y1="1767"
+    x2="1775"
+    y2="2107"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1775"
+    y1="2107"
+    x2="1868"
+    y2="2107"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1556"
+    y1="1807"
+    x2="1649"
+    y2="1807"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1649"
+    y1="1807"
+    x2="1649"
+    y2="2182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1649"
+    y1="2182"
+    x2="1742"
+    y2="2182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2504"
+    y1="757"
+    x2="2564"
+    y2="757"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2504"
+    y1="832"
+    x2="2564"
+    y2="832"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2504"
+    y1="607"
+    x2="2942"
+    y2="607"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1682"
+    y1="1537"
+    x2="1775"
+    y2="1537"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1775"
+    y1="1537"
+    x2="1775"
+    y2="1307"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1775"
+    y1="1307"
+    x2="1868"
+    y2="1307"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1934"
+    y1="2107"
+    x2="2129"
+    y2="2107"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1808"
+    y1="2182"
+    x2="1868"
+    y2="2182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2639"
+    y1="757"
+    x2="2699"
+    y2="757"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2195"
+    y1="2107"
+    x2="3068"
+    y2="2107"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1934"
+    y1="1307"
+    x2="2031"
+    y2="1307"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2031"
+    y1="1307"
+    x2="2031"
+    y2="1537"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2031"
+    y1="1537"
+    x2="2942"
+    y2="1537"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1934"
+    y1="1157"
+    x2="2564"
+    y2="1157"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="1934"
+    y1="2562"
+    x2="1994"
+    y2="2562"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="2756"
+    y1="757"
+    x2="2816"
+    y2="757"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="3008"
+    y1="607"
+    x2="3194"
+    y2="607"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="3008"
+    y1="757"
+    x2="3068"
+    y2="757"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+
+</svg>

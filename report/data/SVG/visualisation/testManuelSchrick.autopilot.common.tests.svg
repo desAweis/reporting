@@ -1,0 +1,209 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: tests -->
+<g transform="translate(31 20)">
+
+    <rect
+        id="11"
+        width="1458"
+        height="107"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            tests
+    </text>
+
+</g>
+
+</svg><!-- Component: abs -->
+<g transform="translate(1348 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.abs"
+        id="20"
+        width="81"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    abs
+    </text>
+</g><!-- Component: eb1 -->
+<g transform="translate(976 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.eb1"
+        id="18"
+        width="117"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    eb1
+    </text>
+</g><!-- Component: eb2 -->
+<g transform="translate(1153 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.eb2"
+        id="19"
+        width="135"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+            onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
+            onclick="window.open('testManuelSchrick.autopilot.common.tests.eb2.html','_parent',false);parent.openFileInEditor('/autopilot/common/tests/eb2.ema');"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    eb2
+    </text>
+</g><!-- Component: eb3 -->
+<g transform="translate(454 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.eb3"
+        id="15"
+        width="135"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+            onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
+            onclick="window.open('testManuelSchrick.autopilot.common.tests.eb3.html','_parent',false);parent.openFileInEditor('/autopilot/common/tests/eb3.ema');"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    eb3
+    </text>
+</g><!-- Component: eb4 -->
+<g transform="translate(649 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.eb4"
+        id="16"
+        width="135"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+            onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
+            onclick="window.open('testManuelSchrick.autopilot.common.tests.eb4.html','_parent',false);parent.openFileInEditor('/autopilot/common/tests/eb4.ema');"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    eb4
+    </text>
+</g><!-- Component: pid -->
+<g transform="translate(217 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.pid"
+        id="14"
+        width="177"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    pid
+    </text>
+</g><!-- Component: sab -->
+<g transform="translate(844 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.sab"
+        id="17"
+        width="72"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    sab
+    </text>
+</g><!-- Component: sum -->
+<g transform="translate(91 52)">
+    <rect
+        data-name="testManuelSchrick.autopilot.common.tests.sum"
+        id="13"
+        width="66"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    sum
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><defs>
+    <!-- Small box indicating a port -->
+    <rect id="port" x="0" y="0" width="16" height="16"
+          style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
+</defs>
+</svg>

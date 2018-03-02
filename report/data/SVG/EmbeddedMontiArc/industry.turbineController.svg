@@ -1,0 +1,606 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: turbineController -->
+<g transform="translate(70 20)">
+
+    <rect
+        id="30"
+        width="1149"
+        height="422"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            turbineController
+    </text>
+
+</g>
+
+</svg><!-- Component: filtering -->
+<g transform="translate(130 107)">
+    <rect
+        data-name="industry.turbineController.filtering"
+        id="31"
+        width="171"
+        height="110"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    filtering
+    </text>
+</g><!-- Component: pitchEstimator -->
+<g transform="translate(361 217)">
+    <rect
+        data-name="industry.turbineController.pitchEstimator"
+        id="32"
+        width="159"
+        height="130"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    pitchEstimator
+    </text>
+</g><!-- Component: piController -->
+<g transform="translate(361 367)">
+    <rect
+        data-name="industry.turbineController.piController"
+        id="33"
+        width="159"
+        height="55"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    piController
+    </text>
+</g><!-- Component: mainController -->
+<g transform="translate(580 52)">
+    <rect
+        data-name="industry.turbineController.mainController"
+        id="34"
+        width="174"
+        height="165"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    mainController
+    </text>
+</g><!-- Component: pitchRegulator -->
+<g transform="translate(580 292)">
+    <rect
+        data-name="industry.turbineController.pitchRegulator"
+        id="35"
+        width="174"
+        height="130"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    pitchRegulator
+    </text>
+</g><!-- Component: brakeController -->
+<g transform="translate(814 162)">
+    <rect
+        data-name="industry.turbineController.brakeController"
+        id="36"
+        width="159"
+        height="185"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    brakeController
+    </text>
+</g><!-- Component: parkController -->
+<g transform="translate(1033 52)">
+    <rect
+        data-name="industry.turbineController.parkController"
+        id="37"
+        width="126"
+        height="165"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    parkController
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><line
+    stroke-linecap="square"
+    x1="1167"
+    y1="197"
+    x2="1211"
+    y2="197"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="78"
+    y1="197"
+    x2="122"
+    y2="197"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="78"
+    y1="142"
+    x2="122"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="309"
+    y1="197"
+    x2="572"
+    y2="197"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="309"
+    y1="197"
+    x2="321"
+    y2="197"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="321"
+    y1="197"
+    x2="321"
+    y2="327"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="321" cy="197" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="321"
+    y1="327"
+    x2="353"
+    y2="327"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="309"
+    y1="197"
+    x2="333"
+    y2="197"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="333"
+    y1="197"
+    x2="333"
+    y2="402"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="333" cy="197" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="333"
+    y1="402"
+    x2="353"
+    y2="402"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="309"
+    y1="142"
+    x2="572"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="309"
+    y1="142"
+    x2="326"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="326"
+    y1="142"
+    x2="326"
+    y2="252"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="326" cy="142" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="326"
+    y1="252"
+    x2="353"
+    y2="252"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="528"
+    y1="327"
+    x2="572"
+    y2="327"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="528"
+    y1="402"
+    x2="572"
+    y2="402"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="762"
+    y1="327"
+    x2="806"
+    y2="327"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="762"
+    y1="197"
+    x2="806"
+    y2="197"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="762"
+    y1="142"
+    x2="1025"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="762"
+    y1="87"
+    x2="1025"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="762"
+    y1="87"
+    x2="774"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="774"
+    y1="87"
+    x2="774"
+    y2="252"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="774" cy="87" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="774"
+    y1="252"
+    x2="806"
+    y2="252"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="981"
+    y1="197"
+    x2="1025"
+    y2="197"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<defs>
+    <!-- Small box indicating a port -->
+    <rect id="port" x="0" y="0" width="16" height="16"
+          style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
+</defs><use x="62" y="189" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="58" y="199" transform="rotate(0,58,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+omega
+</text>
+
+<use x="62" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="58" y="144" transform="rotate(0,58,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+windSpeed
+</text>
+
+<use x="1211" y="189" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="1231" y="199" transform="rotate(0,1231,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+controlSignals
+</text>
+
+<use x="122" y="189" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="141" y="199" transform="rotate(0,141,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+omega
+</text>
+
+<use x="122" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="141" y="144" transform="rotate(0,141,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+windSpeed
+</text>
+
+<use x="293" y="189" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="290" y="199" transform="rotate(0,290,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+filteredOmega
+</text>
+
+<use x="293" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="290" y="144" transform="rotate(0,290,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+filteredWindSpeed
+</text>
+
+<use x="353" y="244" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="372" y="254" transform="rotate(0,372,254)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+windSpeed
+</text>
+
+<use x="353" y="319" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="372" y="329" transform="rotate(0,372,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+rotorSpeed
+</text>
+
+<use x="512" y="319" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="509" y="329" transform="rotate(0,509,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+estimatedAngle
+</text>
+
+<use x="353" y="394" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="372" y="404" transform="rotate(0,372,404)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+rotorSpeed
+</text>
+
+<use x="512" y="394" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="509" y="404" transform="rotate(0,509,404)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+desiredAngle
+</text>
+
+<use x="572" y="189" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="591" y="199" transform="rotate(0,591,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+filteredSpeed
+</text>
+
+<use x="572" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="591" y="144" transform="rotate(0,591,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+filteredOmega
+</text>
+
+<use x="746" y="189" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="743" y="199" transform="rotate(0,743,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+pitchBrake
+</text>
+
+<use x="746" y="134" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="743" y="144" transform="rotate(0,743,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+parkingBrake
+</text>
+
+<use x="746" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="743" y="89" transform="rotate(0,743,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+turbineState
+</text>
+
+<use x="572" y="319" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="591" y="329" transform="rotate(0,591,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+estimatedAngle
+</text>
+
+<use x="572" y="394" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="591" y="404" transform="rotate(0,591,404)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+desiredAngle
+</text>
+
+<use x="746" y="319" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="743" y="329" transform="rotate(0,743,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+regulatedPitch
+</text>
+
+<use x="806" y="189" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="825" y="199" transform="rotate(0,825,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+pitchBrake
+</text>
+
+<use x="806" y="319" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="825" y="329" transform="rotate(0,825,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+regulatedPitch
+</text>
+
+<use x="806" y="244" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="825" y="254" transform="rotate(0,825,254)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+turbineState
+</text>
+
+<use x="965" y="189" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="962" y="199" transform="rotate(0,962,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+brakeSignal
+</text>
+
+<use x="1025" y="134" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="1044" y="144" transform="rotate(0,1044,144)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+parkingBrake
+</text>
+
+<use x="1025" y="189" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="1044" y="199" transform="rotate(0,1044,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+brakeControl
+</text>
+
+<use x="1025" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="1044" y="89" transform="rotate(0,1044,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+turbineState
+</text>
+
+<use x="1151" y="189" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="1148" y="199" transform="rotate(0,1148,199)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+out1
+</text>
+
+
+</svg>
