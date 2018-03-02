@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="20"
+        id="16"
         width="240"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,7 +26,7 @@
 <g transform="translate(76 52)">
     <rect
         data-name="autopilot.common.ensureBoundsForEngine.ensureBounds"
-        id="22"
+        id="18"
         width="120"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -34,7 +34,7 @@
     />
 
     <text
-        x="8"
+        x="10"
         y="15"
         alignment-baseline="middle"
         style="font-weight: bold"
@@ -50,7 +50,7 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="196"
+    x1="204"
     y1="87"
     x2="248"
     y2="87"
@@ -59,9 +59,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="16"
+    x1="24"
     y1="87"
     x2="68"
     y2="87"
@@ -70,6 +71,7 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <defs>
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"

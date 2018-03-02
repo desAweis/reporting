@@ -34,7 +34,7 @@
     />
 
     <text
-        x="8"
+        x="10"
         y="15"
         alignment-baseline="middle"
         style="font-weight: bold"
@@ -52,16 +52,6 @@
     stroke-linecap="square"
     x1="196"
     y1="87"
-    x2="248"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="248"
-    y1="87"
     x2="256"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -69,19 +59,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
-    x2="68"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-<line
-    stroke-linecap="square"
-    x1="68"
     y1="87"
     x2="76"
     y2="87"
@@ -90,5 +71,6 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 
 </svg>

@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="70"
+        id="52"
         width="924"
         height="277"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -26,7 +26,7 @@
 <g transform="translate(76 147)">
     <rect
         data-name="autopilot.behavior.driveToPosition.calculateVectorFromTo"
-        id="72"
+        id="54"
         width="189"
         height="130"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -34,7 +34,7 @@
     />
 
     <text
-        x="8"
+        x="10"
         y="15"
         alignment-baseline="middle"
         style="font-weight: bold"
@@ -47,7 +47,7 @@
 <g transform="translate(325 222)">
     <rect
         data-name="autopilot.behavior.driveToPosition.normalizeVector"
-        id="74"
+        id="56"
         width="180"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -55,7 +55,7 @@
     />
 
     <text
-        x="8"
+        x="10"
         y="15"
         alignment-baseline="middle"
         style="font-weight: bold"
@@ -68,7 +68,7 @@
 <g transform="translate(325 147)">
     <rect
         data-name="autopilot.behavior.driveToPosition.calculateVectorLength"
-        id="73"
+        id="55"
         width="180"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -76,7 +76,7 @@
     />
 
     <text
-        x="8"
+        x="10"
         y="15"
         alignment-baseline="middle"
         style="font-weight: bold"
@@ -89,7 +89,7 @@
 <g transform="translate(565 147)">
     <rect
         data-name="autopilot.behavior.driveToPosition.calculateVelocity"
-        id="75"
+        id="57"
         width="138"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -97,7 +97,7 @@
     />
 
     <text
-        x="8"
+        x="10"
         y="15"
         alignment-baseline="middle"
         style="font-weight: bold"
@@ -110,7 +110,7 @@
 <g transform="translate(763 52)">
     <rect
         data-name="autopilot.behavior.driveToPosition.boundVelocity"
-        id="76"
+        id="58"
         width="117"
         height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -118,7 +118,7 @@
     />
 
     <text
-        x="8"
+        x="10"
         y="15"
         alignment-baseline="middle"
         style="font-weight: bold"
@@ -134,7 +134,7 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="505"
+    x1="513"
     y1="257"
     x2="932"
     y2="257"
@@ -143,9 +143,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="880"
+    x1="888"
     y1="182"
     x2="932"
     y2="182"
@@ -154,9 +155,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="16"
+    x1="24"
     y1="257"
     x2="68"
     y2="257"
@@ -165,9 +167,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="16"
+    x1="24"
     y1="182"
     x2="68"
     y2="182"
@@ -176,29 +179,33 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="265"
+    x1="273"
     y1="182"
-    x2="295"
+    x2="285"
     y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+
 <line
     stroke-linecap="square"
-    x1="295"
+    x1="285"
     y1="182"
-    x2="295"
+    x2="285"
     y2="257"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
+
+    <circle cx="285" cy="182" r="4" fill="black" />
 <line
     stroke-linecap="square"
-    x1="295"
+    x1="285"
     y1="257"
     x2="317"
     y2="257"
@@ -207,9 +214,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="265"
+    x1="273"
     y1="182"
     x2="317"
     y2="182"
@@ -218,9 +226,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="505"
+    x1="513"
     y1="182"
     x2="557"
     y2="182"
@@ -229,9 +238,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="16"
+    x1="24"
     y1="127"
     x2="755"
     y2="127"
@@ -240,9 +250,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="16"
+    x1="24"
     y1="87"
     x2="755"
     y2="87"
@@ -251,9 +262,10 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <line
     stroke-linecap="square"
-    x1="703"
+    x1="711"
     y1="182"
     x2="755"
     y2="182"
@@ -262,6 +274,7 @@
                 marker-end: url(#0,0,0)
             "
 />
+
 <defs>
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
