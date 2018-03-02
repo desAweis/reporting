@@ -1,0 +1,298 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+<!-- Canvas: steerController1 -->
+<g transform="translate(124 20)">
+
+    <rect
+        id="74"
+        width="345"
+        height="467"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
+
+    <text
+        x="8"
+        y="20"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="13"
+        fill="black">
+            steerController1
+    </text>
+
+</g>
+
+</svg><!-- Component: steeringCalculator -->
+<g transform="translate(184 52)">
+    <rect
+        data-name="simulator.mainController.steerController1.steeringCalculator"
+        id="76"
+        width="225"
+        height="415"
+        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
+    />
+
+    <text
+        x="10"
+        y="15"
+        alignment-baseline="middle"
+        style="font-weight: bold"
+        font-family="Verdana"
+        font-size="11"
+        fill="black">
+    steeringCalculator
+    </text>
+</g><defs>
+    <marker id="0,0,0" markerWidth="13" markerHeight="13" refX="5" refY="5" orient="auto">
+            <polyline points="0,2 5,5 0,8" style="fill:none; stroke:rgb(0,0,0);
+                    stroke-width:1" />
+    </marker>
+</defs><line
+    stroke-linecap="square"
+    x1="417"
+    y1="447"
+    x2="461"
+    y2="447"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="447"
+    x2="176"
+    y2="447"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="87"
+    x2="176"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="127"
+    x2="176"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="167"
+    x2="176"
+    y2="167"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="207"
+    x2="176"
+    y2="207"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="247"
+    x2="176"
+    y2="247"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="287"
+    x2="176"
+    y2="287"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="327"
+    x2="176"
+    y2="327"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="367"
+    x2="176"
+    y2="367"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="132"
+    y1="407"
+    x2="176"
+    y2="407"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<defs>
+    <!-- Small box indicating a port -->
+    <rect id="port" x="0" y="0" width="16" height="16"
+          style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
+</defs><use x="116" y="439" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="449" transform="rotate(0,112,449)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+x[1]
+</text>
+
+<use x="116" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="89" transform="rotate(0,112,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+x[2]
+</text>
+
+<use x="116" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="129" transform="rotate(0,112,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+y[1]
+</text>
+
+<use x="116" y="159" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="169" transform="rotate(0,112,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+y[2]
+</text>
+
+<use x="116" y="199" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="209" transform="rotate(0,112,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+gpsX
+</text>
+
+<use x="116" y="239" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="249" transform="rotate(0,112,249)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+gpsY
+</text>
+
+<use x="116" y="279" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="289" transform="rotate(0,112,289)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+orientation
+</text>
+
+<use x="116" y="399" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="409" transform="rotate(0,112,409)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+currentSteeringAngle
+</text>
+
+<use x="116" y="319" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="329" transform="rotate(0,112,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+minSteeringAngle
+</text>
+
+<use x="116" y="359" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="112" y="369" transform="rotate(0,112,369)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+maxSteeringAngle
+</text>
+
+<use x="461" y="439" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="481" y="449" transform="rotate(0,481,449)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+steeringAngle
+</text>
+
+<use x="176" y="439" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="449" transform="rotate(0,195,449)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+x[1]
+</text>
+
+<use x="176" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="89" transform="rotate(0,195,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+x[2]
+</text>
+
+<use x="176" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="129" transform="rotate(0,195,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+y[1]
+</text>
+
+<use x="176" y="159" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="169" transform="rotate(0,195,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+y[2]
+</text>
+
+<use x="176" y="199" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="209" transform="rotate(0,195,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+gpsX
+</text>
+
+<use x="176" y="239" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="249" transform="rotate(0,195,249)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+gpsY
+</text>
+
+<use x="176" y="279" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="289" transform="rotate(0,195,289)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+orientation
+</text>
+
+<use x="176" y="399" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="409" transform="rotate(0,195,409)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+currentSteeringAngle
+</text>
+
+<use x="176" y="319" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="329" transform="rotate(0,195,329)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+minSteeringAngle
+</text>
+
+<use x="176" y="359" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="195" y="369" transform="rotate(0,195,369)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+maxSteeringAngle
+</text>
+
+<use x="401" y="439" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="398" y="449" transform="rotate(0,398,449)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+newSteeringAngle
+</text>
+
+
+</svg>
