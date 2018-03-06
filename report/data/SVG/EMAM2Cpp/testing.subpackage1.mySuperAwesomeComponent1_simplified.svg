@@ -7,7 +7,7 @@
     <rect
         id="0"
         width="357"
-        height="222"
+        height="237"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -26,9 +26,9 @@
 <g transform="translate(76 52)">
     <rect
         data-name="testing.subpackage1.mySuperAwesomeComponent1.c11"
-        id="1"
+        id="2"
         width="39"
-        height="170"
+        height="185"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,10 +44,10 @@
     c11
     </text>
 </g><!-- Component: c12 -->
-<g transform="translate(175 52)">
+<g transform="translate(175 107)">
     <rect
         data-name="testing.subpackage1.mySuperAwesomeComponent1.c12"
-        id="2"
+        id="3"
         width="39"
         height="130"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -65,10 +65,10 @@
     c12
     </text>
 </g><!-- Component: c13 -->
-<g transform="translate(274 52)">
+<g transform="translate(274 182)">
     <rect
         data-name="testing.subpackage1.mySuperAwesomeComponent1.c13"
-        id="3"
+        id="5"
         width="39"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -86,12 +86,12 @@
     c13
     </text>
 </g><!-- Component: c21 -->
-<g transform="translate(274 127)">
+<g transform="translate(274 52)">
     <rect
         data-name="testing.subpackage1.mySuperAwesomeComponent1.c21"
         id="4"
         width="39"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -114,9 +114,9 @@
 </defs><line
     stroke-linecap="square"
     x1="313"
-    y1="87"
+    y1="217"
     x2="373"
-    y2="87"
+    y2="217"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -126,9 +126,9 @@
 <line
     stroke-linecap="square"
     x1="313"
-    y1="162"
+    y1="142"
     x2="373"
-    y2="162"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -138,9 +138,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="217"
     x2="76"
-    y2="87"
+    y2="217"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -150,9 +150,9 @@
 <line
     stroke-linecap="square"
     x1="115"
-    y1="87"
+    y1="217"
     x2="175"
-    y2="87"
+    y2="217"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -162,6 +162,18 @@
 <line
     stroke-linecap="square"
     x1="214"
+    y1="217"
+    x2="274"
+    y2="217"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="115"
     y1="87"
     x2="274"
     y2="87"
@@ -173,22 +185,10 @@
 
 <line
     stroke-linecap="square"
-    x1="115"
-    y1="202"
-    x2="274"
-    y2="202"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
     x1="214"
-    y1="162"
+    y1="142"
     x2="274"
-    y2="162"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
