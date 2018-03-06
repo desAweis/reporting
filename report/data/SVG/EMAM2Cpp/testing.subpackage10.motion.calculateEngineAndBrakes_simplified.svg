@@ -7,7 +7,7 @@
     <rect
         id="0"
         width="617"
-        height="257"
+        height="272"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: pidParams -->
-<g transform="translate(76 52)">
+<g transform="translate(76 217)">
     <rect
         data-name="testing.subpackage10.motion.calculateEngineAndBrakes.pidParams"
-        id="1"
+        id="3"
         width="93"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -44,12 +44,12 @@
     pidParams
     </text>
 </g><!-- Component: pidError -->
-<g transform="translate(76 147)">
+<g transform="translate(76 52)">
     <rect
         data-name="testing.subpackage10.motion.calculateEngineAndBrakes.pidError"
         id="2"
         width="93"
-        height="55"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -65,10 +65,10 @@
     pidError
     </text>
 </g><!-- Component: abs1 -->
-<g transform="translate(229 202)">
+<g transform="translate(229 52)">
     <rect
         data-name="testing.subpackage10.motion.calculateEngineAndBrakes.abs1"
-        id="3"
+        id="4"
         width="48"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -86,12 +86,12 @@
     abs1
     </text>
 </g><!-- Component: pid -->
-<g transform="translate(342 52)">
+<g transform="translate(342 162)">
     <rect
         data-name="testing.subpackage10.motion.calculateEngineAndBrakes.pid"
-        id="4"
+        id="5"
         width="36"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -107,12 +107,12 @@
     pid
     </text>
 </g><!-- Component: engineOrBrakes -->
-<g transform="translate(438 52)">
+<g transform="translate(438 107)">
     <rect
         data-name="testing.subpackage10.motion.calculateEngineAndBrakes.engineOrBrakes"
-        id="5"
+        id="6"
         width="135"
-        height="150"
+        height="165"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -135,9 +135,9 @@
 </defs><line
     stroke-linecap="square"
     x1="573"
-    y1="87"
+    y1="252"
     x2="633"
-    y2="87"
+    y2="252"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -147,9 +147,32 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="142"
+    x2="36"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="36"
+    y1="142"
+    x2="36"
+    y2="252"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="36" cy="142" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="36"
+    y1="252"
     x2="76"
-    y2="87"
+    y2="252"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -159,32 +182,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
-    x2="36"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-<line
-    stroke-linecap="square"
-    x1="36"
-    y1="87"
-    x2="36"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-    <circle cx="36" cy="87" r="4" fill="black" />
-<line
-    stroke-linecap="square"
-    x1="36"
-    y1="182"
+    y1="142"
     x2="76"
-    y2="182"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -194,9 +194,9 @@
 <line
     stroke-linecap="square"
     x1="169"
-    y1="87"
+    y1="252"
     x2="342"
-    y2="87"
+    y2="252"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -206,32 +206,9 @@
 <line
     stroke-linecap="square"
     x1="169"
-    y1="182"
-    x2="189"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="182"
-    x2="189"
-    y2="237"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-    <circle cx="189" cy="182" r="4" fill="black" />
-<line
-    stroke-linecap="square"
-    x1="189"
-    y1="237"
+    y1="87"
     x2="229"
-    y2="237"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -241,9 +218,9 @@
 <line
     stroke-linecap="square"
     x1="277"
-    y1="237"
+    y1="87"
     x2="309"
-    y2="237"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -252,9 +229,9 @@
 <line
     stroke-linecap="square"
     x1="309"
-    y1="237"
+    y1="87"
     x2="309"
-    y2="127"
+    y2="197"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -263,9 +240,9 @@
 <line
     stroke-linecap="square"
     x1="309"
-    y1="127"
+    y1="197"
     x2="342"
-    y2="127"
+    y2="197"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -275,9 +252,32 @@
 <line
     stroke-linecap="square"
     x1="169"
-    y1="182"
+    y1="87"
+    x2="189"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="189"
+    y1="87"
+    x2="189"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="189" cy="87" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="189"
+    y1="142"
     x2="438"
-    y2="182"
+    y2="142"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -287,9 +287,9 @@
 <line
     stroke-linecap="square"
     x1="378"
-    y1="87"
+    y1="252"
     x2="438"
-    y2="87"
+    y2="252"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
