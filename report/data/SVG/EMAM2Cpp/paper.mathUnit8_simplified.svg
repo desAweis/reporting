@@ -65,10 +65,10 @@
     matrixModifier[2]
     </text>
 </g><!-- Component: matrixModifier[3] -->
-<g transform="translate(76 352)">
+<g transform="translate(76 202)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[3]"
-        id="6"
+        id="4"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -86,10 +86,10 @@
     matrixModifier[3]
     </text>
 </g><!-- Component: matrixModifier[4] -->
-<g transform="translate(76 277)">
+<g transform="translate(76 427)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[4]"
-        id="5"
+        id="7"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -107,10 +107,10 @@
     matrixModifier[4]
     </text>
 </g><!-- Component: matrixModifier[5] -->
-<g transform="translate(76 202)">
+<g transform="translate(76 352)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[5]"
-        id="4"
+        id="6"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -128,10 +128,10 @@
     matrixModifier[5]
     </text>
 </g><!-- Component: matrixModifier[6] -->
-<g transform="translate(76 427)">
+<g transform="translate(76 277)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[6]"
-        id="7"
+        id="5"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -222,30 +222,6 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="387"
-    x2="289"
-    y2="387"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="229"
-    y1="312"
-    x2="289"
-    y2="312"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="229"
     y1="237"
     x2="289"
     y2="237"
@@ -261,6 +237,30 @@
     y1="462"
     x2="289"
     y2="462"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="229"
+    y1="387"
+    x2="289"
+    y2="387"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="229"
+    y1="312"
+    x2="289"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -318,30 +318,6 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="387"
-    x2="76"
-    y2="387"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="16"
-    y1="312"
-    x2="76"
-    y2="312"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="16"
     y1="237"
     x2="76"
     y2="237"
@@ -357,6 +333,30 @@
     y1="462"
     x2="76"
     y2="462"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="387"
+    x2="76"
+    y2="387"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="312"
+    x2="76"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
