@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: steerController1 -->
-<g transform="translate(208 52)">
+<g transform="translate(208 92)">
     <rect
         data-name="simulator.mainController.steerController1"
         id="12"
@@ -53,9 +53,9 @@
 </defs><line
     stroke-linecap="square"
     x1="156"
-    y1="487"
+    y1="72"
     x2="464"
-    y2="487"
+    y2="72"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -89,9 +89,9 @@
 <line
     stroke-linecap="square"
     x1="156"
-    y1="87"
+    y1="487"
     x2="200"
-    y2="87"
+    y2="487"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -203,8 +203,8 @@
 pathX[1]
 </text>
 
-<use x="140" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="136" y="89" transform="rotate(0,136,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="140" y="479" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="136" y="489" transform="rotate(0,136,489)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 pathX[2]
 </text>
 
@@ -248,8 +248,8 @@ minSteeringAngle
 maxSteeringAngle
 </text>
 
-<use x="464" y="479" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="484" y="489" transform="rotate(0,484,489)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="464" y="64" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="484" y="74" transform="rotate(0,484,74)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 actuatorEngine
 </text>
 
@@ -258,8 +258,8 @@ actuatorEngine
 actuatorSteering
 </text>
 
-<use x="140" y="479" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="136" y="489" transform="rotate(0,136,489)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="140" y="64" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="136" y="74" transform="rotate(0,136,74)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 CONSTANTPORT1
 </text>
 
@@ -268,8 +268,8 @@ CONSTANTPORT1
 x[1]
 </text>
 
-<use x="200" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="219" y="89" transform="rotate(0,219,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="200" y="479" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="219" y="489" transform="rotate(0,219,489)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 x[2]
 </text>
 
