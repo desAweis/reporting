@@ -65,10 +65,10 @@
     matrixModifier[2]
     </text>
 </g><!-- Component: matrixModifier[3] -->
-<g transform="translate(76 577)">
+<g transform="translate(76 502)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[3]"
-        id="9"
+        id="8"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -149,10 +149,10 @@
     matrixModifier[6]
     </text>
 </g><!-- Component: matrixModifier[7] -->
-<g transform="translate(76 502)">
+<g transform="translate(76 202)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[7]"
-        id="8"
+        id="4"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -170,10 +170,10 @@
     matrixModifier[7]
     </text>
 </g><!-- Component: matrixModifier[8] -->
-<g transform="translate(76 202)">
+<g transform="translate(76 577)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[8]"
-        id="4"
+        id="9"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -222,9 +222,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="612"
+    y1="537"
     x2="289"
-    y2="612"
+    y2="537"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -270,9 +270,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="537"
+    y1="237"
     x2="289"
-    y2="537"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -282,9 +282,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="237"
+    y1="612"
     x2="289"
-    y2="237"
+    y2="612"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -318,9 +318,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="612"
+    y1="537"
     x2="76"
-    y2="612"
+    y2="537"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -366,9 +366,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="537"
+    y1="237"
     x2="76"
-    y2="537"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -378,9 +378,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="237"
+    y1="612"
     x2="76"
-    y2="237"
+    y2="612"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
