@@ -1,4 +1,8 @@
-function loadInfo(infoFile, file, callback, ide) {
+function createTable(file, infoFile) {
+    loadInfo(file, infoFile, createTable_);
+}
+
+function loadInfo(file, infoFile, callback) {
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType('application/json');
     xobj.open('GET', infoFile, true);
@@ -7,28 +11,28 @@ function loadInfo(infoFile, file, callback, ide) {
     xobj.onreadystatechange = function () {
         if (xobj.readyState == 4 && xobj.status == '200') {
             res = JSON.parse(xobj.responseText);
-            loadJSON(file, callback, res, ide);
+            loadJSON(file, callback, res);
         }
     };
     xobj.send(null);
 }
 
-function loadJSON(file, callback, info, ide) {
+function loadJSON(file, callback, info) {
     var xobj = new XMLHttpRequest();
     xobj.overrideMimeType('application/json');
     xobj.open('GET', file, true);
     xobj.onreadystatechange = function () {
         if (xobj.readyState == 4 && xobj.status == '200') {
             // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
-            callback(xobj.responseText, info, ide);
+            callback(xobj.responseText, info);
         }
     };
     xobj.send(null);
 }
 
-function createTable(data, info, ide) {
+function createTable_(data, info) {
     data = JSON.parse(data);
-    table = $('#my-table').DataTable({
+    table = $(tableReference).DataTable({
         fixedHeader: true,
         "data": data,
         "language": {
@@ -46,19 +50,19 @@ function createTable(data, info, ide) {
         },
         "select": true,
         "rowGroup": {
-            dataSrc: "Root",
-            startRender: function (rows, group) {
+            "dataSrc": "Root",
+            "startRender": function (rows, group) {
                 var count = info[group]['Number'];
                 var valid = info[group]['Valid'];
                 var invalid = info[group]['Invalid'];
                 return group + ' (' + count + ')&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; valid: ' + valid + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; invalid: ' + invalid;
             },
-            endRender: null //function( rows, group ) {return group;}
+            "endRender": null //function( rows, group ) {return group;}
         },
         "bAutoWidth": false,
         "aoColumns": [
-            {"data": "Root", visible: false},
-            {"data": "Order", visible: false},
+            {"data": "Root", "visible": false},
+            {"data": "Order", "visible": false},
             {
                 "className": "expandChildren-control",
                 "data": "ChildExpansion",
@@ -106,47 +110,21 @@ function createTable(data, info, ide) {
             {"data": "AtomicComponent", sort: "string", type: "alt-string"}
         ],
         "fnInitComplete": function(oSettings, json) {
-            childControlInit();
-        },
-        "order": [[1, 'asc']]
+            init();
+        }
     });
 };
 
-function formatLog(d) {
-    // `d` is the original data object for the row
-    return '<tr>' +
-        '<td>Path:</td>' +
-        '<td>' + d.Path + '</td>' +
-        '</tr>' +
-        '<tr>' +
-        '<td>Log output:</td>' +
-        '<td>' + d.LogOutput + '</td>' +
-        '</tr>';
-}
-
-function incClass(row, childRow) {
-    if ($(row).hasClass("childRow1")) {
-        $(childRow).addClass("childRow2");
-    } else if ($(row).hasClass("childRow2")) {
-        $(childRow).addClass("childRow3");
-    } else if ($(row).hasClass("childRow3")) {
-        $(childRow).addClass("childRow4");
-    } else if ($(row).hasClass("childRow4")) {
-        $(childRow).addClass("childRow5");
-    } else if ($(row).hasClass("childRow5")) {
-        $(childRow).addClass("childRow6");
-    } else if ($(row).hasClass("childRow6")) {
-        $(childRow).addClass("childRow7");
-    } else if ($(row).hasClass("childRow7")) {
-        $(childRow).addClass("childRow8");
-    } else {
-        $(childRow).addClass("childRow1");
-    }
+function init() {
+    childControlInit();
+    initFloatingHeader();
+    initLogMechanic('details-control', formatLog1);
+    initGrowMechanic('grow', 'shortLabel', 'fullLabel');
 }
 
 removeChildRows = function (tr, row, data) {
-    const table = $('#my-table').DataTable();
-    var name = data.Project.replace("/", "") + "_" + data.Name.replace(/\./g, "_").replace(/\(/, "").replace(/\)/,"").split(' ').join('');
+    const table = $(tableReference).DataTable();
+    var name = data.Order.replace(/\./g, "_").replace(/\(/, "").replace(/\)/,"").split(' ').join('');
 
     $('.' + name + '_Child').each(function () {
         var childTr = $(this).closest('tr');
@@ -163,15 +141,19 @@ expandRow = function (tr, row, data) {
     if (data.ChildData.length != 0) {
 
 
-        const table = $('#my-table').DataTable();
-        var name = data.Project.replace("/", "") + "_" + data.Name.replace(/\./g, "_").replace(/\(/, "").replace(/\)/,"").split(' ').join('');
+        const table = $(tableReference).DataTable();
+        var name = data.Order.replace(/\./g, "_").replace(/\(/, "").replace(/\)/,"").split(' ').join('');
 
         if ($(tr).hasClass('childrenShown')) {
             removeChildRows(tr, row, data);
         } else {
             for (var i = 0; i < data.ChildData.length; i++) {
                 const tmpRow = table.row.add(data.ChildData[i]).node();
-                incClass(tr[0], tmpRow);
+
+                var childRow = table.row(tmpRow);
+                childRow.data()['Order'] = data['Order'] + "_Child";
+
+                $(tmpRow).addClass('childRow1')
                 $(tmpRow).addClass((name + "_Child"));
                 $(tmpRow).removeClass('childrenNotShown');
             }
@@ -184,9 +166,9 @@ expandRow = function (tr, row, data) {
 };
 
 function childControlInit() {
-    var table = $('#my-table').DataTable();
+    var table = $(tableReference).DataTable();
 
-    $('#my-table tbody').on('click', 'td.expandChildren-control', function () {
+    $(tableReference + ' tbody').on('click', 'td.expandChildren-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row(tr);
 
@@ -204,110 +186,8 @@ function childControlInit() {
     });
 }
 
-function adjustHeader() {
-    $('#my-table thead tr:eq(1) th').each(function (i) {
-        $(this).text('');
-    });
-}
-
-function adjustFloatingHeader(content) {
-    var first = true;
-    var second = false;
-    $('.fixedHeader-floating thead tr:eq(1) th').each(function (i) {
-        if (first) {
-            first = false;
-            second = true;
-        } else if (second) {
-            second = false;
-            $(this).html(content);
-        } else {
-            $(this).text('');
-        }
-    });
-}
-
-function getURLParameter(sParam) {
-    var sPageURL = window.location.search.substring(1);
-    var sURLVariables = sPageURL.split('&');
-    for (var i = 0; i < sURLVariables.length; i++) {
-        var sParameterName = sURLVariables[i].split('=');
-        if (sParameterName[0] == sParam) {
-            return decodeURIComponent(sParameterName[1]);
-        }
-    }
-}
-
 $(document).ready(function () {
-    jQuery.fn.dataTableExt.oSort["groupName-desc"] = function (x, y) {
-        return x < y;
-    };
+    initHeader();
 
-    jQuery.fn.dataTableExt.oSort["groupName-asc"] = function (x, y) {
-        return x > y;
-    }
-
-    $('#my-table thead tr').clone(true).appendTo('#my-table thead');
-    $('#my-table thead tr:eq(1)').addClass('group');
-    adjustHeader();
-
-    var ide = (getURLParameter('ide') != 'false');
-    loadInfo("data/info.json", "data/data.json", createTable, ide);
-
-    // Add event listener for opening and closing details
-    $('#my-table tbody').on('click', 'td.details-control', function () {
-        var tr = $(this).closest('tr');
-        var row = table.row(tr);
-
-        if (row.child.isShown()) {
-            // This row is already open - close it
-            row.child.hide();
-            tr.removeClass('detailsShown');
-        } else {
-            // Open this row
-            row.child(formatLog(row.data())).show();
-            tr.addClass('detailsShown');
-        }
-    });
-
-    var init = false;
-    var lastIndex = -1;
-    $(document).scroll(function () {
-        var currentGroup = "EmbeddedMontiArc";
-        var index = 0;
-        var lastFoundIndex = -1;
-        var lastFound = "";
-        $('#my-table tbody .group td').each(function () {
-
-            var docViewTop = $(window).scrollTop();
-            var elemTop = $(this).offset().top;
-            var elemBottom = elemTop + $(this).height();
-
-            if (elemBottom < docViewTop || elemTop < docViewTop) {
-                lastFound = $(this).html();
-                lastFoundIndex = index;
-            }
-            index++;
-        });
-
-        if (lastFoundIndex != lastIndex || init == false) {
-            lastIndex = lastFoundIndex;
-            if ($('.fixedHeader-floating')[0]) {
-                adjustFloatingHeader(lastFound);
-                init = true;
-            }
-        }
-
-        if (!$('.fixedHeader-floating')[0]) {
-            init = false;
-        }
-    });
-
-    $('.grow').mouseover(function () {
-        $(this).find('.shortLabel').hide();
-        $(this).find('.fullLabel').show();
-    });
-    $('.grow').mouseout(function () {
-        $(this).find('.shortLabel').show();
-        $(this).find('.fullLabel').hide();
-    });
+    createTable(dataFile, infoFile);
 });
