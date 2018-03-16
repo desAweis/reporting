@@ -5,11 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Component Quality</title>
   <link href="images/favicon.ico" type="image/x-icon" rel="icon"/>
-  <script src="js/jquery-3.3.1.min.js"></script>
-  <script src="js/jquery.dataTables.min.js"></script>
-  <script src="js/dataTables.fixedHeader.min.js"></script>
-  <script src="js/dataTables.rowGroup.min.js"></script>
-  <script src="js/dataTables.select.min.js"></script>
+  <script src="js/dataTable/jquery-3.3.1.min.js"></script>
+  <script src="js/dataTable/jquery.dataTables.min.js"></script>
+  <script src="js/dataTable/dataTables.fixedHeader.min.js"></script>
+  <script src="js/dataTable/dataTables.rowGroup.min.js"></script>
+  <script src="js/dataTable/dataTables.select.min.js"></script>
+  <script src="js/customDataTable.js"></script>
   <link rel="stylesheet" media="all" href="css/bootstrap-2.3.2.min.css">
   <link rel="stylesheet" media="all" href="css/fixedHeader.dataTables.min.css">
   <link rel="stylesheet" media="all" href="css/select.dataTables.min.css">
@@ -111,8 +112,15 @@
       </tbody>
     </table>
   <!-- <div> -->
-     
-  <script src="js/fillTable2.js"></script>
+  <script>
+    var tableName = "my-table";
+    var tableReference = "#my-table";
+    var dataFile = "data/data.json";
+    var infoFile = "data/info.json";
+    var ide = (getURLParameter('ide') != 'false');
+    var table;
+  </script>
+  <script src="js/cocosReport.js"></script>
    
 </body>
 </html>
