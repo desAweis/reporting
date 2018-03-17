@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="478"
-    y1="167"
+    y1="127"
     x2="522"
-    y2="167"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -340,8 +340,8 @@ in2
 in3
 </text>
 
-<use x="522" y="159" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="542" y="169" transform="rotate(0,542,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="522" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="542" y="129" transform="rotate(0,542,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 
@@ -370,8 +370,8 @@ in2
 cond
 </text>
 
-<use x="462" y="159" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="459" y="169" transform="rotate(0,459,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="462" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="459" y="129" transform="rotate(0,459,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 output
 </text>
 
