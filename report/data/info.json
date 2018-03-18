@@ -1,10 +1,10 @@
 {
   "EmbeddedMontiArc": {
     "Number": "1305",
-    "Valid": "891",
-    "Invalid": "414"
+    "Valid": "852",
+    "Invalid": "453"
   },
-  " ErroredEmbeddedMontiArc": {
+  " Errored_EmbeddedMontiArc": {
     "Number": "210",
     "Valid": "0",
     "Invalid": "210"
@@ -14,7 +14,7 @@
     "Valid": "44",
     "Invalid": "7"
   },
-  " ErroredMontiSim": {
+  " Errored_MontiSim": {
     "Number": "4",
     "Valid": "0",
     "Invalid": "4"
