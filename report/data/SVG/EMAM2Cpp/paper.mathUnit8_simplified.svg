@@ -44,10 +44,10 @@
     matrixModifier[1]
     </text>
 </g><!-- Component: matrixModifier[2] -->
-<g transform="translate(76 127)">
+<g transform="translate(76 577)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[2]"
-        id="3"
+        id="9"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -65,10 +65,10 @@
     matrixModifier[2]
     </text>
 </g><!-- Component: matrixModifier[3] -->
-<g transform="translate(76 202)">
+<g transform="translate(76 127)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[3]"
-        id="4"
+        id="3"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -107,10 +107,10 @@
     matrixModifier[4]
     </text>
 </g><!-- Component: matrixModifier[5] -->
-<g transform="translate(76 352)">
+<g transform="translate(76 52)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[5]"
-        id="6"
+        id="2"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -128,10 +128,10 @@
     matrixModifier[5]
     </text>
 </g><!-- Component: matrixModifier[6] -->
-<g transform="translate(76 52)">
+<g transform="translate(76 352)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[6]"
-        id="2"
+        id="6"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -170,10 +170,10 @@
     matrixModifier[7]
     </text>
 </g><!-- Component: matrixModifier[8] -->
-<g transform="translate(76 577)">
+<g transform="translate(76 202)">
     <rect
         data-name="paper.mathUnit8.matrixModifier[8]"
-        id="9"
+        id="4"
         width="153"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -210,9 +210,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="162"
+    y1="612"
     x2="289"
-    y2="162"
+    y2="612"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -222,9 +222,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="237"
+    y1="162"
     x2="289"
-    y2="237"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -246,9 +246,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="387"
+    y1="87"
     x2="289"
-    y2="387"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -258,9 +258,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="87"
+    y1="387"
     x2="289"
-    y2="87"
+    y2="387"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -282,9 +282,9 @@
 <line
     stroke-linecap="square"
     x1="229"
-    y1="612"
+    y1="237"
     x2="289"
-    y2="612"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -306,9 +306,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="162"
+    y1="612"
     x2="76"
-    y2="162"
+    y2="612"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -318,9 +318,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="237"
+    y1="162"
     x2="76"
-    y2="237"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -342,9 +342,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="387"
+    y1="87"
     x2="76"
-    y2="387"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -354,9 +354,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="387"
     x2="76"
-    y2="87"
+    y2="387"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -378,9 +378,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="612"
+    y1="237"
     x2="76"
-    y2="612"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
