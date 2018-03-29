@@ -53,7 +53,7 @@ function createTable(data) {
 
 function init() {
     table = $(tableReference).DataTable();
-    initFloatingHeader();
+    initFloatingHeader(0);
 }
 
 
