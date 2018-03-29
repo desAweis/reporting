@@ -7,7 +7,7 @@
     <rect
         id="0"
         width="246"
-        height="222"
+        height="202"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: numberSwitch -->
-<g transform="translate(76 127)">
+<g transform="translate(76 147)">
     <rect
         data-name="verteidigung.test.numberSwitch"
         id="3"
@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="202"
-    y1="162"
+    y1="182"
     x2="262"
-    y2="162"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -84,9 +84,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="202"
+    y1="127"
     x2="262"
-    y2="202"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -96,9 +96,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="162"
+    y1="182"
     x2="76"
-    y2="162"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
