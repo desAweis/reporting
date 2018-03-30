@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: numberSwitch -->
-<g transform="translate(76 52)">
+<g transform="translate(76 147)">
     <rect
         data-name="verteidigung.test.numberSwitch"
-        id="1"
+        id="3"
         width="126"
         height="55"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
@@ -44,7 +44,7 @@
     numberSwitch
     </text>
 </g><!-- Component: matrixExample -->
-<g transform="translate(76 147)">
+<g transform="translate(76 52)">
     <rect
         data-name="verteidigung.test.matrixExample"
         id="2"
@@ -72,9 +72,9 @@
 </defs><line
     stroke-linecap="square"
     x1="202"
-    y1="87"
+    y1="182"
     x2="262"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -96,9 +96,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="182"
     x2="76"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
