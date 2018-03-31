@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: steerController1 -->
-<g transform="translate(76 52)">
+<g transform="translate(76 92)">
     <rect
         data-name="simulator.mainController.steerController1"
         id="2"
@@ -53,6 +53,18 @@
 </defs><line
     stroke-linecap="square"
     x1="16"
+    y1="72"
+    x2="274"
+    y2="72"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="214"
     y1="127"
     x2="274"
     y2="127"
@@ -64,22 +76,10 @@
 
 <line
     stroke-linecap="square"
-    x1="214"
-    y1="87"
-    x2="274"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="127"
     x2="76"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
