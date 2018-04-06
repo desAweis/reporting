@@ -23,12 +23,12 @@
 </g>
 
 </svg><!-- Component: c2cd -->
-<g transform="translate(76 107)">
+<g transform="translate(76 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.c2cd"
         id="2"
         width="48"
-        height="55"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,12 +44,12 @@
     c2cd
     </text>
 </g><!-- Component: behaviorGeneration -->
-<g transform="translate(184 52)">
+<g transform="translate(184 107)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration"
         id="3"
         width="162"
-        height="110"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
@@ -67,12 +67,12 @@
     behaviorGeneration
     </text>
 </g><!-- Component: motionPlanning -->
-<g transform="translate(406 107)">
+<g transform="translate(406 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning"
         id="4"
         width="126"
-        height="135"
+        height="190"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
@@ -121,9 +121,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="182"
     x2="184"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -133,6 +133,29 @@
 <line
     stroke-linecap="square"
     x1="124"
+    y1="87"
+    x2="144"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="144"
+    y1="87"
+    x2="144"
+    y2="142"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="144" cy="87" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="144"
     y1="142"
     x2="184"
     y2="142"
@@ -157,32 +180,9 @@
 <line
     stroke-linecap="square"
     x1="124"
-    y1="142"
-    x2="144"
-    y2="142"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-<line
-    stroke-linecap="square"
-    x1="144"
-    y1="142"
-    x2="144"
-    y2="182"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-    <circle cx="144" cy="142" r="4" fill="black" />
-<line
-    stroke-linecap="square"
-    x1="144"
-    y1="182"
+    y1="87"
     x2="406"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
