@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="26"
+        id="28"
         width="240"
         height="202"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -23,12 +23,12 @@
 </g>
 
 </svg><!-- Component: c1 -->
-<g transform="translate(76 52)">
+<g transform="translate(76 107)">
     <rect
         data-name="testing.subpackage8.myComponent8.c1"
-        id="28"
+        id="30"
         width="30"
-        height="110"
+        height="95"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -44,12 +44,12 @@
     c1
     </text>
 </g><!-- Component: c2 -->
-<g transform="translate(166 107)">
+<g transform="translate(166 52)">
     <rect
         data-name="testing.subpackage8.myComponent8.c2"
-        id="29"
+        id="31"
         width="30"
-        height="95"
+        height="110"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -120,18 +120,6 @@
     stroke-linecap="square"
     x1="24"
     y1="87"
-    x2="68"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="24"
-    y1="87"
     x2="48"
     y2="87"
     style="stroke:rgb(0, 0,0);
@@ -155,8 +143,20 @@
     stroke-linecap="square"
     x1="48"
     y1="182"
-    x2="158"
+    x2="68"
     y2="182"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="24"
+    y1="87"
+    x2="158"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -194,8 +194,8 @@
 
 </text>
 
-<use x="68" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="87" y="89" transform="rotate(0,87,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="68" y="174" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="87" y="184" transform="rotate(0,87,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
@@ -204,8 +204,8 @@
 
 </text>
 
-<use x="158" y="174" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="177" y="184" transform="rotate(0,177,184)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="158" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="177" y="89" transform="rotate(0,177,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
