@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Grammars</title>
+  <title>Test Table</title>
   <link href="images/favicon.ico" type="image/x-icon" rel="icon"/>
   <script src="js/dataTable/jquery-3.3.1.min.js"></script>
   <script src="js/dataTable/jquery.dataTables.min.js"></script>
@@ -21,30 +21,31 @@
 </head>
 <body>
   <!-- <div class="myTableContainer"> -->
-    <table id="my-table" class="display cell-border dataTable" role="grid" style="width: 100%;"  cellspacing="0">
+    <table id="my-table" class="display cell-border dataTable" role="grid" style="width: 100%;" width="100%" cellspacing="0">
     
       <thead>
         <tr>
         <th>Root</th>
-        <th>Order</th>
-        <th>Name</th>
-        <th id="onlineIDE">IDE</th>
+        <th>Column1</th>
+        <th>Column2</th>
+        <th>Column3</th>
         </tr>
       </thead>
       <tbody>
       </tbody>
     </table>
-  <script src="js/grammarReport.js"></script>
+  <!-- <div> -->
+  <script src="js/exampleJS.js"></script>
   <script>
+    var tableName = "my-table";
     var tableReference = "#my-table";
-    var dataFile = "data/dataGrammars.json";
+    var dataFile = "data/exampleJSON.json";
     var table;
-
     $(document).ready(function () {
         initHeader();
         loadJSON(dataFile, createTable);
     });
   </script>
-   
+
 </body>
 </html>
