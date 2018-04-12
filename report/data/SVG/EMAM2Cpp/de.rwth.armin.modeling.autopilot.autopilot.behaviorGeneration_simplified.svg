@@ -5,9 +5,9 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="104"
-        width="390"
-        height="162"
+        id="97"
+        width="460"
+        height="147"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: trimPath -->
-<g transform="translate(76 107)">
+<g transform="translate(166 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.trimPath"
-        id="106"
+        id="99"
         width="75"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -44,13 +49,18 @@
     trimPath
     </text>
 </g><!-- Component: calcMotionCmds -->
-<g transform="translate(211 52)">
+<g transform="translate(291 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds"
-        id="107"
+        id="100"
         width="135"
-        height="110"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        height="95"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds_simplified.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/autopilot/behaviorGeneration/calcMotionCmds.ema');"
@@ -73,10 +83,10 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="346"
-    y1="87"
-    x2="406"
-    y2="87"
+    x1="426"
+    y1="127"
+    x2="476"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -86,9 +96,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
-    x2="36"
-    y2="87"
+    y1="127"
+    x2="46"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -96,33 +106,66 @@
 
 <line
     stroke-linecap="square"
-    x1="36"
-    y1="87"
-    x2="36"
-    y2="142"
+    x1="46"
+    y1="127"
+    x2="46"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
 
-    <circle cx="36" cy="87" r="4" fill="black" />
 <line
     stroke-linecap="square"
-    x1="36"
-    y1="142"
+    x1="46"
+    y1="127"
     x2="76"
-    y2="142"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
+"
 />
 
 <line
     stroke-linecap="square"
-    x1="16"
+    x1="76"
+    y1="127"
+    x2="76"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="76" cy="127" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="76"
     y1="87"
-    x2="211"
+    x2="136"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="76" cy="87" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="136"
+    y1="87"
+    x2="136"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="136"
+    y1="87"
+    x2="166"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -132,10 +175,67 @@
 
 <line
     stroke-linecap="square"
-    x1="151"
-    y1="142"
-    x2="211"
-    y2="142"
+    x1="16"
+    y1="127"
+    x2="46"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="127"
+    x2="46"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="46"
+    y1="127"
+    x2="241"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="46" cy="127" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="241"
+    y1="127"
+    x2="241"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+<line
+    stroke-linecap="square"
+    x1="241"
+    y1="127"
+    x2="291"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="241"
+    y1="87"
+    x2="291"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

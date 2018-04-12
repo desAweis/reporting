@@ -6,7 +6,7 @@
 
     <rect
         id="85"
-        width="402"
+        width="382"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: trimPath -->
-<g transform="translate(91 52)">
+<g transform="translate(81 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t3.trimPath"
         id="87"
         width="282"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 

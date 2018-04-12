@@ -5,8 +5,8 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="188"
-        width="633"
+        id="180"
+        width="593"
         height="332"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: keepDirection -->
-<g transform="translate(76 202)">
+<g transform="translate(66 127)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.keepDirection"
-        id="191"
+        id="182"
         width="144"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.keepDirection_simplified.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/autopilot/motionPlanning/keepDirection.ema');"
@@ -46,13 +51,18 @@
     keepDirection
     </text>
 </g><!-- Component: sac -->
-<g transform="translate(76 277)">
+<g transform="translate(66 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.sac"
-        id="192"
+        id="181"
         width="144"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -67,13 +77,18 @@
     sac
     </text>
 </g><!-- Component: sum1 -->
-<g transform="translate(280 202)">
+<g transform="translate(260 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.sum1"
-        id="195"
+        id="184"
         width="120"
         height="130"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -88,13 +103,18 @@
     sum1
     </text>
 </g><!-- Component: engineAndBrakes -->
-<g transform="translate(76 52)">
+<g transform="translate(66 202)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.engineAndBrakes"
-        id="190"
+        id="183"
         width="144"
         height="130"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.engineAndBrakes_simplified.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/autopilot/motionPlanning/engineAndBrakes.ema');"
@@ -111,13 +131,18 @@
     engineAndBrakes
     </text>
 </g><!-- Component: boundsSteering -->
-<g transform="translate(460 202)">
+<g transform="translate(430 127)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsSteering"
-        id="196"
+        id="187"
         width="129"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsSteering_simplified.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/autopilot/motionPlanning/boundsSteering.ema');"
@@ -134,13 +159,18 @@
     boundsSteering
     </text>
 </g><!-- Component: boundsBrakes -->
-<g transform="translate(280 52)">
+<g transform="translate(260 277)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsBrakes"
-        id="193"
+        id="186"
         width="120"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsBrakes_simplified.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/autopilot/motionPlanning/boundsBrakes.ema');"
@@ -157,13 +187,18 @@
     boundsBrakes
     </text>
 </g><!-- Component: boundsEngine -->
-<g transform="translate(280 127)">
+<g transform="translate(260 202)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsEngine"
-        id="194"
+        id="185"
         width="120"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsEngine_simplified.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/autopilot/motionPlanning/boundsEngine.ema');"
@@ -186,9 +221,21 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="400"
+    x1="380"
+    y1="237"
+    x2="609"
+    y2="237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="559"
     y1="162"
-    x2="649"
+    x2="609"
     y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -198,69 +245,9 @@
 
 <line
     stroke-linecap="square"
-    x1="589"
-    y1="237"
-    x2="649"
-    y2="237"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="400"
-    y1="87"
-    x2="649"
-    y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="16"
-    y1="237"
-    x2="76"
-    y2="237"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="220"
-    y1="237"
-    x2="280"
-    y2="237"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="16"
+    x1="380"
     y1="312"
-    x2="76"
-    y2="312"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="220"
-    y1="312"
-    x2="280"
+    x2="609"
     y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -272,7 +259,7 @@
     stroke-linecap="square"
     x1="16"
     y1="162"
-    x2="76"
+    x2="66"
     y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -282,9 +269,9 @@
 
 <line
     stroke-linecap="square"
-    x1="220"
+    x1="210"
     y1="162"
-    x2="280"
+    x2="260"
     y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -294,9 +281,33 @@
 
 <line
     stroke-linecap="square"
-    x1="400"
+    x1="16"
+    y1="87"
+    x2="66"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="210"
+    y1="87"
+    x2="260"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="16"
     y1="237"
-    x2="460"
+    x2="66"
     y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -306,10 +317,34 @@
 
 <line
     stroke-linecap="square"
-    x1="220"
-    y1="87"
-    x2="280"
-    y2="87"
+    x1="210"
+    y1="237"
+    x2="260"
+    y2="237"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="380"
+    y1="162"
+    x2="430"
+    y2="162"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="210"
+    y1="312"
+    x2="260"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

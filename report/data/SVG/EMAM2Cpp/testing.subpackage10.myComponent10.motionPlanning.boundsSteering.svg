@@ -5,8 +5,8 @@
 <g transform="translate(94 20)">
 
     <rect
-        id="630"
-        width="237"
+        id="587"
+        width="217"
         height="187"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: eb -->
-<g transform="translate(154 52)">
+<g transform="translate(144 52)">
     <rect
         data-name="testing.subpackage10.myComponent10.motionPlanning.boundsSteering.eb"
-        id="632"
+        id="589"
         width="117"
         height="135"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -50,10 +55,22 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="279"
-    y1="167"
-    x2="323"
-    y2="167"
+    x1="269"
+    y1="127"
+    x2="303"
+    y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="102"
+    y1="127"
+    x2="136"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -64,7 +81,7 @@
     stroke-linecap="square"
     x1="102"
     y1="167"
-    x2="146"
+    x2="136"
     y2="167"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -76,20 +93,8 @@
     stroke-linecap="square"
     x1="102"
     y1="87"
-    x2="146"
+    x2="136"
     y2="87"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="102"
-    y1="127"
-    x2="146"
-    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -100,44 +105,44 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="86" y="119" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="82" y="129" transform="rotate(0,82,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-input
+</defs><use x="253" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="250" y="129" transform="rotate(0,250,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+output
 </text>
 
-<use x="323" y="159" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="343" y="169" transform="rotate(0,343,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="303" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="323" y="129" transform="rotate(0,323,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 output
+</text>
+
+<use x="86" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="82" y="129" transform="rotate(0,82,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+CONSTANTPORT1
+</text>
+
+<use x="136" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="155" y="129" transform="rotate(0,155,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+lowerBound
 </text>
 
 <use x="86" y="159" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="82" y="169" transform="rotate(0,82,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-CONSTANTPORT1
+CONSTANTPORT2
+</text>
+
+<use x="136" y="159" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="155" y="169" transform="rotate(0,155,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+upperBound
 </text>
 
 <use x="86" y="79" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="82" y="89" transform="rotate(0,82,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-CONSTANTPORT2
-</text>
-
-<use x="146" y="159" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="165" y="169" transform="rotate(0,165,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-lowerBound
-</text>
-
-<use x="146" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="165" y="89" transform="rotate(0,165,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-upperBound
-</text>
-
-<use x="146" y="119" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="165" y="129" transform="rotate(0,165,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 input
 </text>
 
-<use x="263" y="159" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="260" y="169" transform="rotate(0,260,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-output
+<use x="136" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="155" y="89" transform="rotate(0,155,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+input
 </text>
 
 

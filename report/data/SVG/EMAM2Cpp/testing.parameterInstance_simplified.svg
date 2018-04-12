@@ -6,7 +6,7 @@
 
     <rect
         id="0"
-        width="900"
+        width="850"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: singleParameter -->
-<g transform="translate(505 52)">
+<g transform="translate(475 52)">
     <rect
         data-name="testing.parameterInstance.singleParameter"
         id="4"
         width="138"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -44,13 +49,18 @@
     singleParameter
     </text>
 </g><!-- Component: singleParameter2 -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="testing.parameterInstance.singleParameter2"
         id="2"
         width="147"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -65,13 +75,18 @@
     singleParameter2
     </text>
 </g><!-- Component: multipleParameter -->
-<g transform="translate(703 52)">
+<g transform="translate(663 52)">
     <rect
         data-name="testing.parameterInstance.multipleParameter"
         id="5"
         width="153"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -86,13 +101,18 @@
     multipleParameter
     </text>
 </g><!-- Component: multipleParameter2 -->
-<g transform="translate(283 52)">
+<g transform="translate(263 52)">
     <rect
         data-name="testing.parameterInstance.multipleParameter2"
         id="3"
         width="162"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 

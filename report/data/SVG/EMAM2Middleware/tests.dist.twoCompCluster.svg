@@ -6,7 +6,7 @@
 
     <rect
         id="10"
-        width="321"
+        width="291"
         height="182"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: sub1 -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="tests.dist.twoCompCluster.sub1"
         id="12"
         width="72"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -44,13 +49,18 @@
     sub1
     </text>
 </g><!-- Component: sub2 -->
-<g transform="translate(76 127)">
+<g transform="translate(66 127)">
     <rect
         data-name="tests.dist.twoCompCluster.sub2"
         id="13"
         width="72"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -65,13 +75,18 @@
     sub2
     </text>
 </g><!-- Component: sub3 -->
-<g transform="translate(208 52)">
+<g transform="translate(188 52)">
     <rect
         data-name="tests.dist.twoCompCluster.sub3"
         id="14"
         width="69"
         height="130"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -92,9 +107,9 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="156"
+    x1="146"
     y1="87"
-    x2="200"
+    x2="180"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -104,9 +119,9 @@
 
 <line
     stroke-linecap="square"
-    x1="156"
+    x1="146"
     y1="162"
-    x2="200"
+    x2="180"
     y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -118,23 +133,23 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="140" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="137" y="89" transform="rotate(0,137,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="130" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="127" y="89" transform="rotate(0,127,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rosOut
 </text>
 
-<use x="140" y="154" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="137" y="164" transform="rotate(0,137,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-noRosOut
-</text>
-
-<use x="200" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="219" y="89" transform="rotate(0,219,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="180" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="199" y="89" transform="rotate(0,199,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rosIn
 </text>
 
-<use x="200" y="154" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="219" y="164" transform="rotate(0,219,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="130" y="154" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="127" y="164" transform="rotate(0,127,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+noRosOut
+</text>
+
+<use x="180" y="154" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="199" y="164" transform="rotate(0,199,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 noRosIn
 </text>
 

@@ -6,7 +6,7 @@
 
     <rect
         id="29"
-        width="1458"
+        width="1368"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: abs -->
-<g transform="translate(1348 52)">
+<g transform="translate(1268 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.abs"
         id="38"
         width="81"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -44,13 +49,18 @@
     abs
     </text>
 </g><!-- Component: eb1 -->
-<g transform="translate(976 52)">
+<g transform="translate(916 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.eb1"
         id="36"
         width="117"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -65,13 +75,18 @@
     eb1
     </text>
 </g><!-- Component: eb2 -->
-<g transform="translate(1153 52)">
+<g transform="translate(1083 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.eb2"
         id="37"
         width="135"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t1.eb2.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t1/eb2.ema');"
@@ -88,13 +103,18 @@
     eb2
     </text>
 </g><!-- Component: eb3 -->
-<g transform="translate(454 52)">
+<g transform="translate(424 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.eb3"
         id="33"
         width="135"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t1.eb3.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t1/eb3.ema');"
@@ -111,13 +131,18 @@
     eb3
     </text>
 </g><!-- Component: eb4 -->
-<g transform="translate(649 52)">
+<g transform="translate(609 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.eb4"
         id="34"
         width="135"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t1.eb4.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t1/eb4.ema');"
@@ -134,13 +159,18 @@
     eb4
     </text>
 </g><!-- Component: pid -->
-<g transform="translate(217 52)">
+<g transform="translate(197 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.pid"
         id="32"
         width="177"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -155,13 +185,18 @@
     pid
     </text>
 </g><!-- Component: sab -->
-<g transform="translate(844 52)">
+<g transform="translate(794 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.sab"
         id="35"
         width="72"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -176,13 +211,18 @@
     sab
     </text>
 </g><!-- Component: sum -->
-<g transform="translate(91 52)">
+<g transform="translate(81 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1.sum"
         id="31"
         width="66"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 

@@ -5,8 +5,8 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="491"
-        width="159"
+        id="458"
+        width="139"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: sab -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.keepDirection.sab"
-        id="493"
+        id="460"
         width="39"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -50,9 +55,9 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="115"
+    x1="105"
     y1="87"
-    x2="175"
+    x2="155"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -64,7 +69,7 @@
     stroke-linecap="square"
     x1="16"
     y1="87"
-    x2="76"
+    x2="66"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;

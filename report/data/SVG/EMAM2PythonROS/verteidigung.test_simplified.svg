@@ -6,8 +6,8 @@
 
     <rect
         id="0"
-        width="246"
-        height="222"
+        width="226"
+        height="202"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: numberSwitch -->
-<g transform="translate(76 92)">
+<g transform="translate(66 52)">
     <rect
         data-name="verteidigung.test.numberSwitch"
-        id="2"
+        id="1"
         width="126"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -44,13 +49,18 @@
     numberSwitch
     </text>
 </g><!-- Component: matrixExample -->
-<g transform="translate(76 167)">
+<g transform="translate(66 147)">
     <rect
         data-name="verteidigung.test.matrixExample"
-        id="1"
+        id="2"
         width="126"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -71,22 +81,10 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="202"
-    y1="127"
-    x2="262"
-    y2="127"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="16"
-    y1="72"
-    x2="262"
-    y2="72"
+    x1="192"
+    y1="87"
+    x2="242"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -97,8 +95,20 @@
     stroke-linecap="square"
     x1="16"
     y1="127"
-    x2="76"
+    x2="242"
     y2="127"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="87"
+    x2="66"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

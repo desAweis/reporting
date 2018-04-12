@@ -6,7 +6,7 @@
 
     <rect
         id="12"
-        width="321"
+        width="281"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: t1 -->
-<g transform="translate(250 52)">
+<g transform="translate(220 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t1"
         id="16"
         width="27"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t1_no_port_names.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t1.ema');"
@@ -46,13 +51,18 @@
     t1
     </text>
 </g><!-- Component: t2 -->
-<g transform="translate(163 52)">
+<g transform="translate(143 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2"
         id="15"
         width="27"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t2_no_port_names.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t2.ema');"
@@ -69,13 +79,18 @@
     t2
     </text>
 </g><!-- Component: t3 -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t3"
         id="14"
         width="27"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t3_no_port_names.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t3.ema');"

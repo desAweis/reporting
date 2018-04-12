@@ -6,7 +6,7 @@
 
     <rect
         id="0"
-        width="276"
+        width="246"
         height="182"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: sub1 -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="tests.dist.twoCompCluster.sub1"
         id="2"
         width="48"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -44,13 +49,18 @@
     sub1
     </text>
 </g><!-- Component: sub2 -->
-<g transform="translate(76 127)">
+<g transform="translate(66 127)">
     <rect
         data-name="tests.dist.twoCompCluster.sub2"
         id="3"
         width="48"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -65,13 +75,18 @@
     sub2
     </text>
 </g><!-- Component: sub3 -->
-<g transform="translate(184 52)">
+<g transform="translate(164 52)">
     <rect
         data-name="tests.dist.twoCompCluster.sub3"
         id="4"
         width="48"
         height="130"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -92,9 +107,9 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="124"
+    x1="114"
     y1="87"
-    x2="184"
+    x2="164"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -104,9 +119,9 @@
 
 <line
     stroke-linecap="square"
-    x1="124"
+    x1="114"
     y1="162"
-    x2="184"
+    x2="164"
     y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;

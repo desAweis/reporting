@@ -6,7 +6,7 @@
 
     <rect
         id="5"
-        width="420"
+        width="390"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: basicPorts[1] -->
-<g transform="translate(256 52)">
+<g transform="translate(236 52)">
     <rect
         data-name="test.instanceArrayComp.basicPorts[1]"
         id="8"
         width="120"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -44,13 +49,18 @@
     basicPorts[1]
     </text>
 </g><!-- Component: basicPorts[2] -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="test.instanceArrayComp.basicPorts[2]"
         id="7"
         width="120"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 

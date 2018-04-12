@@ -6,7 +6,7 @@
 
     <rect
         id="6"
-        width="204"
+        width="184"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: forLoopIf -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="testing.forLoopIfInstance.forLoopIf"
         id="8"
         width="84"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -50,9 +55,9 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="168"
+    x1="158"
     y1="87"
-    x2="212"
+    x2="192"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -64,13 +69,13 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="212" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="232" y="89" transform="rotate(0,232,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="142" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="139" y="89" transform="rotate(0,139,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 result
 </text>
 
-<use x="152" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="149" y="89" transform="rotate(0,149,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="192" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="212" y="89" transform="rotate(0,212,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 result
 </text>
 

@@ -6,7 +6,7 @@
 
     <rect
         id="8"
-        width="210"
+        width="190"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: sub1 -->
-<g transform="translate(106 52)">
+<g transform="translate(96 52)">
     <rect
         data-name="tests.infer.inferComp.sub1"
         id="10"
         width="90"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -50,9 +55,9 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="204"
+    x1="194"
     y1="87"
-    x2="248"
+    x2="228"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -64,7 +69,7 @@
     stroke-linecap="square"
     x1="54"
     y1="87"
-    x2="98"
+    x2="88"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -76,24 +81,24 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="38" y="79" xlink:href="#port" />
+</defs><use x="178" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="175" y="89" transform="rotate(0,175,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+rosOut
+</text>
+
+<use x="228" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="248" y="89" transform="rotate(0,248,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+rosOut
+</text>
+
+<use x="38" y="79" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="34" y="89" transform="rotate(0,34,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rosIn
 </text>
 
-<use x="248" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="268" y="89" transform="rotate(0,268,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-rosOut
-</text>
-
-<use x="98" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="117" y="89" transform="rotate(0,117,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="88" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="107" y="89" transform="rotate(0,107,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rosIn
-</text>
-
-<use x="188" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="185" y="89" transform="rotate(0,185,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-rosOut
 </text>
 
 

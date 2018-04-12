@@ -6,7 +6,7 @@
 
     <rect
         id="6"
-        width="210"
+        width="190"
         height="147"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: sub1 -->
-<g transform="translate(106 52)">
+<g transform="translate(96 52)">
     <rect
         data-name="tests.dist.validSuperConnection.sub1"
         id="8"
         width="90"
         height="95"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -52,7 +57,7 @@
     stroke-linecap="square"
     x1="54"
     y1="127"
-    x2="98"
+    x2="88"
     y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -64,7 +69,7 @@
     stroke-linecap="square"
     x1="54"
     y1="87"
-    x2="98"
+    x2="88"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -81,18 +86,18 @@
 rosIn
 </text>
 
+<use x="88" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="107" y="129" transform="rotate(0,107,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+rosIn
+</text>
+
 <use x="38" y="79" xlink:href="#port" />
 <text text-anchor="start" alignment-baseline="middle" x="58" y="89" transform="rotate(0,58,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rosOut
 </text>
 
-<use x="98" y="119" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="117" y="129" transform="rotate(0,117,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-rosIn
-</text>
-
-<use x="98" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="95" y="89" transform="rotate(0,95,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="88" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="85" y="89" transform="rotate(0,85,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 rosOut
 </text>
 

@@ -6,7 +6,7 @@
 
     <rect
         id="61"
-        width="1926"
+        width="1846"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: calculateEngineAndBrakes -->
-<g transform="translate(334 52)">
+<g transform="translate(314 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2.calculateEngineAndBrakes"
         id="64"
         width="210"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t2.calculateEngineAndBrakes.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t2/calculateEngineAndBrakes.ema');"
@@ -46,13 +51,18 @@
     calculateEngineAndBrakes
     </text>
 </g><!-- Component: calculatePidError -->
-<g transform="translate(1399 52)">
+<g transform="translate(1339 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2.calculatePidError"
         id="68"
         width="147"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -67,13 +77,18 @@
     calculatePidError
     </text>
 </g><!-- Component: calculatePidParameters -->
-<g transform="translate(604 52)">
+<g transform="translate(574 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2.calculatePidParameters"
         id="65"
         width="219"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -88,13 +103,18 @@
     calculatePidParameters
     </text>
 </g><!-- Component: decideEngineOrBrakes -->
-<g transform="translate(91 52)">
+<g transform="translate(81 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2.decideEngineOrBrakes"
         id="63"
         width="183"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -109,13 +129,18 @@
     decideEngineOrBrakes
     </text>
 </g><!-- Component: keepDirection -->
-<g transform="translate(1153 52)">
+<g transform="translate(1103 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2.keepDirection"
         id="67"
         width="186"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t2.keepDirection.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t2/keepDirection.ema');"
@@ -132,13 +157,18 @@
     keepDirection
     </text>
 </g><!-- Component: motionPlanning -->
-<g transform="translate(883 52)">
+<g transform="translate(843 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2.motionPlanning"
         id="66"
         width="210"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:rgb(242,242,242);
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
             onmouseover="this.style.stroke = '#316FC0'; this.style['stroke-width'] = 5; this.style.cursor='pointer';"
             onclick="window.open('de.rwth.armin.modeling.autopilot.tests.t2.motionPlanning.html','_parent',false);parent.openFileInEditor('/rwth/armin/modeling/autopilot/tests/t2/motionPlanning.ema');"
@@ -155,13 +185,18 @@
     motionPlanning
     </text>
 </g><!-- Component: steeringAngleCorrection -->
-<g transform="translate(1606 52)">
+<g transform="translate(1536 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.tests.t2.steeringAngleCorrection"
         id="69"
         width="291"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 

@@ -6,7 +6,7 @@
 
     <rect
         id="0"
-        width="168"
+        width="148"
         height="107"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
@@ -23,13 +23,18 @@
 </g>
 
 </svg><!-- Component: sub1 -->
-<g transform="translate(76 52)">
+<g transform="translate(66 52)">
     <rect
         data-name="tests.dist.validSuperConnection.sub1"
         id="2"
         width="48"
         height="55"
-        style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
+        style="
+                fill:white;
+            stroke:black;
+            stroke-width:2;
+            fill-opacity:1.0;
+            stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
 
@@ -52,7 +57,7 @@
     stroke-linecap="square"
     x1="16"
     y1="87"
-    x2="76"
+    x2="66"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
