@@ -5,9 +5,9 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="296"
+        id="297"
         width="768"
-        height="337"
+        height="392"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -49,7 +49,7 @@
         data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.driveToFirstPosition"
         id="300"
         width="165"
-        height="95"
+        height="150"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -65,7 +65,7 @@
     driveToFirstPosition
     </text>
 </g><!-- Component: d2v1 -->
-<g transform="translate(541 242)">
+<g transform="translate(541 337)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.d2v1"
         id="302"
@@ -133,7 +133,7 @@
         data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.selector"
         id="303"
         width="75"
-        height="285"
+        height="340"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"
         onmouseout="this.style.stroke = '#000000'; this.style['stroke-width'] = 2; this.style.cursor='default';"
     />
@@ -273,9 +273,9 @@
 <line
     stroke-linecap="square"
     x1="481"
-    y1="277"
+    y1="372"
     x2="541"
-    y2="277"
+    y2="372"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -368,9 +368,9 @@
 <line
     stroke-linecap="square"
     x1="589"
-    y1="277"
+    y1="372"
     x2="649"
-    y2="277"
+    y2="372"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
