@@ -588,15 +588,23 @@
     "NameEndsWithTest": "<img src='images/tick.png'/>"
   },
   {
-    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/CppStepTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/CppStepTest.java</a>",
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/cpp/CppMainNameProviderTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/cpp/CppMainNameProviderTest.java</a>",
     "NameEndsWithTest": "<img src='images/tick.png'/>"
   },
   {
-    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/EmamModelNameProviderTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/EmamModelNameProviderTest.java</a>",
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/cpp/CppStepTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/cpp/CppStepTest.java</a>",
     "NameEndsWithTest": "<img src='images/tick.png'/>"
   },
   {
-    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/ModelStepTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/ModelStepTest.java</a>",
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/model/EmamModelNameProviderTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/model/EmamModelNameProviderTest.java</a>",
+    "NameEndsWithTest": "<img src='images/tick.png'/>"
+  },
+  {
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/model/ModelStepTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/model/ModelStepTest.java</a>",
+    "NameEndsWithTest": "<img src='images/tick.png'/>"
+  },
+  {
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/emam2wasm/wasm/WasmJsNameProviderTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/emam2wasm/wasm/WasmJsNameProviderTest.java</a>",
     "NameEndsWithTest": "<img src='images/tick.png'/>"
   },
   {
@@ -657,6 +665,10 @@
   },
   {
     "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/generator/cpp/TypeConverterTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/generator/cpp/TypeConverterTest.java</a>",
+    "NameEndsWithTest": "<img src='images/tick.png'/>"
+  },
+  {
+    "Path": "<a target='_blank' href='https://github.com/EmbeddedMontiArc/EMAM2Wasm/blob/master/src/test/java/de/monticore/lang/monticar/generator/html/HtmlGeneratorTest.java'>EMAM2Wasm/src/test/java/de/monticore/lang/monticar/generator/html/HtmlGeneratorTest.java</a>",
     "NameEndsWithTest": "<img src='images/tick.png'/>"
   },
   {
