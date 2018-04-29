@@ -2,7 +2,7 @@
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
 
 <!-- Canvas: mathUnit1 -->
-<g transform="translate(46 20)">
+<g transform="translate(40 20)">
 
     <rect
         id="8"
@@ -23,7 +23,7 @@
 </g>
 
 </svg><!-- Component: matrixModifier -->
-<g transform="translate(96 52)">
+<g transform="translate(90 52)">
     <rect
         data-name="paper.mathUnit1.matrixModifier"
         id="10"
@@ -55,9 +55,9 @@
     </marker>
 </defs><line
     stroke-linecap="square"
-    x1="230"
+    x1="224"
     y1="207"
-    x2="264"
+    x2="258"
     y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -67,9 +67,9 @@
 
 <line
     stroke-linecap="square"
-    x1="54"
+    x1="48"
     y1="207"
-    x2="88"
+    x2="82"
     y2="207"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -79,9 +79,9 @@
 
 <line
     stroke-linecap="square"
-    x1="54"
+    x1="48"
     y1="247"
-    x2="88"
+    x2="82"
     y2="247"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -91,9 +91,9 @@
 
 <line
     stroke-linecap="square"
-    x1="54"
+    x1="48"
     y1="87"
-    x2="88"
+    x2="82"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -103,9 +103,9 @@
 
 <line
     stroke-linecap="square"
-    x1="54"
+    x1="48"
     y1="127"
-    x2="88"
+    x2="82"
     y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -115,9 +115,9 @@
 
 <line
     stroke-linecap="square"
-    x1="54"
+    x1="48"
     y1="167"
-    x2="88"
+    x2="82"
     y2="167"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -129,64 +129,64 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="214" y="199" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="211" y="209" transform="rotate(0,211,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="208" y="199" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="205" y="209" transform="rotate(0,205,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 matOut
 </text>
 
-<use x="264" y="199" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="284" y="209" transform="rotate(0,284,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="258" y="199" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="278" y="209" transform="rotate(0,278,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 matOut1
 </text>
 
-<use x="38" y="199" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="34" y="209" transform="rotate(0,34,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="32" y="199" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="28" y="209" transform="rotate(0,28,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat1
 </text>
 
-<use x="88" y="199" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="107" y="209" transform="rotate(0,107,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="82" y="199" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="101" y="209" transform="rotate(0,101,209)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat1
 </text>
 
-<use x="38" y="239" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="34" y="249" transform="rotate(0,34,249)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="32" y="239" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="28" y="249" transform="rotate(0,28,249)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat2
 </text>
 
-<use x="88" y="239" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="107" y="249" transform="rotate(0,107,249)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="82" y="239" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="101" y="249" transform="rotate(0,101,249)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat2
 </text>
 
-<use x="38" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="34" y="89" transform="rotate(0,34,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="32" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="28" y="89" transform="rotate(0,28,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat3
 </text>
 
-<use x="88" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="107" y="89" transform="rotate(0,107,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="82" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="101" y="89" transform="rotate(0,101,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat3
 </text>
 
-<use x="38" y="119" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="34" y="129" transform="rotate(0,34,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="32" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="28" y="129" transform="rotate(0,28,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat4
 </text>
 
-<use x="88" y="119" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="107" y="129" transform="rotate(0,107,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="82" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="101" y="129" transform="rotate(0,101,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 mat4
 </text>
 
-<use x="38" y="159" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="34" y="169" transform="rotate(0,34,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-factor
+<use x="32" y="159" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="28" y="169" transform="rotate(0,28,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+mat5
 </text>
 
-<use x="88" y="159" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="107" y="169" transform="rotate(0,107,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-factor
+<use x="82" y="159" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="101" y="169" transform="rotate(0,101,169)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+mat5
 </text>
 
 
