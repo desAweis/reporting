@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: sub1 -->
-<g transform="translate(66 52)">
+<g transform="translate(66 127)">
     <rect
         data-name="tests.dist.twoCompCluster.sub1"
-        id="22"
+        id="23"
         width="48"
         height="55"
         style="
@@ -49,10 +49,10 @@
     sub1
     </text>
 </g><!-- Component: sub2 -->
-<g transform="translate(66 127)">
+<g transform="translate(66 52)">
     <rect
         data-name="tests.dist.twoCompCluster.sub2"
-        id="23"
+        id="22"
         width="48"
         height="55"
         style="
@@ -108,9 +108,9 @@
 </defs><line
     stroke-linecap="square"
     x1="122"
-    y1="87"
+    y1="162"
     x2="156"
-    y2="87"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -120,9 +120,9 @@
 <line
     stroke-linecap="square"
     x1="122"
-    y1="162"
+    y1="87"
     x2="156"
-    y2="162"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -133,23 +133,23 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="106" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="103" y="89" transform="rotate(0,103,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-
-</text>
-
-<use x="156" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="175" y="89" transform="rotate(0,175,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
-
-</text>
-
-<use x="106" y="154" xlink:href="#port" />
+</defs><use x="106" y="154" xlink:href="#port" />
 <text text-anchor="end" alignment-baseline="middle" x="103" y="164" transform="rotate(0,103,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
 <use x="156" y="154" xlink:href="#port" />
 <text text-anchor="start" alignment-baseline="middle" x="175" y="164" transform="rotate(0,175,164)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="106" y="79" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="103" y="89" transform="rotate(0,103,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+
+</text>
+
+<use x="156" y="79" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="175" y="89" transform="rotate(0,175,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 
 </text>
 
