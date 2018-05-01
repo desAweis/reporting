@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="387"
+        id="183"
         width="958"
         height="672"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -25,8 +25,8 @@
 </svg><!-- Component: isDriveToFirstPosition -->
 <g transform="translate(166 227)">
     <rect
-        data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.isDriveToFirstPosition"
-        id="388"
+        data-name="testing.subpackage9.myComponent9.calcMotionCmds.isDriveToFirstPosition"
+        id="184"
         width="180"
         height="230"
         style="
@@ -51,8 +51,8 @@
 </g><!-- Component: driveToFirstPosition -->
 <g transform="translate(496 52)">
     <rect
-        data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.driveToFirstPosition"
-        id="389"
+        data-name="testing.subpackage9.myComponent9.calcMotionCmds.driveToFirstPosition"
+        id="185"
         width="165"
         height="270"
         style="
@@ -77,8 +77,8 @@
 </g><!-- Component: d2v1 -->
 <g transform="translate(711 52)">
     <rect
-        data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.d2v1"
-        id="391"
+        data-name="testing.subpackage9.myComponent9.calcMotionCmds.d2v1"
+        id="187"
         width="48"
         height="135"
         style="
@@ -103,8 +103,8 @@
 </g><!-- Component: followTrajectory -->
 <g transform="translate(496 402)">
     <rect
-        data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.followTrajectory"
-        id="390"
+        data-name="testing.subpackage9.myComponent9.calcMotionCmds.followTrajectory"
+        id="186"
         width="165"
         height="270"
         style="
@@ -129,8 +129,8 @@
 </g><!-- Component: d2v2 -->
 <g transform="translate(711 537)">
     <rect
-        data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.d2v2"
-        id="392"
+        data-name="testing.subpackage9.myComponent9.calcMotionCmds.d2v2"
+        id="188"
         width="48"
         height="135"
         style="
@@ -155,8 +155,8 @@
 </g><!-- Component: selector -->
 <g transform="translate(849 52)">
     <rect
-        data-name="de.rwth.armin.modeling.autopilot.autopilot.behaviorGeneration.calcMotionCmds.selector"
-        id="393"
+        data-name="testing.subpackage9.myComponent9.calcMotionCmds.selector"
+        id="189"
         width="75"
         height="620"
         style="
