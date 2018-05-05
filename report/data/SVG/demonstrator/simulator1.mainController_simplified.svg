@@ -49,10 +49,10 @@
     steeringControl
     </text>
 </g><!-- Component: constantVelocity -->
-<g transform="translate(66 127)">
+<g transform="translate(66 202)">
     <rect
         data-name="simulator1.mainController.constantVelocity"
-        id="3"
+        id="4"
         width="135"
         height="55"
         style="
@@ -75,10 +75,10 @@
     constantVelocity
     </text>
 </g><!-- Component: trigger -->
-<g transform="translate(66 202)">
+<g transform="translate(66 127)">
     <rect
         data-name="simulator1.mainController.trigger"
-        id="4"
+        id="3"
         width="135"
         height="55"
         style="
@@ -108,9 +108,9 @@
 </defs><line
     stroke-linecap="square"
     x1="201"
-    y1="162"
+    y1="237"
     x2="251"
-    y2="162"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -132,9 +132,9 @@
 <line
     stroke-linecap="square"
     x1="201"
-    y1="237"
+    y1="162"
     x2="251"
-    y2="237"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -144,9 +144,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="162"
+    y1="237"
     x2="66"
-    y2="162"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -168,9 +168,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="237"
+    y1="162"
     x2="66"
-    y2="237"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
