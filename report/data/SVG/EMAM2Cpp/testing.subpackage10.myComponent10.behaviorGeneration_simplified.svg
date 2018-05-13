@@ -7,7 +7,7 @@
     <rect
         id="100"
         width="460"
-        height="162"
+        height="147"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
 
     <text
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: trimPath -->
-<g transform="translate(166 107)">
+<g transform="translate(166 52)">
     <rect
         data-name="testing.subpackage10.myComponent10.behaviorGeneration.trimPath"
-        id="101"
+        id="102"
         width="75"
         height="55"
         style="
@@ -52,9 +52,9 @@
 <g transform="translate(291 52)">
     <rect
         data-name="testing.subpackage10.myComponent10.behaviorGeneration.calcMotionCmds"
-        id="102"
+        id="103"
         width="135"
-        height="110"
+        height="95"
         style="
                 fill:rgb(242,242,242);
             stroke:black;
@@ -84,9 +84,9 @@
 </defs><line
     stroke-linecap="square"
     x1="426"
-    y1="87"
+    y1="127"
     x2="476"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -96,9 +96,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="127"
     x2="46"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -107,9 +107,9 @@
 <line
     stroke-linecap="square"
     x1="46"
-    y1="87"
+    y1="127"
     x2="46"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -118,9 +118,9 @@
 <line
     stroke-linecap="square"
     x1="46"
-    y1="87"
+    y1="127"
     x2="76"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -129,9 +129,21 @@
 <line
     stroke-linecap="square"
     x1="76"
-    y1="87"
+    y1="127"
     x2="76"
-    y2="142"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+"
+/>
+
+    <circle cx="76" cy="127" r="4" fill="black" />
+<line
+    stroke-linecap="square"
+    x1="76"
+    y1="87"
+    x2="136"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -140,22 +152,10 @@
     <circle cx="76" cy="87" r="4" fill="black" />
 <line
     stroke-linecap="square"
-    x1="76"
-    y1="142"
-    x2="136"
-    y2="142"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-"
-/>
-
-    <circle cx="76" cy="142" r="4" fill="black" />
-<line
-    stroke-linecap="square"
     x1="136"
-    y1="142"
+    y1="87"
     x2="136"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -164,9 +164,9 @@
 <line
     stroke-linecap="square"
     x1="136"
-    y1="142"
+    y1="87"
     x2="166"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -176,9 +176,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="127"
     x2="46"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -187,9 +187,9 @@
 <line
     stroke-linecap="square"
     x1="46"
-    y1="87"
+    y1="127"
     x2="46"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -198,21 +198,21 @@
 <line
     stroke-linecap="square"
     x1="46"
-    y1="87"
+    y1="127"
     x2="241"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
 
-    <circle cx="46" cy="87" r="4" fill="black" />
+    <circle cx="46" cy="127" r="4" fill="black" />
 <line
     stroke-linecap="square"
     x1="241"
-    y1="87"
+    y1="127"
     x2="241"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -221,9 +221,9 @@
 <line
     stroke-linecap="square"
     x1="241"
-    y1="87"
+    y1="127"
     x2="291"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -233,9 +233,9 @@
 <line
     stroke-linecap="square"
     x1="241"
-    y1="142"
+    y1="87"
     x2="291"
-    y2="142"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
