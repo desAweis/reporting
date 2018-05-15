@@ -5,7 +5,7 @@
 <g transform="translate(16 20)">
 
     <rect
-        id="183"
+        id="176"
         width="593"
         height="332"
         style="fill:white;stroke:black;stroke-width:2;fill-opacity:1.0;stroke-opacity:1.0"/>
@@ -23,10 +23,10 @@
 </g>
 
 </svg><!-- Component: keepDirection -->
-<g transform="translate(66 202)">
+<g transform="translate(66 127)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.keepDirection"
-        id="186"
+        id="178"
         width="144"
         height="55"
         style="
@@ -51,10 +51,10 @@
     keepDirection
     </text>
 </g><!-- Component: sac -->
-<g transform="translate(66 277)">
+<g transform="translate(66 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.sac"
-        id="187"
+        id="177"
         width="144"
         height="55"
         style="
@@ -77,10 +77,10 @@
     sac
     </text>
 </g><!-- Component: sum1 -->
-<g transform="translate(260 202)">
+<g transform="translate(260 52)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.sum1"
-        id="190"
+        id="180"
         width="120"
         height="130"
         style="
@@ -103,10 +103,10 @@
     sum1
     </text>
 </g><!-- Component: engineAndBrakes -->
-<g transform="translate(66 52)">
+<g transform="translate(66 202)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.engineAndBrakes"
-        id="185"
+        id="179"
         width="144"
         height="130"
         style="
@@ -131,10 +131,10 @@
     engineAndBrakes
     </text>
 </g><!-- Component: boundsSteering -->
-<g transform="translate(430 202)">
+<g transform="translate(430 127)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsSteering"
-        id="191"
+        id="183"
         width="129"
         height="55"
         style="
@@ -159,10 +159,10 @@
     boundsSteering
     </text>
 </g><!-- Component: boundsBrakes -->
-<g transform="translate(260 52)">
+<g transform="translate(260 277)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsBrakes"
-        id="188"
+        id="182"
         width="120"
         height="55"
         style="
@@ -187,10 +187,10 @@
     boundsBrakes
     </text>
 </g><!-- Component: boundsEngine -->
-<g transform="translate(260 127)">
+<g transform="translate(260 202)">
     <rect
         data-name="de.rwth.armin.modeling.autopilot.autopilot.motionPlanning.boundsEngine"
-        id="189"
+        id="181"
         width="120"
         height="55"
         style="
@@ -222,9 +222,9 @@
 </defs><line
     stroke-linecap="square"
     x1="380"
-    y1="162"
+    y1="237"
     x2="609"
-    y2="162"
+    y2="237"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -234,9 +234,9 @@
 <line
     stroke-linecap="square"
     x1="559"
-    y1="237"
+    y1="162"
     x2="609"
-    y2="237"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -246,8 +246,56 @@
 <line
     stroke-linecap="square"
     x1="380"
-    y1="87"
+    y1="312"
     x2="609"
+    y2="312"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="162"
+    x2="66"
+    y2="162"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="210"
+    y1="162"
+    x2="260"
+    y2="162"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="16"
+    y1="87"
+    x2="66"
+    y2="87"
+    style="stroke:rgb(0, 0,0);
+            stroke-width:2;
+                marker-end: url(#0,0,0)
+            "
+/>
+
+<line
+    stroke-linecap="square"
+    x1="210"
+    y1="87"
+    x2="260"
     y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
@@ -281,58 +329,10 @@
 
 <line
     stroke-linecap="square"
-    x1="16"
-    y1="312"
-    x2="66"
-    y2="312"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="210"
-    y1="312"
-    x2="260"
-    y2="312"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="16"
-    y1="162"
-    x2="66"
-    y2="162"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
-    x1="210"
-    y1="162"
-    x2="260"
-    y2="162"
-    style="stroke:rgb(0, 0,0);
-            stroke-width:2;
-                marker-end: url(#0,0,0)
-            "
-/>
-
-<line
-    stroke-linecap="square"
     x1="380"
-    y1="237"
+    y1="162"
     x2="430"
-    y2="237"
+    y2="162"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -342,9 +342,9 @@
 <line
     stroke-linecap="square"
     x1="210"
-    y1="87"
+    y1="312"
     x2="260"
-    y2="87"
+    y2="312"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)

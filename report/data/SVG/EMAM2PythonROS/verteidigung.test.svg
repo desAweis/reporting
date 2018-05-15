@@ -82,9 +82,9 @@
 </defs><line
     stroke-linecap="square"
     x1="488"
-    y1="87"
+    y1="127"
     x2="522"
-    y2="87"
+    y2="127"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -338,13 +338,13 @@
     <!-- Small box indicating a port -->
     <rect id="port" x="0" y="0" width="16" height="16"
           style="fill:white;stroke:rgb(0,0,0);stroke-width:1;fill-opacity:1.0;stroke-opacity:1.0"/>
-</defs><use x="472" y="79" xlink:href="#port" />
-<text text-anchor="end" alignment-baseline="middle" x="469" y="89" transform="rotate(0,469,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+</defs><use x="472" y="119" xlink:href="#port" />
+<text text-anchor="end" alignment-baseline="middle" x="469" y="129" transform="rotate(0,469,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 output
 </text>
 
-<use x="522" y="79" xlink:href="#port" />
-<text text-anchor="start" alignment-baseline="middle" x="542" y="89" transform="rotate(0,542,89)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
+<use x="522" y="119" xlink:href="#port" />
+<text text-anchor="start" alignment-baseline="middle" x="542" y="129" transform="rotate(0,542,129)" style="font-weight: regular" font-family="Verdana" font-size="9" fill="black">
 out1
 </text>
 

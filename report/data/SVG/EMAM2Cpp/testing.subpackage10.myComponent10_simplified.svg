@@ -49,12 +49,12 @@
     c2cd
     </text>
 </g><!-- Component: behaviorGeneration -->
-<g transform="translate(264 52)">
+<g transform="translate(264 107)">
     <rect
         data-name="testing.subpackage10.myComponent10.behaviorGeneration"
         id="3"
         width="162"
-        height="110"
+        height="95"
         style="
                 fill:rgb(242,242,242);
             stroke:black;
@@ -77,12 +77,12 @@
     behaviorGeneration
     </text>
 </g><!-- Component: motionPlanning -->
-<g transform="translate(476 107)">
+<g transform="translate(476 52)">
     <rect
         data-name="testing.subpackage10.myComponent10.motionPlanning"
         id="4"
         width="126"
-        height="135"
+        height="190"
         style="
                 fill:rgb(242,242,242);
             stroke:black;
@@ -136,9 +136,9 @@
 <line
     stroke-linecap="square"
     x1="16"
-    y1="87"
+    y1="182"
     x2="264"
-    y2="87"
+    y2="182"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
@@ -252,7 +252,7 @@
     x1="174"
     y1="142"
     x2="174"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -262,21 +262,21 @@
 <line
     stroke-linecap="square"
     x1="174"
-    y1="182"
+    y1="87"
     x2="426"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
 />
 
-    <circle cx="174" cy="182" r="4" fill="black" />
+    <circle cx="174" cy="87" r="4" fill="black" />
 <line
     stroke-linecap="square"
     x1="426"
-    y1="182"
+    y1="87"
     x2="426"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
 "
@@ -285,9 +285,9 @@
 <line
     stroke-linecap="square"
     x1="426"
-    y1="182"
+    y1="87"
     x2="476"
-    y2="182"
+    y2="87"
     style="stroke:rgb(0, 0,0);
             stroke-width:2;
                 marker-end: url(#0,0,0)
